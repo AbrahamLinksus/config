@@ -1,0 +1,8 @@
+2024-12-19 10:38:50.440 [error] Failed to check if file sync is enabled for user {}
+2024-12-19 10:38:50.440 [error] Failed to fetch fsConfig File sync is disabled
+2024-12-19 10:38:50.440 [error] Failed to fetch fsConfig File sync is disabled
+2024-12-19 10:38:50.663 [info] [registerEventListeners] Registering event listeners
+2024-12-19 10:38:52.321 [error] Failed to check if file sync is enabled for user {}
+2024-12-19 10:38:52.321 [error] Failed to fetch fsConfig File sync is disabled
+2024-12-19 10:38:52.321 [error] Failed to fetch fsConfig File sync is disabled
+2024-12-19 10:38:52.552 [info] [registerEventListeners] Registering event listeners

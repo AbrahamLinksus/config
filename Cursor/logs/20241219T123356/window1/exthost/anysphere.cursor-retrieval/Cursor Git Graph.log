@@ -1,0 +1,78 @@
+2024-12-19 12:34:01.684 [info] Using repo backend url https://repo42.cursor.sh
+2024-12-19 12:34:02.023 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/JakeRA/my_project/scheduling/test/scheduling_test.py
+2024-12-19 12:34:02.294 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/JakeRA/my_project/scheduling/test/scheduling_test.py
+2024-12-19 12:34:02.294 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/JakeRA/my_project/scheduling/test/scheduling_test.py
+2024-12-19 12:34:02.375 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/JakeRA/my_project/scheduling/test/scheduling_test.py
+2024-12-19 12:34:02.375 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/JakeRA/my_project/scheduling/test/scheduling_test.py
+2024-12-19 12:34:02.375 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/JakeRA/my_project/scheduling/test/scheduling_test.py
+2024-12-19 12:34:02.375 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/JakeRA/my_project/scheduling/test/scheduling_test.py
+2024-12-19 12:34:03.738 [info] Using repo backend url https://repo42.cursor.sh
+2024-12-19 12:34:03.997 [info] Git graph is enabled
+2024-12-19 12:34:03.997 [info] Creating indexer for repo /home/JakeRA/my_project/scheduling
+2024-12-19 12:34:05.430 [info] GitGraphIndexer initialized {"workspaceId":"gg_906d5017-638e-4b21-805e-3a8e8839b4a7","rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 12:34:11.240 [info] Starting graph population {"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 12:34:11.553 [info] Marked HEAD as pending {"headSha":"57d7c84cefe749665bdbdaa5ed79496f7d94cf02","rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 12:34:16.779 [info] Waiting before uploading commits, on request from server {"waitTimeMs":942.780029296875,"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 12:34:17.722 [info] No more pending commits. Waiting for 3 minutes before re-checking to see if the HEAD is updated. {"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 12:37:11.644 [info] Marked HEAD as pending {"headSha":"57d7c84cefe749665bdbdaa5ed79496f7d94cf02","rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 12:37:23.999 [info] Waiting before uploading commits, on request from server {"waitTimeMs":596.3770141601562,"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 12:37:24.597 [info] No more pending commits. Waiting for 3 minutes before re-checking to see if the HEAD is updated. {"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 12:40:11.593 [info] Marked HEAD as pending {"headSha":"57d7c84cefe749665bdbdaa5ed79496f7d94cf02","rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 12:40:30.026 [info] Waiting before uploading commits, on request from server {"waitTimeMs":634.3802490234375,"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 12:40:30.661 [info] No more pending commits. Waiting for 3 minutes before re-checking to see if the HEAD is updated. {"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 12:43:11.613 [info] Marked HEAD as pending {"headSha":"57d7c84cefe749665bdbdaa5ed79496f7d94cf02","rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 12:43:35.984 [info] Waiting before uploading commits, on request from server {"waitTimeMs":534.1288452148438,"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 12:43:36.520 [info] No more pending commits. Waiting for 3 minutes before re-checking to see if the HEAD is updated. {"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 12:46:11.630 [info] Marked HEAD as pending {"headSha":"57d7c84cefe749665bdbdaa5ed79496f7d94cf02","rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 12:46:42.043 [info] Waiting before uploading commits, on request from server {"waitTimeMs":681.5341186523438,"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 12:46:42.725 [info] No more pending commits. Waiting for 3 minutes before re-checking to see if the HEAD is updated. {"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 12:46:57.849 [info] Getting related files {"relativePath":"app/contracts.py"}
+2024-12-19 12:46:57.849 [info] Getting related files of encrypted relative path {"encryptedRelativePath":"q2DoUtFTGuBxUA/WkGxKDsHP64F-V9_4fp3jTc5.3Y7bu9kf0q8RPA"}
+2024-12-19 12:48:26.058 [info] Getting related files {"relativePath":"test/scheduling_test.py"}
+2024-12-19 12:48:26.058 [info] Getting related files of encrypted relative path {"encryptedRelativePath":"KMBHLLC6sYQDNA/bFxusEYatILcDa9-1LF-FtyvXFBHbg.3Y7bu9kf0q8RPA"}
+2024-12-19 12:49:11.646 [info] Marked HEAD as pending {"headSha":"57d7c84cefe749665bdbdaa5ed79496f7d94cf02","rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 12:49:48.205 [info] Waiting before uploading commits, on request from server {"waitTimeMs":559.2855224609375,"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 12:49:48.765 [info] No more pending commits. Waiting for 3 minutes before re-checking to see if the HEAD is updated. {"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 12:52:11.667 [info] Marked HEAD as pending {"headSha":"57d7c84cefe749665bdbdaa5ed79496f7d94cf02","rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 12:52:54.368 [info] Waiting before uploading commits, on request from server {"waitTimeMs":527.3911743164062,"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 12:52:54.896 [info] No more pending commits. Waiting for 3 minutes before re-checking to see if the HEAD is updated. {"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 12:55:11.686 [info] Marked HEAD as pending {"headSha":"57d7c84cefe749665bdbdaa5ed79496f7d94cf02","rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 12:56:00.217 [info] Waiting before uploading commits, on request from server {"waitTimeMs":502.760498046875,"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 12:56:00.720 [info] No more pending commits. Waiting for 3 minutes before re-checking to see if the HEAD is updated. {"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 12:58:11.702 [info] Marked HEAD as pending {"headSha":"57d7c84cefe749665bdbdaa5ed79496f7d94cf02","rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 12:59:06.071 [info] Waiting before uploading commits, on request from server {"waitTimeMs":684.0216674804688,"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 12:59:06.756 [info] No more pending commits. Waiting for 3 minutes before re-checking to see if the HEAD is updated. {"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 16:07:59.441 [error] Error marking HEAD as pending {"error":"[unavailable] read ETIMEDOUT","rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 16:07:59.441 [error] Error in populate graph loop {"error":"[unavailable] read ETIMEDOUT","numConsecutiveFailures":1,"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 16:07:59.441 [error] Error marking HEAD as pending {"error":"[unavailable] read ETIMEDOUT","rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 16:07:59.441 [error] Error marking HEAD as pending {"error":"[unavailable] read ETIMEDOUT","rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 16:07:59.441 [error] Error marking HEAD as pending {"error":"[unavailable] read ETIMEDOUT","rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 16:07:59.441 [error] Error marking HEAD as pending {"error":"[unavailable] read ETIMEDOUT","rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 16:07:59.441 [error] Error marking HEAD as pending {"error":"[unavailable] read ETIMEDOUT","rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 16:07:59.441 [error] Failed to check if git graph is enabled [unavailable] read ETIMEDOUT
+2024-12-19 16:07:59.441 [error] Failed to check if git graph is enabled [unavailable] read ETIMEDOUT
+2024-12-19 16:07:59.441 [error] Failed to check if git graph is enabled [unavailable] read ETIMEDOUT
+2024-12-19 16:08:06.277 [info] Waiting before uploading commits, on request from server {"waitTimeMs":712.8995971679688,"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 16:08:06.991 [info] No more pending commits. Waiting for 3 minutes before re-checking to see if the HEAD is updated. {"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 16:08:36.074 [info] Marked HEAD as pending {"headSha":"57d7c84cefe749665bdbdaa5ed79496f7d94cf02","rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 16:11:12.439 [info] Waiting before uploading commits, on request from server {"waitTimeMs":945.9281616210938,"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 16:11:13.386 [info] No more pending commits. Waiting for 3 minutes before re-checking to see if the HEAD is updated. {"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 16:11:36.094 [info] Marked HEAD as pending {"headSha":"57d7c84cefe749665bdbdaa5ed79496f7d94cf02","rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 16:14:18.907 [info] Waiting before uploading commits, on request from server {"waitTimeMs":831.0177001953125,"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 16:14:19.741 [info] No more pending commits. Waiting for 3 minutes before re-checking to see if the HEAD is updated. {"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 16:14:36.042 [info] Marked HEAD as pending {"headSha":"57d7c84cefe749665bdbdaa5ed79496f7d94cf02","rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 16:17:25.035 [info] Waiting before uploading commits, on request from server {"waitTimeMs":990.4308471679688,"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 16:17:26.025 [info] No more pending commits. Waiting for 3 minutes before re-checking to see if the HEAD is updated. {"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 16:17:35.924 [info] Marked HEAD as pending {"headSha":"57d7c84cefe749665bdbdaa5ed79496f7d94cf02","rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 16:20:31.539 [info] Waiting before uploading commits, on request from server {"waitTimeMs":513.432861328125,"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 16:20:32.052 [info] No more pending commits. Waiting for 3 minutes before re-checking to see if the HEAD is updated. {"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 16:20:35.924 [info] Marked HEAD as pending {"headSha":"57d7c84cefe749665bdbdaa5ed79496f7d94cf02","rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 16:23:36.164 [info] Marked HEAD as pending {"headSha":"57d7c84cefe749665bdbdaa5ed79496f7d94cf02","rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 16:23:37.394 [info] Waiting before uploading commits, on request from server {"waitTimeMs":925.6237182617188,"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 16:23:38.321 [info] No more pending commits. Waiting for 3 minutes before re-checking to see if the HEAD is updated. {"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 16:26:36.182 [info] Marked HEAD as pending {"headSha":"57d7c84cefe749665bdbdaa5ed79496f7d94cf02","rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 16:26:43.863 [info] Waiting before uploading commits, on request from server {"waitTimeMs":999.8258056640625,"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 16:26:44.864 [info] No more pending commits. Waiting for 3 minutes before re-checking to see if the HEAD is updated. {"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 16:29:36.200 [info] Marked HEAD as pending {"headSha":"57d7c84cefe749665bdbdaa5ed79496f7d94cf02","rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 16:29:50.333 [info] Waiting before uploading commits, on request from server {"waitTimeMs":531.3945922851562,"rootUri":"/home/JakeRA/my_project/scheduling"}
+2024-12-19 16:29:50.865 [info] No more pending commits. Waiting for 3 minutes before re-checking to see if the HEAD is updated. {"rootUri":"/home/JakeRA/my_project/scheduling"}

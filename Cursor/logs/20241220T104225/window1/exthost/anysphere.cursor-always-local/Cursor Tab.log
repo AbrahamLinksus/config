@@ -1,0 +1,19 @@
+2024-12-20 10:42:30.326 [info] CURSOR LOG: Finished creating provider!
+2024-12-20 10:49:09.462 [info] CURSOR LOG: requestId ff814068-ab25-421e-a5b0-8fdb147a3c8b  
+2024-12-20 10:49:10.332 [info] CURSOR LOG: Done streaming cpp with id ff814068-ab25-421e-a5b0-8fdb147a3c8b
+2024-12-20 10:49:10.332 [info] CPP RT LOG: Time taken for streaming cpp 875.067138671875 with request ff814068-ab25-421e-a5b0-8fdb147a3c8b
+2024-12-20 10:49:10.332 [info] CPP Request Log with id ff814068-ab25-421e-a5b0-8fdb147a3c8b
+2024-12-20 10:49:10.332 [info] =======>Model output 
+        "start_date": start_date,
+        "recipients": [111, 222, 333, 444]  # 4 recipients but only 2 capacity per day
+    }
+    input = ScheduleInput.model_validate(data)
+    output = Scheduler(service).schedule(input)
+2024-12-20 10:49:10.332 [info] =======>Debug stream time 339.77255199989304
+2024-12-20 10:49:10.332 [info] =======>Debug ttft time 160.44304199982435
+2024-12-20 10:49:10.334 [info] Average of latest 20 ttft time 160.44304199982435
+2024-12-20 10:49:10.334 [info] Average of latest 20 stream time 339.77255199989304
+2024-12-20 10:49:10.334 [info] Average of latest 20 total time NaN
+2024-12-20 10:49:10.334 [info] Average of latest 20 client time 875.067138671875
+2024-12-20 10:49:10.334 [info] Average of latest 20 discrepencies NaN
+2024-12-20 10:49:10.334 [info] CPP RT LOG: All stats {"streamingtime":875.067138671875,"actualTtftFromStart":933.771484375,"timeTillServerRequest":59.505615234375,"requestToTtft":874.265869140625,"totalTime":934.482177734375}

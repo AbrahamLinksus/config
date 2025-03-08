@@ -1,0 +1,40 @@
+2024-12-19 12:33:57.901 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-19 12:33:57.901 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-19 12:33:57.901 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-19 12:33:57.936 [warning] Missing property "isAgentModeSticky" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2024-12-19 12:33:57.936 [warning] Missing property "explicitEnableOrDisable" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2024-12-19 12:33:57.936 [warning] Missing property "lastBackgroundBugbotAt" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2024-12-19 12:33:58.354 [info] Started local extension host with pid 45985.
+2024-12-19 12:33:59.109 [error] No commit search provider registered: Error: No commit search provider registered
+    at b.searchAllCommits (vscode-file://vscode-app/tmp/.mount_cursorigAcHc/resources/app/out/vs/workbench/workbench.desktop.main.js:2462:13707)
+    at vscode-file://vscode-app/tmp/.mount_cursorigAcHc/resources/app/out/vs/workbench/workbench.desktop.main.js:4344:32026
+2024-12-19 12:33:59.186 [error] Unable to read file '/home/JakeRA/my_project/scheduling/app/visualization.py' (Error: Unable to resolve nonexistent file '/home/JakeRA/my_project/scheduling/app/visualization.py'): Error: Unable to read file '/home/JakeRA/my_project/scheduling/app/visualization.py' (Error: Unable to resolve nonexistent file '/home/JakeRA/my_project/scheduling/app/visualization.py')
+    at l.F (vscode-file://vscode-app/tmp/.mount_cursorigAcHc/resources/app/out/vs/workbench/workbench.desktop.main.js:1141:25390)
+    at l.C (vscode-file://vscode-app/tmp/.mount_cursorigAcHc/resources/app/out/vs/workbench/workbench.desktop.main.js:1141:25183)
+    at async w.M (vscode-file://vscode-app/tmp/.mount_cursorigAcHc/resources/app/out/vs/workbench/workbench.desktop.main.js:3125:35660)
+    at async w.readStream (vscode-file://vscode-app/tmp/.mount_cursorigAcHc/resources/app/out/vs/workbench/workbench.desktop.main.js:3125:35417)
+    at async L.Db (vscode-file://vscode-app/tmp/.mount_cursorigAcHc/resources/app/out/vs/workbench/workbench.desktop.main.js:3114:11316)
+    at async L.resolve (vscode-file://vscode-app/tmp/.mount_cursorigAcHc/resources/app/out/vs/workbench/workbench.desktop.main.js:3114:9728)
+    at async s.W (vscode-file://vscode-app/tmp/.mount_cursorigAcHc/resources/app/out/vs/workbench/workbench.desktop.main.js:3125:31721)
+    at async r (vscode-file://vscode-app/tmp/.mount_cursorigAcHc/resources/app/out/vs/workbench/workbench.desktop.main.js:3114:24455)
+2024-12-19 12:33:59.186 [error] Unable to read file '/home/JakeRA/my_project/scheduling/test/test_visualization.py' (Error: Unable to resolve nonexistent file '/home/JakeRA/my_project/scheduling/test/test_visualization.py'): Error: Unable to read file '/home/JakeRA/my_project/scheduling/test/test_visualization.py' (Error: Unable to resolve nonexistent file '/home/JakeRA/my_project/scheduling/test/test_visualization.py')
+    at l.F (vscode-file://vscode-app/tmp/.mount_cursorigAcHc/resources/app/out/vs/workbench/workbench.desktop.main.js:1141:25390)
+    at l.C (vscode-file://vscode-app/tmp/.mount_cursorigAcHc/resources/app/out/vs/workbench/workbench.desktop.main.js:1141:25183)
+    at async w.M (vscode-file://vscode-app/tmp/.mount_cursorigAcHc/resources/app/out/vs/workbench/workbench.desktop.main.js:3125:35660)
+    at async w.readStream (vscode-file://vscode-app/tmp/.mount_cursorigAcHc/resources/app/out/vs/workbench/workbench.desktop.main.js:3125:35417)
+    at async L.Db (vscode-file://vscode-app/tmp/.mount_cursorigAcHc/resources/app/out/vs/workbench/workbench.desktop.main.js:3114:11316)
+    at async L.resolve (vscode-file://vscode-app/tmp/.mount_cursorigAcHc/resources/app/out/vs/workbench/workbench.desktop.main.js:3114:9728)
+    at async s.W (vscode-file://vscode-app/tmp/.mount_cursorigAcHc/resources/app/out/vs/workbench/workbench.desktop.main.js:3125:31721)
+    at async r (vscode-file://vscode-app/tmp/.mount_cursorigAcHc/resources/app/out/vs/workbench/workbench.desktop.main.js:3114:24455)
+2024-12-19 12:33:59.394 [error] Extension 'ms-python.python' wants API proposal 'terminalShellIntegration' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-19 12:33:59.411 [warning] [ms-python.vscode-pylance]: Cannot register 'python.analysis.autoImportCompletions'. This property is already registered.
+2024-12-19 12:33:59.412 [warning] [ms-python.vscode-pylance]: Cannot register 'python.analysis.autoSearchPaths'. This property is already registered.
+2024-12-19 12:33:59.412 [warning] [ms-python.vscode-pylance]: Cannot register 'python.analysis.stubPath'. This property is already registered.
+2024-12-19 12:33:59.412 [warning] [ms-python.vscode-pylance]: Cannot register 'python.analysis.diagnosticMode'. This property is already registered.
+2024-12-19 12:33:59.412 [warning] [ms-python.vscode-pylance]: Cannot register 'python.analysis.extraPaths'. This property is already registered.
+2024-12-19 12:33:59.412 [warning] [ms-python.vscode-pylance]: Cannot register 'python.analysis.useLibraryCodeForTypes'. This property is already registered.
+2024-12-19 12:33:59.412 [warning] [ms-python.vscode-pylance]: Cannot register 'python.analysis.typeCheckingMode'. This property is already registered.
+2024-12-19 12:33:59.412 [warning] [ms-python.vscode-pylance]: Cannot register 'python.analysis.diagnosticSeverityOverrides'. This property is already registered.
+2024-12-19 12:33:59.412 [warning] [ms-python.vscode-pylance]: Cannot register 'python.analysis.logLevel'. This property is already registered.
+2024-12-19 12:33:59.412 [warning] [ms-python.vscode-pylance]: Cannot register 'python.analysis.typeshedPaths'. This property is already registered.
+2024-12-19 12:34:01.638 [info] [perf] Render performance baseline is 17ms

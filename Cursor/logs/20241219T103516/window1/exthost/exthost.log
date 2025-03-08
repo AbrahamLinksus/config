@@ -1,0 +1,4 @@
+2024-12-19 10:35:19.402 [info] Extension host with pid 7005 started
+2024-12-19 10:35:19.402 [info] Skipping acquiring lock for /home/JakeRA/.config/Cursor/User/workspaceStorage/793d94642de91cdbcc6cce7fe8ce2fd2.
+2024-12-19 10:35:19.421 [info] Extension host terminating: renderer closed the MessagePort
+2024-12-19 10:35:19.423 [info] Extension host with pid 7005 exiting with code 0

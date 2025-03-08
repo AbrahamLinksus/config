@@ -1,0 +1,65 @@
+/* Reset default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: bisque;
+}
+
+/* Navigation Bar Styling */
+.section-nav {
+    background-color: #333;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+}
+
+/* Title Styling */
+.section-nav p {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+/* Navigation Links */
+.section-nav ul {
+    list-style: none;
+    display: flex;
+}
+
+.section-nav ul li {
+    margin-left: 20px;
+}
+
+.section-nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    transition: 0.3s;
+}
+
+.section-nav ul li a:hover {
+    color: black;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    .section-nav {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .section-nav ul {
+        flex-direction: column;
+        margin-top: 10px;
+    }
+
+    .section-nav ul li {
+        margin: 5px 0;
+    }
+}

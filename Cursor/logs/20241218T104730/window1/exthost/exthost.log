@@ -1,0 +1,20 @@
+2024-12-18 10:47:34.284 [info] Extension host with pid 53152 started
+2024-12-18 10:47:34.284 [info] Skipping acquiring lock for /home/JakeRA/.config/Cursor/User/workspaceStorage/793d94642de91cdbcc6cce7fe8ce2fd2.
+2024-12-18 10:47:34.405 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-18 10:47:34.424 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'onCommand:git.api.getRepositories', root cause: vscode.git
+2024-12-18 10:47:34.430 [info] ExtensionService#_doActivateExtension anysphere.pyright, startup: false, activationEvent: 'onLanguage:python'
+2024-12-18 10:47:34.431 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-12-18 10:47:34.468 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2024-12-18 10:47:34.683 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'onCommand:git.api.getRepositories'
+2024-12-18 10:47:34.733 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-12-18 10:47:34.756 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2024-12-18 10:47:34.824 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-12-18 10:47:34.834 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-12-18 10:47:35.053 [info] Eager extensions activated
+2024-12-18 10:47:35.060 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-12-18 10:47:35.082 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2024-12-18 10:47:35.247 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2024-12-18 10:47:35.517 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2024-12-18 10:47:35.551 [info] ExtensionService#_doActivateExtension anysphere.cursor-tokenize, startup: false, activationEvent: 'onStartupFinished'
+2024-12-18 10:47:35.679 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-18 10:47:35.682 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

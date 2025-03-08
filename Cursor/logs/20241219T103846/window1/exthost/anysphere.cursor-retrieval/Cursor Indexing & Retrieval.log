@@ -1,0 +1,17 @@
+2024-12-19 10:38:50.440 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2024-12-19 10:38:50.646 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2024-12-19 10:38:50.659 [info] Creating merkle client.
+2024-12-19 10:38:50.659 [info] Done creating merkle client.
+2024-12-19 10:38:50.659 [info] Doing a startup handshake.
+2024-12-19 10:38:50.680 [info] Finished initializing merkle tree in 13.506971000000249 ms.
+2024-12-19 10:38:50.681 [info] Doing the initial handshake with hash: fbb2ae0d0e1fcc58e00d19a749f3ab13cecfb79fdfb68d28603352dac590b557
+2024-12-19 10:38:50.683 [info] Handshake start
+2024-12-19 10:38:52.321 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2024-12-19 10:38:52.523 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2024-12-19 10:38:52.526 [info] Creating merkle client.
+2024-12-19 10:38:52.526 [info] Done creating merkle client.
+2024-12-19 10:38:52.526 [info] Doing a startup handshake.
+2024-12-19 10:38:52.533 [info] Finished initializing merkle tree in 3.4724559999999656 ms.
+2024-12-19 10:38:52.534 [info] Doing the initial handshake with hash: fbb2ae0d0e1fcc58e00d19a749f3ab13cecfb79fdfb68d28603352dac590b557
+2024-12-19 10:38:52.537 [info] Handshake start
+2024-12-19 10:38:52.739 [info] Indexing job successfully done or aborted.

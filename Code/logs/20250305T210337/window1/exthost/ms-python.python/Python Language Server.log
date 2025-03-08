@@ -1,0 +1,14 @@
+2025-03-05 21:03:43.131 [info] (Client) Pylance async client (2025.2.1) started with python extension (2025.0.0)
+2025-03-05 21:03:43.545 [info] [Info  - 9:03:43 PM] (48676) Server root directory: file:///home/JakeRA/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-03-05 21:03:43.545 [info] [Info  - 9:03:43 PM] (48676) Pylance language server 2025.2.1 (pyright version 1.1.393, commit 3763156f) starting
+2025-03-05 21:03:43.549 [info] [Info  - 9:03:43 PM] (48676) Starting service instance "Resume_Shortlisting"
+2025-03-05 21:03:43.581 [info] [Info  - 9:03:43 PM] (48676) Loading pyproject.toml file at /home/JakeRA/my_project/Resume_Shortlisting/pyproject.toml
+2025-03-05 21:03:43.582 [info] [Info  - 9:03:43 PM] (48676) Pyproject file "/home/JakeRA/my_project/Resume_Shortlisting/pyproject.toml" has no "[tool.pyright]" section.
+2025-03-05 21:03:43.582 [info] [Info  - 9:03:43 PM] (48676) Setting environmentName for service "Resume_Shortlisting": "3.13.1 (.venv venv)"
+2025-03-05 21:03:43.582 [info] [Info  - 9:03:43 PM] (48676) Setting pythonPath for service "Resume_Shortlisting": "/home/JakeRA/my_project/Resume_Shortlisting/.venv/bin/python"
+2025-03-05 21:03:43.582 [info] [Info  - 9:03:43 PM] (48676) No include entries specified; assuming /home/JakeRA/my_project/Resume_Shortlisting
+2025-03-05 21:03:43.583 [info] [Info  - 9:03:43 PM] (48676) Auto-excluding **/node_modules
+2025-03-05 21:03:43.583 [info] [Info  - 9:03:43 PM] (48676) Auto-excluding **/__pycache__
+2025-03-05 21:03:43.583 [info] [Info  - 9:03:43 PM] (48676) Auto-excluding **/.*
+2025-03-05 21:03:43.620 [info] [Info  - 9:03:43 PM] (48676) Assuming Python version 3.13.1.final.0
+2025-03-05 21:03:43.673 [info] [Info  - 9:03:43 PM] (48676) Found 3 source files

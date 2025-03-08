@@ -1,0 +1,23 @@
+p {
+    color: #ffffff    ;
+    font-size: 20px;
+    font-style: italic;
+
+}
+h1 {
+    font-size: 30px;
+    text-align: center;
+    color: #ffffff ;
+}
+#hash1 {
+    color: #ffffff ;
+    font-style: italic;
+}
+body{
+    margin:10px auto;
+    padding:0 20px 20px 20px;
+
+}
+html{
+    background-color: #000000;
+}

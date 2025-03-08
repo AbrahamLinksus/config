@@ -1,0 +1,15 @@
+2024-12-19 10:31:03.898 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2024-12-19 10:31:04.126 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2024-12-19 10:31:04.132 [info] Creating merkle client.
+2024-12-19 10:31:04.132 [info] Done creating merkle client.
+2024-12-19 10:31:04.132 [info] Doing a startup handshake.
+2024-12-19 10:31:04.159 [info] Finished initializing merkle tree in 14.851701999999932 ms.
+2024-12-19 10:31:04.160 [info] Doing the initial handshake with hash: 2b557f6319f1dfbd8bb2522b35c6405add8d303e6ec5383ab9a5dd5bf94bbe0e
+2024-12-19 10:31:04.162 [info] Handshake start
+2024-12-19 10:31:04.983 [info] Handshake timing: 823.1909820000001
+2024-12-19 10:31:04.984 [info] Handshake result: {"status":"STATUS_UP_TO_DATE","repoName":"8e9d6e9b-e5aa-4862-a7f7-5715b4589a04"}
+2024-12-19 10:31:04.984 [info] Starting fast remote sync.
+2024-12-19 10:31:04.985 [info] Total num embeddable files: 9
+2024-12-19 10:31:04.985 [info] Root hash: 2b557f6319f1dfbd8bb2522b35c6405add8d303e6ec5383ab9a5dd5bf94bbe0e
+2024-12-19 10:31:04.985 [info] Finished indexing repository.
+2024-12-19 10:31:04.985 [info] Indexing job successfully done or aborted.

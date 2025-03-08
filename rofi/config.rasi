@@ -1,0 +1,15 @@
+configuration {
+    font: "Monospace 10";
+    show-icons: true;
+    lines: 10;
+}
+
+* {
+    background: #282a36;
+    foreground: #f8f8f2;
+    border: 2px solid ;
+}
+
+window {
+    padding: 10px;
+}

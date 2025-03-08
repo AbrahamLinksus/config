@@ -1,0 +1,6 @@
+2024-12-20 14:01:36.997 [info] update#setState disabled
+2024-12-20 14:01:37.003 [info] update#ctor - updates are disabled as there is no update URL
+2024-12-20 14:01:38.401 [error] vscode-file: Refused to load resource /tmp/.mount_cursoraU3edB/resources/app/extensions/theme-seti/icons/seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/tmp/.mount_cursoraU3edB/resources/app/extensions/theme-seti/icons/seti.woff)
+2024-12-20 16:39:11.529 [warning] No ptyHost heartbeat after 6 seconds
+2024-12-20 21:13:21.692 [info] Extension host with pid 39774 exited with code: 0, signal: unknown.
+2024-12-20 21:13:21.712 [error] Blocked vscode-file request vscode-file://vscode-app/tmp/.mount_cursorZD83Wp/resources/app/out/vs/base/worker/workerMain.js#TextEditorWorker

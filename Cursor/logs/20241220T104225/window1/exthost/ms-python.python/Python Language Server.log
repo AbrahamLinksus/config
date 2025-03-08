@@ -1,0 +1,21 @@
+2024-12-20 10:42:30.687 [info] (Client) Pylance async client (2024.8.1) started with python extension (2024.12.3)
+2024-12-20 10:42:31.049 [info] [Info  - 10:42:31 AM] (2492) Pylance language server 2024.8.1 (pyright version 1.1.373, commit ee424479) starting
+2024-12-20 10:42:31.049 [info] [Info  - 10:42:31 AM] (2492) Server root directory: file:///home/JakeRA/.cursor/extensions/ms-python.vscode-pylance-2024.8.1/dist
+2024-12-20 10:42:31.052 [info] [Info  - 10:42:31 AM] (2492) Starting service instance "scheduling"
+2024-12-20 10:42:31.071 [info] [Info  - 10:42:31 AM] (2492) Setting pythonPath for service "scheduling": "/home/JakeRA/.cache/pypoetry/virtualenvs/scheduling-6NlzEeh5-py3.12/bin/python"
+2024-12-20 10:42:31.071 [info] [Info  - 10:42:31 AM] (2492) Setting environmentName for service "scheduling": "3.12.3 (scheduling-6NlzEeh5-py3.12 venv)"
+2024-12-20 10:42:31.071 [info] [Info  - 10:42:31 AM] (2492) Loading pyproject.toml file at /home/JakeRA/my_project/scheduling/pyproject.toml
+2024-12-20 10:42:31.072 [info] [Info  - 10:42:31 AM] (2492) Pyproject file "/home/JakeRA/my_project/scheduling/pyproject.toml" has no "[tool.pyright]" section.
+2024-12-20 10:42:31.072 [info] [Info  - 10:42:31 AM] (2492) No include entries specified; assuming /home/JakeRA/my_project/scheduling
+2024-12-20 10:42:31.072 [info] [Info  - 10:42:31 AM] (2492) Auto-excluding **/node_modules
+2024-12-20 10:42:31.072 [info] [Info  - 10:42:31 AM] (2492) Auto-excluding **/__pycache__
+2024-12-20 10:42:31.073 [info] [Info  - 10:42:31 AM] (2492) Auto-excluding **/.*
+2024-12-20 10:42:31.092 [info] [Info  - 10:42:31 AM] (2492) Assuming Python version 3.12.3.final.0
+2024-12-20 10:42:31.151 [info] [Info  - 10:42:31 AM] (2492) Found 6 source files
+2024-12-20 10:42:31.391 [info] [Info  - 10:42:31 AM] (2492) Background analysis(1) root directory: file:///home/JakeRA/.cursor/extensions/ms-python.vscode-pylance-2024.8.1/dist
+2024-12-20 10:42:31.393 [info] [Info  - 10:42:31 AM] (2492) Background analysis(1) started
+2024-12-20 10:42:31.499 [info] [Info  - 10:42:31 AM] (2492) Indexer background runner(2) root directory: file:///home/JakeRA/.cursor/extensions/ms-python.vscode-pylance-2024.8.1/dist (index)
+2024-12-20 10:42:31.499 [info] [Info  - 10:42:31 AM] (2492) Indexing(2) started
+2024-12-20 10:42:31.726 [info] [Info  - 10:42:31 AM] (2492) scanned(2) 25 files over 1 exec env
+2024-12-20 10:42:31.835 [info] [Info  - 10:42:31 AM] (2492) indexed(2) 15 files over 1 exec env
+2024-12-20 10:42:31.848 [info] [Info  - 10:42:31 AM] (2492) Indexing finished(2).

@@ -1,0 +1,18 @@
+2025-03-04 16:03:51.969 [info] Started local extension host with pid 27743.
+2025-03-04 16:03:52.076 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.252.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-04 16:03:52.076 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.253.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-04 16:03:52.076 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.270.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-04 16:03:52.077 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.266.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-04 16:03:52.077 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.271.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-04 16:03:52.077 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.272.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-04 16:03:52.077 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.275.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-04 16:03:52.123 [error] [/home/JakeRA/.vscode/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-04 16:03:52.126 [error] [/home/JakeRA/.vscode/extensions/ms-toolsai.jupyter-2025.1.0-linux-x64]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-04 16:03:52.567 [info] Settings Sync: Updating due to initialize
+2025-03-04 16:03:52.567 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2025-03-04 16:03:52.567 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2025-03-04 16:03:54.706 [info] [perf] Render performance baseline is 22ms
+2025-03-04 16:04:22.527 [error] Cannot read the extension from /home/JakeRA/.vscode/extensions/github.copilot-1.275.0: ScanningExtension: Cannot read the extension from /home/JakeRA/.vscode/extensions/github.copilot-1.275.0
+    at Kl.scanLocalExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:73160)
+2025-03-04 16:04:22.702 [error] Cannot read the extension from /home/JakeRA/.vscode/extensions/ms-toolsai.jupyter-2025.1.0-linux-x64: ScanningExtension: Cannot read the extension from /home/JakeRA/.vscode/extensions/ms-toolsai.jupyter-2025.1.0-linux-x64
+    at Kl.scanLocalExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:73160)

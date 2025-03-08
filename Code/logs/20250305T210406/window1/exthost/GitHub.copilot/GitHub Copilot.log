@@ -1,0 +1,56 @@
+2025-03-05 21:04:10.356 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/JakeRA/.vscode/extensions/github.copilot-1.250.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at Jne.removeExpiredCertificates (/home/JakeRA/.vscode/extensions/github.copilot-1.250.0/lib/src/network/certificateReaders.ts:77:32)
+    at Jne.getAllRootCAs (/home/JakeRA/.vscode/extensions/github.copilot-1.250.0/lib/src/network/certificateReaders.ts:68:38)
+    at Mue.createSecureContext (/home/JakeRA/.vscode/extensions/github.copilot-1.250.0/lib/src/network/certificates.ts:46:23) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE'
+}
+2025-03-05 21:04:10.356 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/JakeRA/.vscode/extensions/github.copilot-1.250.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at Jne.removeExpiredCertificates (/home/JakeRA/.vscode/extensions/github.copilot-1.250.0/lib/src/network/certificateReaders.ts:77:32)
+    at Jne.getAllRootCAs (/home/JakeRA/.vscode/extensions/github.copilot-1.250.0/lib/src/network/certificateReaders.ts:68:38)
+    at Mue.createSecureContext (/home/JakeRA/.vscode/extensions/github.copilot-1.250.0/lib/src/network/certificates.ts:46:23) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE'
+}
+2025-03-05 21:04:10.356 [info] [certificates] Removed 2 expired certificates
+2025-03-05 21:04:10.960 [info] [fetcher] Using Helix fetcher.
+2025-03-05 21:04:10.960 [info] [code-referencing] Public code references are enabled.
+2025-03-05 21:04:12.464 [warning] [relatedFiles] unknown language html
+2025-03-05 21:04:27.394 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 1045 ms
+2025-03-05 21:04:27.399 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-03-05 21:04:27.400 [info] [streamChoices] request done: headerRequestId: [0e318895-644d-40ab-ab8c-92a36886a629] model deployment ID: [d260-20250305113051]
+2025-03-05 21:04:46.088 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 628 ms
+2025-03-05 21:04:46.093 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-03-05 21:04:46.097 [info] [streamChoices] request done: headerRequestId: [a6c38bcc-70eb-4316-8433-5946a3f9d1cc] model deployment ID: [d241-20250201084729]
+2025-03-05 21:13:06.651 [warning] [relatedFiles] unknown language css
+2025-03-05 21:29:15.904 [info] [fetcher] Using Helix fetcher.
+2025-03-05 21:29:15.904 [info] [code-referencing] Public code references are enabled.
+2025-03-05 21:54:30.923 [error] [default] Error sending telemetry FetchError: The pending stream has been canceled (caused by: getaddrinfo EAI_AGAIN telemetry.individual.githubcopilot.com)
+    at fetch (/home/JakeRA/.vscode/extensions/github.copilot-1.250.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/JakeRA/.vscode/extensions/github.copilot-1.250.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at zue.fetch (/home/JakeRA/.vscode/extensions/github.copilot-1.250.0/lib/src/network/helix.ts:93:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ERR_HTTP2_STREAM_CANCEL',
+  errno: undefined,
+  erroredSysCall: undefined
+}

@@ -1,0 +1,45 @@
+2025-03-03 14:55:44.479 [info] Using the Electron fetcher.
+2025-03-03 14:55:44.479 [info] Initializing Git extension service.
+2025-03-03 14:55:44.479 [info] Successfully activated the vscode.git extension.
+2025-03-03 14:55:44.479 [info] Enablement state of the vscode.git extension: true.
+2025-03-03 14:55:44.479 [info] Successfully registered Git commit message provider.
+2025-03-03 14:55:45.607 [info] Logged in as AbrahamLinksus
+2025-03-03 14:55:46.961 [info] Got Copilot token for AbrahamLinksus
+2025-03-03 14:55:46.998 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-03-03 14:55:46.998 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-03-03 14:55:47.009 [info] Registering default platform agent...
+2025-03-03 14:55:52.898 [info] Fetched model metadata in 460ms 08a4d684-8098-4a24-abe3-18dcc9dca755
+2025-03-03 14:55:53.117 [info] activationBlocker from 'languageModelAccess' took for 691ms
+2025-03-03 15:10:54.547 [info] Fetched model metadata in 1410ms 83ee68c6-b35e-41f6-b42a-443e9aee4542
+2025-03-03 15:20:46.975 [info] Logged in as AbrahamLinksus
+2025-03-03 15:20:48.364 [info] Got Copilot token for AbrahamLinksus
+2025-03-03 15:20:48.384 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-03-03 15:25:56.279 [info] Fetched model metadata in 1416ms ca935c81-60e7-4827-b0c6-e930c962a407
+2025-03-03 15:40:57.707 [info] Fetched model metadata in 1418ms f894cb20-b269-4d62-bb48-7573c9b2a0ad
+2025-03-03 15:45:48.376 [info] Logged in as AbrahamLinksus
+2025-03-03 15:45:49.751 [info] Got Copilot token for AbrahamLinksus
+2025-03-03 15:45:49.771 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-03-03 15:55:59.026 [info] Fetched model metadata in 1306ms 32c347b6-2d2b-4e4a-802f-2dddf8c9de10
+2025-03-03 16:10:49.764 [info] Logged in as AbrahamLinksus
+2025-03-03 16:10:51.133 [info] Got Copilot token for AbrahamLinksus
+2025-03-03 16:10:51.151 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-03-03 16:10:52.602 [info] Fetched model metadata in 1444ms 773b3b26-cc9b-4683-8ac5-052dbd50151b
+2025-03-03 16:25:54.418 [info] Fetched model metadata in 1521ms b668c8bb-8c62-4226-8146-c897338e8e65
+2025-03-03 19:53:50.384 [info] Logged in as AbrahamLinksus
+2025-03-03 19:53:51.553 [info] Got Copilot token for AbrahamLinksus
+2025-03-03 19:53:51.571 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-03-03 19:53:52.575 [info] Fetched model metadata in 1018ms 059b0acc-e0b5-44c9-a513-3cab498f4bfc
+2025-03-03 20:03:56.434 [info] Fetched model metadata in 1113ms b76e6474-f707-4d31-8c09-40a84a3da67b
+2025-03-03 20:36:43.903 [info] Logged in as AbrahamLinksus
+2025-03-03 20:36:45.190 [info] Got Copilot token for AbrahamLinksus
+2025-03-03 20:36:45.204 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-03-03 20:36:46.219 [info] Fetched model metadata in 1027ms fec25bf4-3304-4f65-bc84-f972cf861356
+2025-03-03 20:46:48.842 [info] Fetched model metadata in 1093ms 20a572eb-272b-4f06-9202-652d4758b5aa
+2025-03-03 21:01:45.203 [info] Logged in as AbrahamLinksus
+2025-03-03 21:01:46.476 [info] Got Copilot token for AbrahamLinksus
+2025-03-03 21:01:46.491 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-03-03 21:01:47.504 [info] Fetched model metadata in 1009ms 0090f7df-4b17-4007-9824-41cadcd2eec7
+2025-03-03 21:16:48.935 [info] Fetched model metadata in 1212ms 7d7bdf79-19f0-495a-991d-ddb9ebb43d00
+2025-03-03 21:26:46.488 [info] Logged in as AbrahamLinksus
+2025-03-03 21:26:47.769 [info] Got Copilot token for AbrahamLinksus
+2025-03-03 21:26:47.787 [info] copilot token chat_enabled: true, sku: free_limited_copilot

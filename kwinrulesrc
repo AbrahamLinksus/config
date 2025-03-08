@@ -1,0 +1,25 @@
+[4c03c93c-a9a5-47ee-a06d-5312f9e76ab1]
+Description=Window settings for Alacritty
+opacityactive=90
+opacityactiverule=2
+placement=4
+placementrule=2
+title=JakeRA@Archie:~
+types=1
+wmclass=alacritty Alacritty
+wmclasscomplete=true
+wmclassmatch=1
+
+[General]
+count=2
+rules=4c03c93c-a9a5-47ee-a06d-5312f9e76ab1,f886612e-9e30-4784-8274-93472f1d64ab
+
+[f886612e-9e30-4784-8274-93472f1d64ab]
+Description=New window settings
+noborder=true
+noborderrule=2
+wmclassmatch=1
+
+[fca1da74-8b79-4f64-9b32-f889e07e7372]
+opacityactive=32
+opacityactiverule=2

@@ -1,0 +1,55 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="1" l="1731081472284" />
+    </e>
+    <e n="EditorCopy">
+      <i c="3" l="1731087853527" />
+    </e>
+    <e n="EditorPaste">
+      <i c="2" l="1731081472763" />
+    </e>
+    <e n="NewClass">
+      <i c="1" l="1731080313857" />
+    </e>
+    <e n="RenameFile">
+      <i c="1" l="1731080452215" />
+    </e>
+    <e n="Run">
+      <i c="2" l="1731141207160" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1731081332953" />
+    </e>
+    <e n="ShowProjectStructureSettings">
+      <i c="1" l="1731080866258" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1731080280284" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="3" l="1731087737408" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.productChooser.SkipImportAction">
+      <i c="1" l="1731080271634" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1731080274902" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="2" l="1731081329737" />
+    </e>
+    <e n="com.intellij.openapi.roots.ui.configuration.libraryEditor.CreateNewLibraryAction">
+      <i c="4" l="1731081306933" />
+    </e>
+    <e n="com.intellij.openapi.roots.ui.configuration.projectRoot.BaseStructureConfigurable$MyRemoveAction">
+      <i c="1" l="1731081303401" />
+    </e>
+    <e n="com.intellij.openapi.ui.MasterDetailsComponent$MyActionGroupWrapper">
+      <i c="4" l="1731081305759" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="1" l="1731080862801" />
+    </e>
+  </component>
+</application>

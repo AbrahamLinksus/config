@@ -1,0 +1,30 @@
+2024-12-19 10:36:04.971 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2024-12-19 10:36:05.155 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2024-12-19 10:36:05.163 [info] Creating merkle client.
+2024-12-19 10:36:05.163 [info] Done creating merkle client.
+2024-12-19 10:36:05.163 [info] Doing a startup handshake.
+2024-12-19 10:36:05.207 [info] Finished initializing merkle tree in 38.17130300000008 ms.
+2024-12-19 10:36:05.215 [info] Doing the initial handshake with hash: 2b557f6319f1dfbd8bb2522b35c6405add8d303e6ec5383ab9a5dd5bf94bbe0e
+2024-12-19 10:36:05.217 [info] Handshake start
+2024-12-19 10:36:05.934 [info] Handshake timing: 718.0992859999997
+2024-12-19 10:36:05.934 [info] Handshake result: {"status":"STATUS_UP_TO_DATE","repoName":"8e9d6e9b-e5aa-4862-a7f7-5715b4589a04"}
+2024-12-19 10:36:05.934 [info] Starting fast remote sync.
+2024-12-19 10:36:05.935 [info] Total num embeddable files: 9
+2024-12-19 10:36:05.935 [info] Root hash: 2b557f6319f1dfbd8bb2522b35c6405add8d303e6ec5383ab9a5dd5bf94bbe0e
+2024-12-19 10:36:05.935 [info] Finished indexing repository.
+2024-12-19 10:36:05.935 [info] Indexing job successfully done or aborted.
+2024-12-19 10:36:06.680 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2024-12-19 10:36:06.681 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2024-12-19 10:36:06.683 [info] Creating merkle client.
+2024-12-19 10:36:06.683 [info] Done creating merkle client.
+2024-12-19 10:36:06.683 [info] Doing a startup handshake.
+2024-12-19 10:36:06.696 [info] Finished initializing merkle tree in 2.0053720000000794 ms.
+2024-12-19 10:36:06.696 [info] Doing the initial handshake with hash: 2b557f6319f1dfbd8bb2522b35c6405add8d303e6ec5383ab9a5dd5bf94bbe0e
+2024-12-19 10:36:06.697 [info] Handshake start
+2024-12-19 10:36:07.397 [info] Handshake timing: 700.4381620000004
+2024-12-19 10:36:07.398 [info] Handshake result: {"status":"STATUS_UP_TO_DATE","repoName":"8e9d6e9b-e5aa-4862-a7f7-5715b4589a04"}
+2024-12-19 10:36:07.398 [info] Starting fast remote sync.
+2024-12-19 10:36:07.398 [info] Total num embeddable files: 9
+2024-12-19 10:36:07.399 [info] Root hash: 2b557f6319f1dfbd8bb2522b35c6405add8d303e6ec5383ab9a5dd5bf94bbe0e
+2024-12-19 10:36:07.399 [info] Finished indexing repository.
+2024-12-19 10:36:07.399 [info] Indexing job successfully done or aborted.

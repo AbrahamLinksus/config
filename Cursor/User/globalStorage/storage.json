@@ -1,0 +1,63 @@
+{
+    "userDataProfilesMigration": true,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/JakeRA/my_project/scheduling": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "profileAssociationsMigration": true,
+    "telemetry.sqmId": "",
+    "telemetry.macMachineId": "85d50d9fb25b71b980bd90d96bd04f5ac632dab6fcb9e4dc6555ef68539efd3e",
+    "telemetry.machineId": "629987ec151805e547b1e385a95bdecc237fb311bc42254ad0e413dfce11861c",
+    "telemetry.devDeviceId": "86db901c-cab3-4b7b-b999-1ced65ade0a6",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/JakeRA/my_project/scheduling"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "theme": "vs-dark",
+    "themeBackground": "#181818",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#d6d6dd",
+            "background": "#181818",
+            "editorBackground": "#181818",
+            "titleBarBackground": "#181818",
+            "activityBarBackground": "#181818",
+            "sideBarBackground": "#181818",
+            "statusBarBackground": "#181818",
+            "statusBarNoFolderBackground": "#181818"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 0,
+            "sideBarWidth": 229,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/JakeRA/my_project/scheduling",
+            "backupPath": "/home/JakeRA/.config/Cursor/Backups/bd608d0db3ed1a7a1737f0180cbf70f7",
+            "uiState": {
+                "mode": 1,
+                "x": 665,
+                "y": 28,
+                "width": 1042,
+                "height": 888
+            }
+        },
+        "openedWindows": []
+    }
+}

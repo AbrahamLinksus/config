@@ -1,0 +1,517 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="ExpenseApp" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="AndroidView" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ExpenseApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="ExpenseApp" />
+            <item name="ExpenseApp" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="ExpenseApp" />
+              <item name="dir{file:///home/JakeRA/ExpenseApp}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <presentation>
+                <attributes />
+                <data iconPath="intui/icons/common/android-head.svg" iconPlugin="org.jetbrains.android" isLeaf="false" text="&lt; Android API 34, extension level 7 Platform &gt;" />
+                <item name="&lt; Android API 34, extension level 7 Platform &gt;" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/jdk.svg" iconPlugin="com.intellij" isLeaf="false" text="&lt; jbr-21 &gt;" />
+                <item name="&lt; jbr-21 &gt;" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.activity:activity:1.8.0@aar" />
+                <item name="Gradle: androidx.activity:activity:1.8.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.annotation:annotation-experimental:1.4.0@aar" />
+                <item name="Gradle: androidx.annotation:annotation-experimental:1.4.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.annotation:annotation-jvm:1.6.0" />
+                <item name="Gradle: androidx.annotation:annotation-jvm:1.6.0" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.appcompat:appcompat:1.7.0@aar" />
+                <item name="Gradle: androidx.appcompat:appcompat:1.7.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.appcompat:appcompat-resources:1.7.0@aar" />
+                <item name="Gradle: androidx.appcompat:appcompat-resources:1.7.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.arch.core:core-common:2.2.0" />
+                <item name="Gradle: androidx.arch.core:core-common:2.2.0" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.arch.core:core-runtime:2.1.0@aar" />
+                <item name="Gradle: androidx.arch.core:core-runtime:2.1.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.arch.core:core-runtime:2.2.0@aar" />
+                <item name="Gradle: androidx.arch.core:core-runtime:2.2.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.cardview:cardview:1.0.0@aar" />
+                <item name="Gradle: androidx.cardview:cardview:1.0.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.collection:collection:1.1.0" />
+                <item name="Gradle: androidx.collection:collection:1.1.0" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.concurrent:concurrent-futures:1.1.0" />
+                <item name="Gradle: androidx.concurrent:concurrent-futures:1.1.0" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.concurrent:concurrent-futures-ktx:1.1.0" />
+                <item name="Gradle: androidx.concurrent:concurrent-futures-ktx:1.1.0" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.constraintlayout:constraintlayout:2.0.1@aar" />
+                <item name="Gradle: androidx.constraintlayout:constraintlayout:2.0.1@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.constraintlayout:constraintlayout-solver:2.0.1" />
+                <item name="Gradle: androidx.constraintlayout:constraintlayout-solver:2.0.1" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar" />
+                <item name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.core:core:1.13.0@aar" />
+                <item name="Gradle: androidx.core:core:1.13.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.core:core-ktx:1.2.0@aar" />
+                <item name="Gradle: androidx.core:core-ktx:1.2.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.core:core-ktx:1.13.0@aar" />
+                <item name="Gradle: androidx.core:core-ktx:1.13.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" />
+                <item name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.customview:customview:1.1.0@aar" />
+                <item name="Gradle: androidx.customview:customview:1.1.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.documentfile:documentfile:1.0.0@aar" />
+                <item name="Gradle: androidx.documentfile:documentfile:1.0.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.drawerlayout:drawerlayout:1.1.1@aar" />
+                <item name="Gradle: androidx.drawerlayout:drawerlayout:1.1.1@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.dynamicanimation:dynamicanimation:1.0.0@aar" />
+                <item name="Gradle: androidx.dynamicanimation:dynamicanimation:1.0.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.fragment:fragment:1.5.4@aar" />
+                <item name="Gradle: androidx.fragment:fragment:1.5.4@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.interpolator:interpolator:1.0.0@aar" />
+                <item name="Gradle: androidx.interpolator:interpolator:1.0.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar" />
+                <item name="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.lifecycle:lifecycle-common:2.6.2" />
+                <item name="Gradle: androidx.lifecycle:lifecycle-common:2.6.2" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.lifecycle:lifecycle-livedata:2.6.2@aar" />
+                <item name="Gradle: androidx.lifecycle:lifecycle-livedata:2.6.2@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.6.2@aar" />
+                <item name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.6.2@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.lifecycle:lifecycle-runtime:2.6.2@aar" />
+                <item name="Gradle: androidx.lifecycle:lifecycle-runtime:2.6.2@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.6.2@aar" />
+                <item name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.6.2@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2@aar" />
+                <item name="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.loader:loader:1.0.0@aar" />
+                <item name="Gradle: androidx.loader:loader:1.0.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar" />
+                <item name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.print:print:1.0.0@aar" />
+                <item name="Gradle: androidx.print:print:1.0.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.recyclerview:recyclerview:1.1.0@aar" />
+                <item name="Gradle: androidx.recyclerview:recyclerview:1.1.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.resourceinspection:resourceinspection-annotation:1.0.1" />
+                <item name="Gradle: androidx.resourceinspection:resourceinspection-annotation:1.0.1" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.savedstate:savedstate:1.2.1@aar" />
+                <item name="Gradle: androidx.savedstate:savedstate:1.2.1@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.test.espresso:espresso-core:3.6.1@aar" />
+                <item name="Gradle: androidx.test.espresso:espresso-core:3.6.1@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.test.espresso:espresso-idling-resource:3.6.1@aar" />
+                <item name="Gradle: androidx.test.espresso:espresso-idling-resource:3.6.1@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.test.ext:junit:1.2.1@aar" />
+                <item name="Gradle: androidx.test.ext:junit:1.2.1@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.test.services:storage:1.5.0@aar" />
+                <item name="Gradle: androidx.test.services:storage:1.5.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.test:core:1.6.1@aar" />
+                <item name="Gradle: androidx.test:core:1.6.1@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.test:monitor:1.7.1@aar" />
+                <item name="Gradle: androidx.test:monitor:1.7.1@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.test:runner:1.6.1@aar" />
+                <item name="Gradle: androidx.test:runner:1.6.1@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.tracing:tracing:1.0.0@aar" />
+                <item name="Gradle: androidx.tracing:tracing:1.0.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.transition:transition:1.5.0@aar" />
+                <item name="Gradle: androidx.transition:transition:1.5.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar" />
+                <item name="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar" />
+                <item name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar" />
+                <item name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.viewpager2:viewpager2:1.0.0@aar" />
+                <item name="Gradle: androidx.viewpager2:viewpager2:1.0.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.viewpager:viewpager:1.0.0@aar" />
+                <item name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: com.google.android.material:material:1.12.0@aar" />
+                <item name="Gradle: com.google.android.material:material:1.12.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: com.google.code.findbugs:jsr305:3.0.2" />
+                <item name="Gradle: com.google.code.findbugs:jsr305:3.0.2" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: com.google.errorprone:error_prone_annotations:2.15.0" />
+                <item name="Gradle: com.google.errorprone:error_prone_annotations:2.15.0" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: com.google.guava:listenablefuture:1.0" />
+                <item name="Gradle: com.google.guava:listenablefuture:1.0" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: javax.inject:javax.inject:1" />
+                <item name="Gradle: javax.inject:javax.inject:1" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: junit:junit:4.13.2" />
+                <item name="Gradle: junit:junit:4.13.2" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: org.hamcrest:hamcrest-core:1.3" />
+                <item name="Gradle: org.hamcrest:hamcrest-core:1.3" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: org.hamcrest:hamcrest-library:1.3" />
+                <item name="Gradle: org.hamcrest:hamcrest-library:1.3" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.8.22" />
+                <item name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.8.22" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.8.22" />
+                <item name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.8.22" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.22" />
+                <item name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.22" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.22" />
+                <item name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.22" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4" />
+                <item name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.4" />
+                <item name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.4" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: org.jetbrains:annotations:13.0" />
+                <item name="Gradle: org.jetbrains:annotations:13.0" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ExpenseApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="ExpenseApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
+            </path>
+            <path>
+              <item name="ExpenseApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="ExpenseApp" />
+            <item name="ExpenseApp" type="1abcf292:AndroidViewProjectNode" />
+            <presentation>
+              <attributes />
+              <data iconPath="intui/icons/shell/filetree/android-module.svg" iconPlugin="org.jetbrains.android" isLeaf="false" text="app" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="manifests" />
+                <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+                    </map>
+                  </attributes>
+                  <data iconPath="intui/icons/shell/filetree/manifest-file.svg" iconPlugin="org.jetbrains.android" isLeaf="true" text="AndroidManifest.xml" />
+                  <item name="AndroidManifest.xml" type="7792704b:AndroidManifestFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="java" />
+                <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/example/expenseapp" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="true" text="com.example.expenseapp" />
+                  <item name="dir{file:///home/JakeRA/ExpenseApp/app/src/main/java/com/example/expenseapp}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/src/androidTest/java/com/example/expenseapp" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="com.example.expenseapp" />
+                  <item name="dir{file:///home/JakeRA/ExpenseApp/app/src/androidTest/java/com/example/expenseapp}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/src/test/java/com/example/expenseapp" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="com.example.expenseapp" />
+                  <item name="dir{file:///home/JakeRA/ExpenseApp/app/src/test/java/com/example/expenseapp}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="res" />
+                <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/expui/gradle.svg" iconPlugin="com.intellij.gradle" isLeaf="false" text="Gradle Scripts" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enableVisualFormatting" value="false" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18066406" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Resources Explorer" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Logcat" order="4" />
+      <window_info anchor="bottom" id="App Quality Insights" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.25" />
+      <window_info anchor="right" id="Device Manager" order="2" weight="0.25" />
+      <window_info anchor="right" id="Device Manager 2" order="3" weight="0.25" />
+      <window_info anchor="right" id="Running Devices" order="4" weight="0.25" />
+      <window_info anchor="right" id="StudioBot" order="5" weight="0.25" />
+      <unified_weights left="0.18066406" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+</project>

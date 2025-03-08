@@ -1,0 +1,5 @@
+2024-12-19 10:30:59.232 [info] update#setState disabled
+2024-12-19 10:30:59.240 [info] update#ctor - updates are disabled as there is no update URL
+2024-12-19 10:31:01.743 [error] vscode-file: Refused to load resource /tmp/.mount_cursorOJmIhK/resources/app/extensions/theme-seti/icons/seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/tmp/.mount_cursorOJmIhK/resources/app/extensions/theme-seti/icons/seti.woff)
+2024-12-19 10:31:06.721 [info] Extension host with pid 6044 exited with code: 0, signal: unknown.
+2024-12-19 10:31:06.744 [error] [UtilityProcessWorker]: terminated unexpectedly with code 18446744072700040000, signal: unknown

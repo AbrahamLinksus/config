@@ -1,0 +1,1153 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="ExpenseTrackerApp" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="rruzg2gdcme9" />
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 3,
+      "lastUsed": 1730689953921
+    },
+    "Gradle": {
+      "usageCount": 2,
+      "lastUsed": 1730690111441
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/app/src/main/java/model/Expense.java" />
+      <option value="$PROJECT_DIR$/app/src/main/java/model/Balance.java" />
+      <option value="$PROJECT_DIR$/app/src/main/java/model/ExpenseDatabase.java" />
+      <option value="$PROJECT_DIR$/app/build.gradle" />
+      <option value="$PROJECT_DIR$/build.gradle" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Groovy">
+      <summary usageCount="2" lastUsage="1730690111441" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="3" lastUsage="1730689953921" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="AndroidView" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ExpenseTrackerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/JakeRA/ExpenseTrackerApp}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExpenseTrackerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="ExpenseTrackerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; jbr-21 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="ExpenseTrackerApp" />
+            <item name="ExpenseTrackerApp" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="ExpenseTrackerApp" />
+              <item name="dir{file:///home/JakeRA/ExpenseTrackerApp}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gradle" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text=".gradle" />
+                <item name="dir{file:///home/JakeRA/ExpenseTrackerApp/.gradle}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/JakeRA/ExpenseTrackerApp/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/app" />
+                  </map>
+                </attributes>
+                <data iconPath="intui/icons/shell/filetree/android-module.svg" iconPlugin="org.jetbrains.android" isLeaf="false" text="app" />
+                <item name="dir{file:///home/JakeRA/ExpenseTrackerApp/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/gradle" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="gradle" />
+                <item name="dir{file:///home/JakeRA/ExpenseTrackerApp/gradle}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/build.gradle" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/gradle.svg" iconPlugin="com.intellij.gradle" isLeaf="true" text="build.gradle" />
+                <item name="build.gradle" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/gradle.properties" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/properties.svg" iconPlugin="com.intellij" isLeaf="true" text="gradle.properties" />
+                <item name="gradle.properties" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/gradlew" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="gradlew" />
+                <item name="gradlew" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/gradlew.bat" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="gradlew.bat" />
+                <item name="gradlew.bat" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/local.properties" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/properties.svg" iconPlugin="com.intellij" isLeaf="true" text="local.properties" />
+                <item name="local.properties" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/settings.gradle" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/gradle.svg" iconPlugin="com.intellij.gradle" isLeaf="true" text="settings.gradle" />
+                <item name="settings.gradle" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <presentation>
+                <attributes />
+                <data iconPath="intui/icons/common/android-head.svg" iconPlugin="org.jetbrains.android" isLeaf="false" text="&lt; Android API 31 Platform &gt;" />
+                <item name="&lt; Android API 31 Platform &gt;" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/jdk.svg" iconPlugin="com.intellij" isLeaf="false" text="&lt; jbr-21 &gt;" />
+                <item name="&lt; jbr-21 &gt;" type="70bed36:NamedLibraryElementNode" />
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="java.base" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/java.base}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="java.compiler" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/java.compiler}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="java.datatransfer" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/java.datatransfer}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="java.desktop" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/java.desktop}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="java.instrument" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/java.instrument}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="java.logging" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/java.logging}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="java.management" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/java.management}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="java.management.rmi" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/java.management.rmi}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="java.naming" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/java.naming}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="java.net.http" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/java.net.http}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="java.prefs" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/java.prefs}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="java.rmi" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/java.rmi}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="java.scripting" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/java.scripting}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="java.se" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/java.se}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="java.security.jgss" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/java.security.jgss}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="java.security.sasl" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/java.security.sasl}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="java.smartcardio" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/java.smartcardio}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="java.sql" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/java.sql}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="java.sql.rowset" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/java.sql.rowset}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="java.transaction.xa" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/java.transaction.xa}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="java.xml" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/java.xml}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="java.xml.crypto" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/java.xml.crypto}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.accessibility" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.accessibility}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.attach" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.attach}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.charsets" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.charsets}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.compiler" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.compiler}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.crypto.cryptoki" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.crypto.cryptoki}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.crypto.ec" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.crypto.ec}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.dynalink" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.dynalink}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.hotspot.agent" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.hotspot.agent}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.httpserver" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.httpserver}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.internal.ed" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.internal.ed}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.internal.jvmstat" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.internal.jvmstat}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.internal.le" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.internal.le}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.internal.opt" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.internal.opt}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.internal.vm.ci" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.internal.vm.ci}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.jartool" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.jartool}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.javadoc" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.javadoc}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.jcmd" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.jcmd}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.jdeps" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.jdeps}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.jdi" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.jdi}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.jdwp.agent" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.jdwp.agent}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.jfr" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.jfr}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.jlink" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.jlink}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.jsobject" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.jsobject}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.localedata" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.localedata}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.management" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.management}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.management.agent" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.management.agent}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.management.jfr" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.management.jfr}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.naming.dns" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.naming.dns}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.naming.rmi" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.naming.rmi}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.net" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.net}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.sctp" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.sctp}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.security.auth" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.security.auth}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.security.jgss" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.security.jgss}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.unsupported" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.unsupported}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.unsupported.desktop" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.unsupported.desktop}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.xml.dom" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.xml.dom}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="jdk.zipfs" />
+                  <item name="dir{jrt:///home/JakeRA/Downloads/android-studio/jbr!/jdk.zipfs}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.activity:activity:1.8.0@aar" />
+                <item name="Gradle: androidx.activity:activity:1.8.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.annotation:annotation-experimental:1.4.0@aar" />
+                <item name="Gradle: androidx.annotation:annotation-experimental:1.4.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.annotation:annotation-jvm:1.6.0" />
+                <item name="Gradle: androidx.annotation:annotation-jvm:1.6.0" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.appcompat:appcompat:1.7.0@aar" />
+                <item name="Gradle: androidx.appcompat:appcompat:1.7.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.appcompat:appcompat-resources:1.7.0@aar" />
+                <item name="Gradle: androidx.appcompat:appcompat-resources:1.7.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.arch.core:core-common:2.2.0" />
+                <item name="Gradle: androidx.arch.core:core-common:2.2.0" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.arch.core:core-runtime:2.1.0@aar" />
+                <item name="Gradle: androidx.arch.core:core-runtime:2.1.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.arch.core:core-runtime:2.2.0@aar" />
+                <item name="Gradle: androidx.arch.core:core-runtime:2.2.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.cardview:cardview:1.0.0@aar" />
+                <item name="Gradle: androidx.cardview:cardview:1.0.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.collection:collection:1.1.0" />
+                <item name="Gradle: androidx.collection:collection:1.1.0" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.concurrent:concurrent-futures:1.1.0" />
+                <item name="Gradle: androidx.concurrent:concurrent-futures:1.1.0" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.concurrent:concurrent-futures-ktx:1.1.0" />
+                <item name="Gradle: androidx.concurrent:concurrent-futures-ktx:1.1.0" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.constraintlayout:constraintlayout:2.0.1@aar" />
+                <item name="Gradle: androidx.constraintlayout:constraintlayout:2.0.1@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.constraintlayout:constraintlayout-solver:2.0.1" />
+                <item name="Gradle: androidx.constraintlayout:constraintlayout-solver:2.0.1" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar" />
+                <item name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.core:core:1.13.0@aar" />
+                <item name="Gradle: androidx.core:core:1.13.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.core:core-ktx:1.2.0@aar" />
+                <item name="Gradle: androidx.core:core-ktx:1.2.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.core:core-ktx:1.13.0@aar" />
+                <item name="Gradle: androidx.core:core-ktx:1.13.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" />
+                <item name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.customview:customview:1.1.0@aar" />
+                <item name="Gradle: androidx.customview:customview:1.1.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.documentfile:documentfile:1.0.0@aar" />
+                <item name="Gradle: androidx.documentfile:documentfile:1.0.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.drawerlayout:drawerlayout:1.1.1@aar" />
+                <item name="Gradle: androidx.drawerlayout:drawerlayout:1.1.1@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.dynamicanimation:dynamicanimation:1.0.0@aar" />
+                <item name="Gradle: androidx.dynamicanimation:dynamicanimation:1.0.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.fragment:fragment:1.5.4@aar" />
+                <item name="Gradle: androidx.fragment:fragment:1.5.4@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.interpolator:interpolator:1.0.0@aar" />
+                <item name="Gradle: androidx.interpolator:interpolator:1.0.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar" />
+                <item name="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.lifecycle:lifecycle-common:2.6.2" />
+                <item name="Gradle: androidx.lifecycle:lifecycle-common:2.6.2" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.lifecycle:lifecycle-livedata:2.6.2@aar" />
+                <item name="Gradle: androidx.lifecycle:lifecycle-livedata:2.6.2@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.6.2@aar" />
+                <item name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.6.2@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.lifecycle:lifecycle-runtime:2.6.2@aar" />
+                <item name="Gradle: androidx.lifecycle:lifecycle-runtime:2.6.2@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.6.2@aar" />
+                <item name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.6.2@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2@aar" />
+                <item name="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.loader:loader:1.0.0@aar" />
+                <item name="Gradle: androidx.loader:loader:1.0.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar" />
+                <item name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.print:print:1.0.0@aar" />
+                <item name="Gradle: androidx.print:print:1.0.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.recyclerview:recyclerview:1.2.1@aar" />
+                <item name="Gradle: androidx.recyclerview:recyclerview:1.2.1@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.resourceinspection:resourceinspection-annotation:1.0.1" />
+                <item name="Gradle: androidx.resourceinspection:resourceinspection-annotation:1.0.1" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.room:room-common:2.4.2" />
+                <item name="Gradle: androidx.room:room-common:2.4.2" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.room:room-runtime:2.4.2@aar" />
+                <item name="Gradle: androidx.room:room-runtime:2.4.2@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.savedstate:savedstate:1.2.1@aar" />
+                <item name="Gradle: androidx.savedstate:savedstate:1.2.1@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.sqlite:sqlite:2.2.0@aar" />
+                <item name="Gradle: androidx.sqlite:sqlite:2.2.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.sqlite:sqlite-framework:2.2.0@aar" />
+                <item name="Gradle: androidx.sqlite:sqlite-framework:2.2.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.test.espresso:espresso-core:3.6.1@aar" />
+                <item name="Gradle: androidx.test.espresso:espresso-core:3.6.1@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.test.espresso:espresso-idling-resource:3.6.1@aar" />
+                <item name="Gradle: androidx.test.espresso:espresso-idling-resource:3.6.1@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.test.ext:junit:1.2.1@aar" />
+                <item name="Gradle: androidx.test.ext:junit:1.2.1@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.test.services:storage:1.5.0@aar" />
+                <item name="Gradle: androidx.test.services:storage:1.5.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.test:core:1.6.1@aar" />
+                <item name="Gradle: androidx.test:core:1.6.1@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.test:monitor:1.7.1@aar" />
+                <item name="Gradle: androidx.test:monitor:1.7.1@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.test:runner:1.6.1@aar" />
+                <item name="Gradle: androidx.test:runner:1.6.1@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.tracing:tracing:1.0.0@aar" />
+                <item name="Gradle: androidx.tracing:tracing:1.0.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.transition:transition:1.5.0@aar" />
+                <item name="Gradle: androidx.transition:transition:1.5.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar" />
+                <item name="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar" />
+                <item name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar" />
+                <item name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.viewpager2:viewpager2:1.0.0@aar" />
+                <item name="Gradle: androidx.viewpager2:viewpager2:1.0.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: androidx.viewpager:viewpager:1.0.0@aar" />
+                <item name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: com.google.android.material:material:1.12.0@aar" />
+                <item name="Gradle: com.google.android.material:material:1.12.0@aar" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: com.google.code.findbugs:jsr305:3.0.2" />
+                <item name="Gradle: com.google.code.findbugs:jsr305:3.0.2" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: com.google.errorprone:error_prone_annotations:2.15.0" />
+                <item name="Gradle: com.google.errorprone:error_prone_annotations:2.15.0" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: com.google.guava:listenablefuture:1.0" />
+                <item name="Gradle: com.google.guava:listenablefuture:1.0" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: javax.inject:javax.inject:1" />
+                <item name="Gradle: javax.inject:javax.inject:1" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: junit:junit:4.13.2" />
+                <item name="Gradle: junit:junit:4.13.2" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: org.hamcrest:hamcrest-core:1.3" />
+                <item name="Gradle: org.hamcrest:hamcrest-core:1.3" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: org.hamcrest:hamcrest-library:1.3" />
+                <item name="Gradle: org.hamcrest:hamcrest-library:1.3" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.8.22" />
+                <item name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.8.22" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.8.22" />
+                <item name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.8.22" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.22" />
+                <item name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.22" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.22" />
+                <item name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.22" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4" />
+                <item name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.4" />
+                <item name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.4" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="nodes/ppLibFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle: org.jetbrains:annotations:13.0" />
+                <item name="Gradle: org.jetbrains:annotations:13.0" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ExpenseTrackerApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="ExpenseTrackerApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
+            </path>
+            <path>
+              <item name="ExpenseTrackerApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="ExpenseTrackerApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/JakeRA/ExpenseTrackerApp/app/src/main/java/model}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExpenseTrackerApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="ExpenseTrackerApp" />
+            <item name="ExpenseTrackerApp" type="1abcf292:AndroidViewProjectNode" />
+            <presentation>
+              <attributes />
+              <data iconPath="intui/icons/shell/filetree/android-module.svg" iconPlugin="org.jetbrains.android" isLeaf="false" text="app" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="manifests" />
+                <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+                    </map>
+                  </attributes>
+                  <data iconPath="intui/icons/shell/filetree/manifest-file.svg" iconPlugin="org.jetbrains.android" isLeaf="true" text="AndroidManifest.xml" />
+                  <item name="AndroidManifest.xml" type="7792704b:AndroidManifestFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="java" />
+                <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/example/expensetrackerapp" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="true" text="com.example.expensetrackerapp" />
+                  <item name="dir{file:///home/JakeRA/ExpenseTrackerApp/app/src/main/java/com/example/expensetrackerapp}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/src/androidTest/java/com/example/expensetrackerapp" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="com.example.expensetrackerapp" />
+                  <item name="dir{file:///home/JakeRA/ExpenseTrackerApp/app/src/androidTest/java/com/example/expensetrackerapp}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/src/test/java/com/example/expensetrackerapp" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="com.example.expensetrackerapp" />
+                  <item name="dir{file:///home/JakeRA/ExpenseTrackerApp/app/src/test/java/com/example/expensetrackerapp}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/model" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="model" />
+                  <item name="dir{file:///home/JakeRA/ExpenseTrackerApp/app/src/main/java/model}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/model/Expense.java" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Expense" />
+                    <item name="Expense" type="1a9f42e2:ClassTreeNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/model/ExpenseDao.java" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/interface.svg" iconPlugin="com.intellij" isLeaf="true" text="ExpenseDao" />
+                    <item name="ExpenseDao" type="1a9f42e2:ClassTreeNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/model/ExpenseDatabase.java" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/classAbstract.svg" iconPlugin="com.intellij" isLeaf="true" text="ExpenseDatabase" />
+                    <item name="ExpenseDatabase" type="1a9f42e2:ClassTreeNode" />
+                  </presentation>
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="res" />
+                <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/expui/gradle.svg" iconPlugin="com.intellij.gradle" isLeaf="false" text="Gradle Scripts" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/build.gradle" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/gradle.svg" iconPlugin="com.intellij.gradle" isLeaf="true" text="build.gradle" />
+                <item name="build.gradle" type="46e09232:AndroidBuildScriptNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/app/build.gradle" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/gradle.svg" iconPlugin="com.intellij.gradle" isLeaf="true" text="build.gradle" />
+                <item name="build.gradle" type="46e09232:AndroidBuildScriptNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/app/proguard-rules.pro" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="proguard-rules.pro" />
+                <item name="proguard-rules.pro" type="46e09232:AndroidBuildScriptNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/gradle.properties" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/properties.svg" iconPlugin="com.intellij" isLeaf="true" text="gradle.properties" />
+                <item name="gradle.properties" type="46e09232:AndroidBuildScriptNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/properties.svg" iconPlugin="com.intellij" isLeaf="true" text="gradle-wrapper.properties" />
+                <item name="gradle-wrapper.properties" type="46e09232:AndroidBuildScriptNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/gradle/libs.versions.toml" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/newui/toml.svg" iconPlugin="org.toml.lang" isLeaf="true" text="libs.versions.toml" />
+                <item name="libs.versions.toml" type="46e09232:AndroidBuildScriptNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/local.properties" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/properties.svg" iconPlugin="com.intellij" isLeaf="true" text="local.properties" />
+                <item name="local.properties" type="46e09232:AndroidBuildScriptNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/settings.gradle" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/gradle.svg" iconPlugin="com.intellij.gradle" isLeaf="true" text="settings.gradle" />
+                <item name="settings.gradle" type="46e09232:AndroidBuildScriptNode" />
+              </presentation>
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enableVisualFormatting" value="false" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18066406" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Resources Explorer" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Logcat" order="4" />
+      <window_info anchor="bottom" id="App Quality Insights" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" visible="true" weight="0.33005822" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.25" />
+      <window_info anchor="right" id="Device Manager" order="2" weight="0.25" />
+      <window_info anchor="right" id="Device Manager 2" order="3" weight="0.25" />
+      <window_info anchor="right" id="Running Devices" order="4" weight="0.25" />
+      <window_info anchor="right" id="StudioBot" order="5" weight="0.25" />
+      <unified_weights bottom="0.33005822" left="0.18066406" />
+    </layoutV2>
+    <recentWindows>
+      <value>Build</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="957" y="328" width="640" height="732" key="FileChooserDialogImpl" timestamp="1730690345328">
+      <screen x="0" y="0" width="2560" height="1374" />
+    </state>
+    <state x="957" y="328" width="640" height="732" key="FileChooserDialogImpl/0.0.2560.1374@0.0.2560.1374" timestamp="1730690345328" />
+    <state x="967" y="427" width="620" height="534" key="chooseDestDirectoryDialog" timestamp="1730689868176">
+      <screen x="0" y="0" width="2560" height="1374" />
+    </state>
+    <state x="967" y="427" width="620" height="534" key="chooseDestDirectoryDialog/0.0.2560.1374@0.0.2560.1374" timestamp="1730689868176" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/model/Expense.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="1344">
+            <caret line="37" selection-start-line="37" selection-end-line="37" />
+            <folding>
+              <element signature="e#46#107#0" expanded="true" />
+            </folding>
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/model/ExpenseDao.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="864">
+            <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <folding>
+              <element signature="e#46#180#0" expanded="true" />
+            </folding>
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/model/ExpenseDatabase.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="832">
+            <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <folding>
+              <element signature="e#46#170#0" expanded="true" />
+            </folding>
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,45 @@
+/* Center the search bar */
+#ulauncher-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Style the search bar */
+.ulauncher-bar {
+  background-color: grey;  /* Set the search bar to grey */
+  border-radius: 20px;  /* Make the corners rounded */
+  padding: 5px 15px;  /* Add some padding */
+  width: 50%;  /* Adjust the width as needed */
+  max-width: 500px;  /* Limit maximum width */
+  font-size: 16px;  /* Adjust font size */
+  color: white;  /* Set text color */
+}
+
+/* Remove unnecessary UI elements */
+ulauncher-results, #ulauncher-footer {
+  display: none;  /* Hide results and footer */
+}
+
+/* Focus style */
+.ulauncher-bar:focus {
+  outline: none;
+}
+
+/* Suggestion dropdown */
+ulauncher-suggestions {
+  background-color: #333;  /* Dark background for suggestions */
+  border-radius: 10px;
+  color: white;
+}
+
+ulauncher-suggestions .suggestion-item {
+  padding: 10px;
+  font-size: 14px;
+}
+
+/* Hover effect for suggestions */
+ulauncher-suggestions .suggestion-item:hover {
+  background-color: #444;
+}

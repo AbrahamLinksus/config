@@ -1,0 +1,195 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Atkinson+Hyperlegible+Next:ital,wght@0,200..800;1,200..800&family=Playwrite+IT+Moderna:wght@100..400&display=swap');
+body {
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-family: Atkinson Hyperlegible Mono, monospace;
+    font-size: 30px;
+}
+html {
+    scroll-behavior: smooth;
+}
+#Typewriter-text {
+    margin: auto;
+    font-size: 1.5rem;
+    margin-inline: auto;
+    overflow: hidden;
+    white-space: nowrap;
+    border-right: 1px solid;
+    animation: typing 3s steps(12) forwards,
+    blink 1s step-end infinite;
+}
+@keyframes typing {
+    from {
+        width: 0;
+    }
+    to {
+        width: 100%;
+    }
+
+}
+@keyframes blink {
+    50% {
+        border-color: transparent;
+    }
+}
+#desktop-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    
+}
+.nav-links {
+    display: flex;
+    list-style: none;
+    gap: 60px;
+    font-size: 20px;
+}
+.nav-links a {
+    text-decoration: none;
+    color: white;
+    transition: all 0.3s ease-in-out;
+}
+.nav-links a:hover {
+    text-decoration: underline;
+    text-underline-offset: 10px;
+    color: gray;
+    transform: scale(1.2);
+}
+/* Container for text */
+#section-1 {
+    margin: 0;
+    padding: 0;
+    
+}
+.section-1-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center; 
+    color: white; 
+    height: 70vh;
+    width: 100%;
+}
+.section-1-text p {
+    margin: 5px 0;
+    line-height: 1.2; 
+}
+.section-text-1:hover {
+    animation: wobble 0.4s ease-in-out infinite;
+}
+@keyframes wobble {
+    0% { transform: translate(0px, 0px) rotate(0deg); }
+    15% { transform: translate(-5px, 2px) rotate(-3deg); }
+    30% { transform: translate(4px, -3px) rotate(5deg); }
+    45% { transform: translate(-3px, 5px) rotate(-8deg); }
+    60% { transform: translate(6px, -4px) rotate(6deg); }
+    75% { transform: translate(-4px, -6px) rotate(-4deg); }
+    90% { transform: translate(3px, 3px) rotate(3deg); }
+    100% { transform: translate(0px, 0px) rotate(0deg); }
+}
+
+.section-1-text h1 {
+    margin: 5px 0;
+    font-size: 3rem;
+    line-height: 1.2; 
+}
+@keyframes fadeLeft {
+    from {
+        opacity: 1;
+        transform: translateX(0);
+    }
+    to {
+        opacity: 0;
+        transform: translateX(-100px);
+    }
+}
+.section-2 {
+    display: flex;
+    background-color: #1d1f21;
+    margin: 0 40px 0 40px;
+    width: 95%;
+    height: 130px;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.5;
+    gap: 20px;
+}
+.section-2 img {
+    display: inline-flex;
+    background-color: white;
+    border-radius: 50%;
+    height: auto;
+    width: 50px;
+}
+.section-2-contacts {
+    margin-left: 40px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    height: 100%;
+    flex-basis: 50%;
+    align-items: center;
+
+}
+.section-2-text {
+    height: 100%;
+    flex-basis: 50%;
+    font-size: 20px;
+    font-family: DM sans ;
+    margin: 40px;
+}
+#section-3 {
+    margin: 50px 50px 0 50px;
+    height: 100vh;
+    padding: 30px;
+}
+.section-3-heading {
+    height: 125px;
+    color: white;
+    font-family: 'Atkinson Hyperlegible Mono', sans-serif;
+}
+.section-3-imgtext {
+    display: flex;
+}
+.section-3-img {
+    height: auto;
+    width: 30%;
+    border-radius: 20px;
+    transition: transform 0.3s ease-in-out;
+    border-color: #1d1f21;
+    border: 1.5px solid;
+}
+.section-3-img:hover {
+    transform: scale(1.1);
+}
+.section-3-text {
+    margin: 60px;
+    flex-basis: 50%;
+    font-family: 'Atkinson Hyperlegible Mono' sans-serif;
+    color: #747878;
+    font-size: 24px;
+}
+.section-4-heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+    margin: 20px;
+}
+.section-4-below {
+    margin: 30px;
+    display: flex;
+    height: 90vh;
+}
+.section-4-left {
+    flex-basis: 50%;
+}
+.section-4-right {
+    flex-basis: 50%;
+}

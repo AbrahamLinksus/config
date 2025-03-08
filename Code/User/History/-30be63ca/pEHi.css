@@ -1,0 +1,17 @@
+p {
+    color:red;
+    font-size: 20px;
+    border: 1px solid black;
+
+}
+h1 {
+    font-size: 30px;
+    text-align: center;
+    color:black;
+}
+#hash1 {
+    color: green;
+}
+body{
+    margin:0 auto;
+}

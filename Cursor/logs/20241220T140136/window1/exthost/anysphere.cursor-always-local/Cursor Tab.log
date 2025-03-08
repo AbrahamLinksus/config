@@ -1,0 +1,10 @@
+2024-12-20 14:01:40.821 [info] CURSOR LOG: Finished creating provider!
+2024-12-20 16:39:20.195 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api4.cursor.sh
+2024-12-20 16:40:09.272 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api4.cursor.sh
+2024-12-20 16:41:09.264 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api4.cursor.sh
+2024-12-20 16:42:09.264 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api4.cursor.sh
+2024-12-20 16:43:09.267 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api4.cursor.sh
+2024-12-20 16:44:09.263 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api4.cursor.sh
+2024-12-20 16:44:20.200 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api4.cursor.sh
+2024-12-20 16:45:09.265 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api4.cursor.sh
+2024-12-20 16:46:09.262 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api4.cursor.sh

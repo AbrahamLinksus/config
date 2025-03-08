@@ -1,0 +1,53 @@
+2024-12-18 13:12:53.385 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2024-12-18 13:12:53.576 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2024-12-18 13:12:53.582 [info] Creating merkle client.
+2024-12-18 13:12:53.582 [info] Done creating merkle client.
+2024-12-18 13:12:53.582 [info] Doing a startup handshake.
+2024-12-18 13:12:53.635 [info] Finished initializing merkle tree in 49.443862999999965 ms.
+2024-12-18 13:12:53.648 [info] Doing the initial handshake with hash: 2b557f6319f1dfbd8bb2522b35c6405add8d303e6ec5383ab9a5dd5bf94bbe0e
+2024-12-18 13:12:53.650 [info] Handshake start
+2024-12-18 13:12:54.475 [info] Handshake timing: 827.024355
+2024-12-18 13:12:54.476 [info] Handshake result: {"status":"STATUS_UP_TO_DATE","repoName":"8e9d6e9b-e5aa-4862-a7f7-5715b4589a04"}
+2024-12-18 13:12:54.476 [info] Starting fast remote sync.
+2024-12-18 13:12:54.477 [info] Total num embeddable files: 9
+2024-12-18 13:12:54.478 [info] Root hash: 2b557f6319f1dfbd8bb2522b35c6405add8d303e6ec5383ab9a5dd5bf94bbe0e
+2024-12-18 13:12:54.478 [info] Finished indexing repository.
+2024-12-18 13:12:54.478 [info] Indexing job successfully done or aborted.
+2024-12-18 13:12:56.325 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2024-12-18 13:12:56.325 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2024-12-18 13:12:56.326 [info] Creating merkle client.
+2024-12-18 13:12:56.326 [info] Done creating merkle client.
+2024-12-18 13:12:56.326 [info] Doing a startup handshake.
+2024-12-18 13:12:56.340 [info] Finished initializing merkle tree in 2.7833730000002106 ms.
+2024-12-18 13:12:56.340 [info] Doing the initial handshake with hash: 2b557f6319f1dfbd8bb2522b35c6405add8d303e6ec5383ab9a5dd5bf94bbe0e
+2024-12-18 13:12:56.341 [info] Handshake start
+2024-12-18 13:12:57.063 [info] Handshake timing: 722.1247590000003
+2024-12-18 13:12:57.063 [info] Handshake result: {"status":"STATUS_UP_TO_DATE","repoName":"8e9d6e9b-e5aa-4862-a7f7-5715b4589a04"}
+2024-12-18 13:12:57.063 [info] Starting fast remote sync.
+2024-12-18 13:12:57.064 [info] Total num embeddable files: 9
+2024-12-18 13:12:57.064 [info] Root hash: 2b557f6319f1dfbd8bb2522b35c6405add8d303e6ec5383ab9a5dd5bf94bbe0e
+2024-12-18 13:12:57.064 [info] Finished indexing repository.
+2024-12-18 13:12:57.064 [info] Indexing job successfully done or aborted.
+2024-12-18 13:22:56.378 [info] Creating merkle client.
+2024-12-18 13:22:56.378 [info] Done creating merkle client.
+2024-12-18 13:22:56.378 [info] Doing a startup handshake.
+2024-12-18 13:22:56.401 [info] Finished initializing merkle tree in 5.375389999942854 ms.
+2024-12-18 13:22:56.402 [info] Doing the initial handshake with hash: 2b557f6319f1dfbd8bb2522b35c6405add8d303e6ec5383ab9a5dd5bf94bbe0e
+2024-12-18 13:22:56.404 [info] Handshake start
+2024-12-18 13:22:59.846 [error] Error Checking Connection: [unavailable]
+2024-12-18 13:22:59.847 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2024-12-18 13:23:00.411 [warning] Retrying handshake with timeout 4000. Error:  [deadline_exceeded] the operation timed out
+2024-12-18 13:23:00.411 [info] Handshake start
+2024-12-18 13:23:04.418 [warning] Retrying handshake with timeout 8000. Error:  [unavailable] getaddrinfo EAI_AGAIN repo42.cursor.sh
+2024-12-18 13:23:04.418 [info] Handshake start
+2024-12-18 13:23:04.421 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN repo42.cursor.sh
+2024-12-18 13:23:04.421 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2024-12-18 13:23:12.424 [warning] Retrying handshake with timeout 16000. Error:  [unavailable] getaddrinfo EAI_AGAIN repo42.cursor.sh
+2024-12-18 13:23:12.425 [info] Handshake start
+2024-12-18 13:23:14.712 [info] Handshake timing: 2290.1199010000564
+2024-12-18 13:23:14.713 [info] Handshake result: {"status":"STATUS_UP_TO_DATE","repoName":"8e9d6e9b-e5aa-4862-a7f7-5715b4589a04"}
+2024-12-18 13:23:14.713 [info] Starting fast remote sync.
+2024-12-18 13:23:14.714 [info] Total num embeddable files: 9
+2024-12-18 13:23:14.714 [info] Root hash: 2b557f6319f1dfbd8bb2522b35c6405add8d303e6ec5383ab9a5dd5bf94bbe0e
+2024-12-18 13:23:14.715 [info] Finished indexing repository.
+2024-12-18 13:23:14.715 [info] Indexing job successfully done or aborted.

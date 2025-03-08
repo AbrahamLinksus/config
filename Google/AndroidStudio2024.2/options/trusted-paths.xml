@@ -1,0 +1,18 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects" value="true" />
+        <entry key="$USER_HOME$/AndroidStudioProjects/ExpenseTracker" value="true" />
+        <entry key="$USER_HOME$/AndroidStudioProjects/ExpenseTracker2" value="true" />
+        <entry key="$USER_HOME$/AndroidStudioProjects/tracker" value="true" />
+        <entry key="$USER_HOME$/Expense" value="true" />
+        <entry key="$USER_HOME$/ExpenseApp" value="true" />
+        <entry key="$USER_HOME$/ExpenseTracker" value="true" />
+        <entry key="$USER_HOME$/ExpenseTracker2" value="true" />
+        <entry key="$USER_HOME$/ExpenseTrackerApp" value="true" />
+        <entry key="$USER_HOME$/ExpenseTrackerApp2" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

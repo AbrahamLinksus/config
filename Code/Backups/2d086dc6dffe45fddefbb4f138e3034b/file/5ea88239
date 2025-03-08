@@ -1,0 +1,3 @@
+file:///home/JakeRA/learning/typescript/index.ts {"mtime":1739331285353,"ctime":1739331285353,"size":0,"etag":"3do38sns70","orphaned":false,"typeId":""}
+let age: number = 20;
+

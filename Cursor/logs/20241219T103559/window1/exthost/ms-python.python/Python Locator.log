@@ -1,0 +1,43 @@
+2024-12-19 10:36:03.761 [info] Starting Python Locator /home/JakeRA/.cursor/extensions/ms-python.python-2024.12.3-linux-x64/python-env-tools/bin/pet server
+2024-12-19 10:36:03.761 [info] Discovered manager: (Pyenv) /usr/bin/pyenv
+2024-12-19 10:36:03.765 [info] Discovered manager: (Poetry) /home/JakeRA/.local/share/pypoetry/venv/bin/poetry
+2024-12-19 10:36:03.765 [info] Discovered env: /home/JakeRA/.cache/pypoetry/virtualenvs/scheduling-6NlzEeh5-py3.12/bin/python
+2024-12-19 10:36:03.765 [info] Discovered env: /home/JakeRA/.pyenv/versions/3.12.3/bin/python
+2024-12-19 10:36:03.988 [info] Discovered env: /bin/python
+2024-12-19 10:36:03.989 [info] Discovered env: /usr/bin/python
+2024-12-19 10:36:03.990 [info] Discovered env: /bin/python3
+2024-12-19 10:36:03.991 [info] Discovered env: /bin/python3.12
+2024-12-19 10:36:03.991 [info] Discovered env: /usr/bin/python3
+2024-12-19 10:36:03.992 [info] Discovered env: /usr/bin/python3.12
+2024-12-19 10:36:03.992 [info] Env ("/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python"]) } and reported as Some(GlobalPaths)
+2024-12-19 10:36:03.992 [info] Discovered env: /sbin/python
+2024-12-19 10:36:03.992 [info] Env ("/usr/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python"]) } and reported as Some(GlobalPaths)
+2024-12-19 10:36:03.992 [info] Discovered env: /usr/sbin/python
+2024-12-19 10:36:03.992 [info] Env ("/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python3"]) } and reported as Some(GlobalPaths)
+2024-12-19 10:36:03.992 [info] Discovered env: /sbin/python3
+2024-12-19 10:36:03.992 [info] Env ("/usr/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3"]) } and reported as Some(GlobalPaths)
+2024-12-19 10:36:03.992 [info] Discovered env: /usr/sbin/python3
+2024-12-19 10:36:03.992 [info] Env ("/sbin/python3.12") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3.12", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python3.12"]) } and reported as Some(GlobalPaths)
+2024-12-19 10:36:03.992 [info] Discovered env: /sbin/python3.12
+2024-12-19 10:36:03.992 [info] Env ("/usr/sbin/python3.12") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3.12", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3.12"]) } and reported as Some(GlobalPaths)
+2024-12-19 10:36:03.992 [info] Discovered env: /usr/sbin/python3.12
+2024-12-19 10:36:03.992 [info] Locator Conda took 122.886992ms
+2024-12-19 10:36:03.992 [info] Locator Homebrew took 79.62µs
+2024-12-19 10:36:03.992 [info] Locator LinuxGlobal took 118.921457ms
+2024-12-19 10:36:03.992 [info] Locator PipEnv took 19.27µs
+2024-12-19 10:36:03.992 [info] Locator Poetry took 9.680355ms
+2024-12-19 10:36:03.992 [info] Locator PyEnv took 10.198492ms
+2024-12-19 10:36:03.992 [info] Locator Venv took 52.914µs
+2024-12-19 10:36:03.992 [info] Locator VirtualEnv took 79.47µs
+2024-12-19 10:36:03.992 [info] Locator VirtualEnvWrapper took 22.508µs
+2024-12-19 10:36:03.992 [info] Locator GlobalVirtualEnvs took 760.262µs
+2024-12-19 10:36:03.992 [info] Locator Locators took 123.003292ms
+2024-12-19 10:36:03.992 [info] Locator Path took 149.569302ms
+2024-12-19 10:36:03.992 [info] Locator Workspaces took 2.576µs
+2024-12-19 10:36:03.992 [info] Refresh completed in 150ms
+2024-12-19 10:36:03.993 [info] Resolved /bin/python
+2024-12-19 10:36:03.994 [info] Resolved /usr/bin/python
+2024-12-19 10:36:04.010 [info] Resolved /bin/python3
+2024-12-19 10:36:04.010 [info] Resolved /bin/python3.12
+2024-12-19 10:36:04.010 [info] Resolved /usr/bin/python3
+2024-12-19 10:36:04.010 [info] Resolved /usr/bin/python3.12

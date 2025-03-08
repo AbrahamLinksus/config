@@ -1,0 +1,187 @@
+2024-12-19 12:34:01.684 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2024-12-19 12:34:01.744 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2024-12-19 12:34:01.750 [info] Creating merkle client.
+2024-12-19 12:34:01.752 [info] Done creating merkle client.
+2024-12-19 12:34:01.752 [info] Doing a startup handshake.
+2024-12-19 12:34:01.805 [info] Finished initializing merkle tree in 14.161863999999696 ms.
+2024-12-19 12:34:01.805 [info] Doing the initial handshake with hash: 5c3d29cdd715ebee0f23513df2e17b0a6a19152c021ad1fed814b32fa574d148
+2024-12-19 12:34:01.807 [info] Handshake start
+2024-12-19 12:34:02.496 [info] Handshake timing: 690.9553980000001
+2024-12-19 12:34:02.497 [info] Handshake result: {"status":"STATUS_OUT_OF_SYNC","repoName":"8e9d6e9b-e5aa-4862-a7f7-5715b4589a04"}
+2024-12-19 12:34:02.497 [info] Starting fast remote sync.
+2024-12-19 12:34:02.497 [info] Total num embeddable files: 9
+2024-12-19 12:34:02.498 [info] Root hash: 5c3d29cdd715ebee0f23513df2e17b0a6a19152c021ad1fed814b32fa574d148
+2024-12-19 12:34:02.498 [info] In the out of sync case.
+2024-12-19 12:34:02.498 [info] [startSync]: ----------------------
+syncing point nextSubtree{"relativePath":".","hash":"5c3d29cdd715ebee0f23513df2e17b0a6a19152c021ad1fed814b32fa574d148"}
+2024-12-19 12:34:02.499 [info] Waiting on semaphore to be released 1
+2024-12-19 12:34:02.698 [info] Waiting on semaphore to be released 1
+2024-12-19 12:34:02.899 [info] [startSync]: ----------------------
+syncing point nextSubtree{"relativePath":"./app","hash":"1cb7ddb47aa3c5540b4ea93ffbb3cab966d395c7a39df7fc9a52eae9a8c54c57"}
+2024-12-19 12:34:02.899 [info] [startSync]: ----------------------
+syncing point nextSubtree{"relativePath":"./test","hash":"508c73516bd53fb10ed285684a8e380f2010572425b6ad55488117b8af708c52"}
+2024-12-19 12:34:02.900 [info] Waiting on semaphore to be released 2
+2024-12-19 12:34:03.099 [info] Waiting on semaphore to be released 2
+2024-12-19 12:34:03.300 [info] setting numJobsToGo to 2
+2024-12-19 12:34:03.300 [info] [startSync]: numJobs: 2
+2024-12-19 12:34:03.300 [info] Uploading 2 files.
+2024-12-19 12:34:03.738 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2024-12-19 12:34:03.739 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2024-12-19 12:34:03.740 [info] Creating merkle client.
+2024-12-19 12:34:03.740 [info] Done creating merkle client.
+2024-12-19 12:34:03.740 [info] Doing a startup handshake.
+2024-12-19 12:34:03.741 [info] Indexing job successfully done or aborted.
+2024-12-19 12:34:03.753 [info] Finished initializing merkle tree in 2.3121060000003126 ms.
+2024-12-19 12:34:03.754 [info] Doing the initial handshake with hash: 5c3d29cdd715ebee0f23513df2e17b0a6a19152c021ad1fed814b32fa574d148
+2024-12-19 12:34:03.754 [info] Handshake start
+2024-12-19 12:34:04.480 [info] Handshake timing: 726.0581969999994
+2024-12-19 12:34:04.480 [info] Handshake result: {"status":"STATUS_OUT_OF_SYNC","repoName":"8e9d6e9b-e5aa-4862-a7f7-5715b4589a04"}
+2024-12-19 12:34:04.480 [info] Starting fast remote sync.
+2024-12-19 12:34:04.480 [info] Total num embeddable files: 9
+2024-12-19 12:34:04.480 [info] Root hash: 5c3d29cdd715ebee0f23513df2e17b0a6a19152c021ad1fed814b32fa574d148
+2024-12-19 12:34:04.480 [info] In the out of sync case.
+2024-12-19 12:34:04.481 [info] [startSync]: ----------------------
+syncing point nextSubtree{"relativePath":".","hash":"5c3d29cdd715ebee0f23513df2e17b0a6a19152c021ad1fed814b32fa574d148"}
+2024-12-19 12:34:04.481 [info] Waiting on semaphore to be released 1
+2024-12-19 12:34:04.681 [info] Waiting on semaphore to be released 1
+2024-12-19 12:34:04.881 [info] [startSync]: ----------------------
+syncing point nextSubtree{"relativePath":"./app","hash":"1cb7ddb47aa3c5540b4ea93ffbb3cab966d395c7a39df7fc9a52eae9a8c54c57"}
+2024-12-19 12:34:04.882 [info] [startSync]: ----------------------
+syncing point nextSubtree{"relativePath":"./test","hash":"508c73516bd53fb10ed285684a8e380f2010572425b6ad55488117b8af708c52"}
+2024-12-19 12:34:04.882 [info] Waiting on semaphore to be released 2
+2024-12-19 12:34:05.081 [info] Waiting on semaphore to be released 2
+2024-12-19 12:34:05.281 [info] setting numJobsToGo to 2
+2024-12-19 12:34:05.282 [info] [startSync]: numJobs: 2
+2024-12-19 12:34:05.282 [info] Uploading 2 files.
+2024-12-19 12:34:05.789 [info] Finished indexing repository.
+2024-12-19 12:34:05.789 [info] Indexing job successfully done or aborted.
+2024-12-19 12:44:03.744 [info] Creating merkle client.
+2024-12-19 12:44:03.744 [info] Done creating merkle client.
+2024-12-19 12:44:03.744 [info] Doing a startup handshake.
+2024-12-19 12:44:03.768 [info] Finished initializing merkle tree in 5.65991699998267 ms.
+2024-12-19 12:44:03.769 [info] Doing the initial handshake with hash: 5c3d29cdd715ebee0f23513df2e17b0a6a19152c021ad1fed814b32fa574d148
+2024-12-19 12:44:03.771 [info] Handshake start
+2024-12-19 12:44:05.511 [info] Handshake timing: 1742.5740000000224
+2024-12-19 12:44:05.512 [info] Handshake result: {"status":"STATUS_OUT_OF_SYNC","repoName":"8e9d6e9b-e5aa-4862-a7f7-5715b4589a04"}
+2024-12-19 12:44:05.512 [info] Starting fast remote sync.
+2024-12-19 12:44:05.516 [info] Total num embeddable files: 9
+2024-12-19 12:44:05.517 [info] Root hash: 5c3d29cdd715ebee0f23513df2e17b0a6a19152c021ad1fed814b32fa574d148
+2024-12-19 12:44:05.517 [info] In the out of sync case.
+2024-12-19 12:44:05.517 [info] [startSync]: ----------------------
+syncing point nextSubtree{"relativePath":".","hash":"5c3d29cdd715ebee0f23513df2e17b0a6a19152c021ad1fed814b32fa574d148"}
+2024-12-19 12:44:05.518 [info] Waiting on semaphore to be released 1
+2024-12-19 12:44:05.718 [info] Waiting on semaphore to be released 1
+2024-12-19 12:44:05.920 [info] Waiting on semaphore to be released 1
+2024-12-19 12:44:06.121 [info] [startSync]: ----------------------
+syncing point nextSubtree{"relativePath":"./app","hash":"1cb7ddb47aa3c5540b4ea93ffbb3cab966d395c7a39df7fc9a52eae9a8c54c57"}
+2024-12-19 12:44:06.123 [info] Waiting on semaphore to be released 1
+2024-12-19 12:44:06.322 [info] Waiting on semaphore to be released 1
+2024-12-19 12:44:06.524 [info] Waiting on semaphore to be released 1
+2024-12-19 12:44:06.725 [info] setting numJobsToGo to 1
+2024-12-19 12:44:06.725 [info] [startSync]: numJobs: 1
+2024-12-19 12:44:06.726 [info] Uploading 1 files.
+2024-12-19 12:44:07.523 [info] Finished indexing repository.
+2024-12-19 12:44:07.523 [info] Indexing job successfully done or aborted.
+2024-12-19 12:54:03.745 [info] Creating merkle client.
+2024-12-19 12:54:03.746 [info] Done creating merkle client.
+2024-12-19 12:54:03.746 [info] Doing a startup handshake.
+2024-12-19 12:54:03.755 [info] Finished initializing merkle tree in 4.399149999953806 ms.
+2024-12-19 12:54:03.756 [info] Doing the initial handshake with hash: 066a4f1fb397076175b334975992b1e843a79cca9925a750a11ffd6a38db7e5b
+2024-12-19 12:54:03.758 [info] Handshake start
+2024-12-19 12:54:04.718 [info] Handshake timing: 961.3165530001279
+2024-12-19 12:54:04.718 [info] Handshake result: {"status":"STATUS_OUT_OF_SYNC","repoName":"8e9d6e9b-e5aa-4862-a7f7-5715b4589a04"}
+2024-12-19 12:54:04.718 [info] Starting fast remote sync.
+2024-12-19 12:54:04.723 [info] Total num embeddable files: 9
+2024-12-19 12:54:04.723 [info] Root hash: 066a4f1fb397076175b334975992b1e843a79cca9925a750a11ffd6a38db7e5b
+2024-12-19 12:54:04.723 [info] In the out of sync case.
+2024-12-19 12:54:04.724 [info] [startSync]: ----------------------
+syncing point nextSubtree{"relativePath":".","hash":"066a4f1fb397076175b334975992b1e843a79cca9925a750a11ffd6a38db7e5b"}
+2024-12-19 12:54:04.724 [info] Waiting on semaphore to be released 1
+2024-12-19 12:54:04.925 [info] Waiting on semaphore to be released 1
+2024-12-19 12:54:05.126 [info] Waiting on semaphore to be released 1
+2024-12-19 12:54:05.327 [info] [startSync]: ----------------------
+syncing point nextSubtree{"relativePath":"./app","hash":"ad5056034a5b9caf6790b1661c08a603cb12a6f6b0ee8dcb63866334c81323cf"}
+2024-12-19 12:54:05.329 [info] [startSync]: ----------------------
+syncing point nextSubtree{"relativePath":"./test","hash":"325949fb34d759fd8ea00d85c6f25af28a7936133064640eae44e1c501eb0849"}
+2024-12-19 12:54:05.330 [info] Waiting on semaphore to be released 2
+2024-12-19 12:54:05.527 [info] Waiting on semaphore to be released 2
+2024-12-19 12:54:05.727 [info] Waiting on semaphore to be released 2
+2024-12-19 12:54:05.928 [info] setting numJobsToGo to 2
+2024-12-19 12:54:05.928 [info] [startSync]: numJobs: 2
+2024-12-19 12:54:05.928 [info] Uploading 2 files.
+2024-12-19 12:54:08.009 [info] Finished indexing repository.
+2024-12-19 12:54:08.009 [info] Indexing job successfully done or aborted.
+2024-12-19 15:44:23.690 [info] Creating merkle client.
+2024-12-19 15:44:23.690 [info] Done creating merkle client.
+2024-12-19 15:44:23.690 [info] Doing a startup handshake.
+2024-12-19 15:44:23.708 [info] Finished initializing merkle tree in 4.801890000002459 ms.
+2024-12-19 15:44:23.709 [info] Doing the initial handshake with hash: 066a4f1fb397076175b334975992b1e843a79cca9925a750a11ffd6a38db7e5b
+2024-12-19 15:44:23.711 [info] Handshake start
+2024-12-19 15:44:24.931 [info] Handshake timing: 1221.8179719999898
+2024-12-19 15:44:24.932 [info] Handshake result: {"status":"STATUS_UP_TO_DATE","repoName":"8e9d6e9b-e5aa-4862-a7f7-5715b4589a04"}
+2024-12-19 15:44:24.932 [info] Starting fast remote sync.
+2024-12-19 15:44:24.934 [info] Total num embeddable files: 9
+2024-12-19 15:44:24.935 [info] Root hash: 066a4f1fb397076175b334975992b1e843a79cca9925a750a11ffd6a38db7e5b
+2024-12-19 15:44:24.935 [info] Finished indexing repository.
+2024-12-19 15:44:24.935 [info] Indexing job successfully done or aborted.
+2024-12-19 16:03:28.132 [info] Creating merkle client.
+2024-12-19 16:03:28.132 [info] Done creating merkle client.
+2024-12-19 16:03:28.132 [info] Doing a startup handshake.
+2024-12-19 16:03:28.141 [info] Finished initializing merkle tree in 4.575656000059098 ms.
+2024-12-19 16:03:28.141 [info] Doing the initial handshake with hash: 066a4f1fb397076175b334975992b1e843a79cca9925a750a11ffd6a38db7e5b
+2024-12-19 16:03:28.142 [info] Handshake start
+2024-12-19 16:03:32.156 [warning] Retrying handshake with timeout 4000. Error:  [deadline_exceeded] the operation timed out
+2024-12-19 16:03:32.156 [info] Handshake start
+2024-12-19 16:03:40.159 [warning] Retrying handshake with timeout 8000. Error:  [deadline_exceeded] the operation timed out
+2024-12-19 16:03:40.159 [info] Handshake start
+2024-12-19 16:03:56.171 [warning] Retrying handshake with timeout 16000. Error:  [deadline_exceeded] the operation timed out
+2024-12-19 16:03:56.171 [info] Handshake start
+2024-12-19 16:04:28.175 [warning] Retrying handshake with timeout 32000. Error:  [deadline_exceeded] the operation timed out
+2024-12-19 16:04:28.175 [info] Handshake start
+2024-12-19 16:05:32.180 [warning] Retrying handshake with timeout 64000. Error:  [deadline_exceeded] the operation timed out
+2024-12-19 16:05:32.180 [info] Handshake start
+2024-12-19 16:07:40.183 [warning] Retrying handshake with timeout 128000. Error:  [deadline_exceeded] the operation timed out
+2024-12-19 16:07:40.184 [error] Handshake failed:
+2024-12-19 16:07:40.184 [error] Error: timeout in handshake with retry
+	at t.RepoClientMultiplexer.handshakeWithRetry (/tmp/.mount_cursorigAcHc/resources/app/extensions/cursor-retrieval/dist/main.js:2:813516)
+	at async v.getServerStatus (/tmp/.mount_cursorigAcHc/resources/app/extensions/cursor-retrieval/dist/main.js:2:830054)
+	at async v.startIndexingRepository (/tmp/.mount_cursorigAcHc/resources/app/extensions/cursor-retrieval/dist/main.js:2:832745)
+2024-12-19 16:07:40.184 [error] Handshake failed.
+2024-12-19 16:07:40.185 [info] Indexing job successfully done or aborted.
+2024-12-19 16:13:28.134 [info] Creating merkle client.
+2024-12-19 16:13:28.134 [info] Done creating merkle client.
+2024-12-19 16:13:28.134 [info] Doing a startup handshake.
+2024-12-19 16:13:28.155 [info] Finished initializing merkle tree in 6.451162999961525 ms.
+2024-12-19 16:13:28.156 [info] Doing the initial handshake with hash: 066a4f1fb397076175b334975992b1e843a79cca9925a750a11ffd6a38db7e5b
+2024-12-19 16:13:28.157 [info] Handshake start
+2024-12-19 16:13:32.164 [warning] Retrying handshake with timeout 4000. Error:  [deadline_exceeded] the operation timed out
+2024-12-19 16:13:32.164 [info] Handshake start
+2024-12-19 16:13:40.170 [warning] Retrying handshake with timeout 8000. Error:  [deadline_exceeded] the operation timed out
+2024-12-19 16:13:40.170 [info] Handshake start
+2024-12-19 16:13:56.181 [warning] Retrying handshake with timeout 16000. Error:  [deadline_exceeded] the operation timed out
+2024-12-19 16:13:56.181 [info] Handshake start
+2024-12-19 16:14:28.184 [warning] Retrying handshake with timeout 32000. Error:  [deadline_exceeded] the operation timed out
+2024-12-19 16:14:28.185 [info] Handshake start
+2024-12-19 16:15:32.193 [warning] Retrying handshake with timeout 64000. Error:  [deadline_exceeded] the operation timed out
+2024-12-19 16:15:32.193 [info] Handshake start
+2024-12-19 16:17:40.194 [warning] Retrying handshake with timeout 128000. Error:  [deadline_exceeded] the operation timed out
+2024-12-19 16:17:40.194 [error] Handshake failed:
+2024-12-19 16:17:40.194 [error] Error: timeout in handshake with retry
+	at t.RepoClientMultiplexer.handshakeWithRetry (/tmp/.mount_cursorigAcHc/resources/app/extensions/cursor-retrieval/dist/main.js:2:813516)
+	at async v.getServerStatus (/tmp/.mount_cursorigAcHc/resources/app/extensions/cursor-retrieval/dist/main.js:2:830054)
+	at async v.startIndexingRepository (/tmp/.mount_cursorigAcHc/resources/app/extensions/cursor-retrieval/dist/main.js:2:832745)
+2024-12-19 16:17:40.195 [error] Handshake failed.
+2024-12-19 16:17:40.195 [info] Indexing job successfully done or aborted.
+2024-12-19 16:23:28.136 [info] Creating merkle client.
+2024-12-19 16:23:28.136 [info] Done creating merkle client.
+2024-12-19 16:23:28.136 [info] Doing a startup handshake.
+2024-12-19 16:23:28.144 [info] Finished initializing merkle tree in 4.508090000133961 ms.
+2024-12-19 16:23:28.145 [info] Doing the initial handshake with hash: 066a4f1fb397076175b334975992b1e843a79cca9925a750a11ffd6a38db7e5b
+2024-12-19 16:23:28.146 [info] Handshake start
+2024-12-19 16:23:29.653 [info] Handshake timing: 1507.7627209997736
+2024-12-19 16:23:29.654 [info] Handshake result: {"status":"STATUS_UP_TO_DATE","repoName":"8e9d6e9b-e5aa-4862-a7f7-5715b4589a04"}
+2024-12-19 16:23:29.654 [info] Starting fast remote sync.
+2024-12-19 16:23:29.654 [info] Total num embeddable files: 9
+2024-12-19 16:23:29.655 [info] Root hash: 066a4f1fb397076175b334975992b1e843a79cca9925a750a11ffd6a38db7e5b
+2024-12-19 16:23:29.655 [info] Finished indexing repository.
+2024-12-19 16:23:29.655 [info] Indexing job successfully done or aborted.

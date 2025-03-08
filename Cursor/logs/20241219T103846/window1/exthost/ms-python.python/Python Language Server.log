@@ -1,0 +1,6 @@
+2024-12-19 10:38:50.408 [info] (Client) Pylance async client (2024.8.1) started with python extension (2024.12.3)
+2024-12-19 10:38:52.688 [info] (Client) Pylance async client (2024.8.1) started with python extension (2024.12.3)
+2024-12-19 10:38:53.058 [info] [Info  - 10:38:53 AM] (9423) Pylance language server 2024.8.1 (pyright version 1.1.373, commit ee424479) starting
+2024-12-19 10:38:53.058 [info] [Info  - 10:38:53 AM] (9423) Server root directory: file:///home/JakeRA/.cursor/extensions/ms-python.vscode-pylance-2024.8.1/dist
+2024-12-19 10:38:53.061 [info] [Info  - 10:38:53 AM] (9423) Starting service instance "scheduling"
+2024-12-19 10:38:53.070 [info] [Info  - 10:38:53 AM] (9423) Starting service instance "<default>"

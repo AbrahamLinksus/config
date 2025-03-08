@@ -1,0 +1,45 @@
+2024-12-19 10:38:48.526 [info] Added views:workbench.panel.markers.view in workbench.panel.markers
+2024-12-19 10:38:48.526 [info] Added views:workbench.panel.output in workbench.panel.output
+2024-12-19 10:38:48.526 [info] Added views:terminal in terminal
+2024-12-19 10:38:48.526 [info] Added views:workbench.scm in workbench.view.scm
+2024-12-19 10:38:48.526 [info] Added views:workbench.view.search in workbench.view.search
+2024-12-19 10:38:48.526 [info] Added views:outline in workbench.view.explorer
+2024-12-19 10:38:48.526 [info] Added views:workbench.panel.composerViewPane2.view in workbench.panel.composerViewPane2
+2024-12-19 10:38:48.526 [info] Added views:workbench.panel.aichat.view in workbench.panel.aichat
+2024-12-19 10:38:48.526 [info] Added views:timeline in workbench.view.explorer
+2024-12-19 10:38:48.526 [info] Added views:workbench.explorer.fileView in workbench.view.explorer
+2024-12-19 10:38:48.665 [info] Added views:workbench.debug.welcome in workbench.view.debug
+2024-12-19 10:38:49.069 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2024-12-19 10:38:49.384 [info] Added views:workbench.view.testing in workbench.view.extension.test
+2024-12-19 10:38:49.466 [info] Added views:notepad in workbench.view.explorer
+2024-12-19 10:38:49.589 [info] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer
+2024-12-19 10:38:49.611 [info] Added view workbench.views.extensions.installed in the container workbench.view.extensions and showing it. undefined undefined undefined
+2024-12-19 10:38:49.611 [info] Added view workbench.views.extensions.popular in the container workbench.view.extensions and showing it. undefined undefined undefined
+2024-12-19 10:38:49.612 [info] Added view extensions.recommendedList in the container workbench.view.extensions and showing it. undefined undefined undefined
+2024-12-19 10:38:49.612 [info] Added view workbench.views.extensions.marketplace in the container workbench.view.extensions and showing it. undefined undefined undefined
+2024-12-19 10:38:49.612 [info] Added view workbench.views.extensions.searchInstalled in the container workbench.view.extensions and showing it. undefined undefined undefined
+2024-12-19 10:38:49.612 [info] Added view workbench.views.extensions.searchRecentlyUpdated in the container workbench.view.extensions and showing it. undefined undefined undefined
+2024-12-19 10:38:49.612 [info] Added view workbench.views.extensions.searchEnabled in the container workbench.view.extensions and showing it. undefined undefined undefined
+2024-12-19 10:38:49.612 [info] Added view workbench.views.extensions.searchDisabled in the container workbench.view.extensions and showing it. undefined undefined undefined
+2024-12-19 10:38:49.612 [info] Added view workbench.views.extensions.searchOutdated in the container workbench.view.extensions and showing it. undefined undefined undefined
+2024-12-19 10:38:49.612 [info] Added view workbench.views.extensions.searchBuiltin in the container workbench.view.extensions and showing it. undefined undefined undefined
+2024-12-19 10:38:49.612 [info] Added view workbench.views.extensions.searchWorkspaceUnsupported in the container workbench.view.extensions and showing it. undefined undefined undefined
+2024-12-19 10:38:49.612 [info] Added view workbench.views.extensions.workspaceRecommendations in the container workbench.view.extensions and showing it. undefined undefined undefined
+2024-12-19 10:38:49.612 [info] Added view workbench.views.extensions.otherRecommendations in the container workbench.view.extensions and showing it. undefined undefined undefined
+2024-12-19 10:38:49.612 [info] Added view workbench.views.extensions.builtinFeatureExtensions in the container workbench.view.extensions and showing it. undefined undefined undefined
+2024-12-19 10:38:49.613 [info] Added view workbench.views.extensions.builtinThemeExtensions in the container workbench.view.extensions and showing it. undefined undefined undefined
+2024-12-19 10:38:49.613 [info] Added view workbench.views.extensions.builtinProgrammingLanguageExtensions in the container workbench.view.extensions and showing it. undefined undefined undefined
+2024-12-19 10:38:49.613 [info] Added view workbench.views.extensions.untrustedUnsupportedExtensions in the container workbench.view.extensions and showing it. undefined undefined undefined
+2024-12-19 10:38:49.613 [info] Added view workbench.views.extensions.untrustedPartiallySupportedExtensions in the container workbench.view.extensions and showing it. undefined undefined undefined
+2024-12-19 10:38:49.613 [info] Added view workbench.views.extensions.virtualUnsupportedExtensions in the container workbench.view.extensions and showing it. undefined undefined undefined
+2024-12-19 10:38:49.613 [info] Added view workbench.views.extensions.virtualPartiallySupportedExtensions in the container workbench.view.extensions and showing it. undefined undefined undefined
+2024-12-19 10:38:49.613 [info] Added view workbench.views.extensions.deprecatedExtensions in the container workbench.view.extensions and showing it. undefined undefined undefined
+2024-12-19 10:38:50.303 [info] Added views:workbench.scm.history in workbench.view.scm
+2024-12-19 10:38:50.719 [info] Removed views:workbench.view.testing from workbench.view.extension.test
+2024-12-19 10:38:50.721 [info] Removed views:workbench.scm.history from workbench.view.scm
+2024-12-19 10:38:50.937 [info] Removed views:workbench.panel.repl.view from workbench.panel.repl
+2024-12-19 10:38:51.076 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2024-12-19 10:38:51.347 [info] Added views:workbench.view.testing in workbench.view.extension.test
+2024-12-19 10:38:52.301 [info] Added views:workbench.scm.history in workbench.view.scm
+2024-12-19 10:38:52.718 [info] Removed views:workbench.view.testing from workbench.view.extension.test
+2024-12-19 10:38:52.720 [info] Removed views:workbench.scm.history from workbench.view.scm

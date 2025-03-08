@@ -1,0 +1,114 @@
+2025-03-05 21:04:08.335 [info] Started local extension host with pid 48884.
+2025-03-05 21:04:08.593 [info] Settings Sync: Updating due to initialize
+2025-03-05 21:04:08.594 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2025-03-05 21:04:08.594 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2025-03-05 21:04:10.963 [info] [perf] Render performance baseline is 25ms
+2025-03-05 21:04:11.365 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.252.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-05 21:04:11.365 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.253.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-05 21:04:11.365 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.266.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-05 21:04:11.365 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.270.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-05 21:04:11.365 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.271.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-05 21:04:11.366 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.272.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-05 21:04:11.366 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.275.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-05 21:04:11.366 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.277.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-05 21:04:11.371 [error] [/home/JakeRA/.vscode/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-05 21:04:11.373 [error] [/home/JakeRA/.vscode/extensions/ms-toolsai.jupyter-2025.1.0-linux-x64]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-05 21:04:44.123 [error] Cannot read the extension from /home/JakeRA/.vscode/extensions/github.copilot-1.277.0: ScanningExtension: Cannot read the extension from /home/JakeRA/.vscode/extensions/github.copilot-1.277.0
+    at Kl.scanLocalExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:73160)
+2025-03-05 21:04:44.126 [error] Cannot read the extension from /home/JakeRA/.vscode/extensions/ms-toolsai.jupyter-2025.1.0-linux-x64: ScanningExtension: Cannot read the extension from /home/JakeRA/.vscode/extensions/ms-toolsai.jupyter-2025.1.0-linux-x64
+    at Kl.scanLocalExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:73160)
+2025-03-05 21:54:30.925 [error] [Extension Host] [default] Error sending telemetry FetchError: The pending stream has been canceled (caused by: getaddrinfo EAI_AGAIN telemetry.individual.githubcopilot.com)
+    at fetch (/home/JakeRA/.vscode/extensions/github.copilot-1.250.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/JakeRA/.vscode/extensions/github.copilot-1.250.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at zue.fetch (/home/JakeRA/.vscode/extensions/github.copilot-1.250.0/lib/src/network/helix.ts:93:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ERR_HTTP2_STREAM_CANCEL',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-03-05 21:59:18.402 [error] [network] #17: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Offline
+2025-03-05 21:59:18.403 [warning] Failed to fetch chat participant registry Offline
+2025-03-05 22:04:19.378 [error] [network] #18: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Offline
+2025-03-05 22:04:19.415 [warning] Failed to fetch chat participant registry Offline
+2025-03-06 10:13:51.165 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-03-06 10:13:51.165 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-03-06 10:13:51.175 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-03-06 10:13:52.665 [error] Chat response provider with identifier github.copilot-chat/gpt-3.5-turbo is already registered.: Error: Chat response provider with identifier github.copilot-chat/gpt-3.5-turbo is already registered.
+    at oPe.registerLanguageModelChat (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:492:14318)
+    at wRt.$registerLanguageModelProvider (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:492:16790)
+    at Pht.S (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:41686)
+    at Pht.Q (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:41464)
+    at Pht.M (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:40552)
+    at Pht.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:39656)
+    at vZ.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:38450)
+    at x.B (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:747)
+    at x.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:965)
+    at D6.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:630:10348)
+2025-03-06 10:13:52.666 [error] Chat response provider with identifier github.copilot-chat/gpt-4o-mini is already registered.: Error: Chat response provider with identifier github.copilot-chat/gpt-4o-mini is already registered.
+    at oPe.registerLanguageModelChat (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:492:14318)
+    at wRt.$registerLanguageModelProvider (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:492:16790)
+    at Pht.S (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:41686)
+    at Pht.Q (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:41464)
+    at Pht.M (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:40552)
+    at Pht.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:39656)
+    at vZ.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:38450)
+    at x.B (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:747)
+    at x.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:965)
+    at D6.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:630:10348)
+2025-03-06 10:13:52.666 [error] Chat response provider with identifier github.copilot-chat/gpt-4 is already registered.: Error: Chat response provider with identifier github.copilot-chat/gpt-4 is already registered.
+    at oPe.registerLanguageModelChat (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:492:14318)
+    at wRt.$registerLanguageModelProvider (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:492:16790)
+    at Pht.S (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:41686)
+    at Pht.Q (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:41464)
+    at Pht.M (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:40552)
+    at Pht.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:39656)
+    at vZ.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:38450)
+    at x.B (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:747)
+    at x.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:965)
+    at D6.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:630:10348)
+2025-03-06 10:13:52.666 [error] Chat response provider with identifier github.copilot-chat/gpt-4o is already registered.: Error: Chat response provider with identifier github.copilot-chat/gpt-4o is already registered.
+    at oPe.registerLanguageModelChat (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:492:14318)
+    at wRt.$registerLanguageModelProvider (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:492:16790)
+    at Pht.S (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:41686)
+    at Pht.Q (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:41464)
+    at Pht.M (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:40552)
+    at Pht.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:39656)
+    at vZ.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:38450)
+    at x.B (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:747)
+    at x.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:965)
+    at D6.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:630:10348)
+2025-03-06 10:13:52.666 [error] Chat response provider with identifier github.copilot-chat/o3-mini is already registered.: Error: Chat response provider with identifier github.copilot-chat/o3-mini is already registered.
+    at oPe.registerLanguageModelChat (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:492:14318)
+    at wRt.$registerLanguageModelProvider (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:492:16790)
+    at Pht.S (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:41686)
+    at Pht.Q (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:41464)
+    at Pht.M (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:40552)
+    at Pht.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:39656)
+    at vZ.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:38450)
+    at x.B (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:747)
+    at x.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:965)
+    at D6.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:630:10348)
+2025-03-06 10:13:52.667 [error] Chat response provider with identifier github.copilot-chat/claude-3.5-sonnet is already registered.: Error: Chat response provider with identifier github.copilot-chat/claude-3.5-sonnet is already registered.
+    at oPe.registerLanguageModelChat (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:492:14318)
+    at wRt.$registerLanguageModelProvider (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:492:16790)
+    at Pht.S (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:41686)
+    at Pht.Q (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:41464)
+    at Pht.M (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:40552)
+    at Pht.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:39656)
+    at vZ.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:38450)
+    at x.B (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:747)
+    at x.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:965)
+    at D6.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:630:10348)
+2025-03-06 10:13:52.667 [error] Chat response provider with identifier github.copilot-chat/gemini-2.0-flash-001 is already registered.: Error: Chat response provider with identifier github.copilot-chat/gemini-2.0-flash-001 is already registered.
+    at oPe.registerLanguageModelChat (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:492:14318)
+    at wRt.$registerLanguageModelProvider (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:492:16790)
+    at Pht.S (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:41686)
+    at Pht.Q (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:41464)
+    at Pht.M (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:40552)
+    at Pht.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:39656)
+    at vZ.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3124:38450)
+    at x.B (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:747)
+    at x.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:965)
+    at D6.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:630:10348)

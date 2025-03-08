@@ -1,0 +1,22 @@
+2025-03-06 20:57:57.672 [info] Using the Electron fetcher.
+2025-03-06 20:57:57.672 [info] Initializing Git extension service.
+2025-03-06 20:57:57.672 [info] Successfully activated the vscode.git extension.
+2025-03-06 20:57:57.672 [info] Enablement state of the vscode.git extension: true.
+2025-03-06 20:57:57.672 [info] Successfully registered Git commit message provider.
+2025-03-06 20:57:58.690 [info] Logged in as AbrahamLinksus
+2025-03-06 20:57:59.730 [info] Got Copilot token for AbrahamLinksus
+2025-03-06 20:57:59.790 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-03-06 20:57:59.790 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-03-06 20:57:59.803 [info] Registering default platform agent...
+2025-03-06 20:58:00.734 [info] Fetched model metadata in 990ms a8174bb6-12d4-4711-aa73-54cb50c4d078
+2025-03-06 20:58:01.061 [info] activationBlocker from 'languageModelAccess' took for 2248ms
+2025-03-06 21:13:11.455 [error] Error: net::ERR_CONNECTION_REFUSED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10511)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28): Failed to fetch models (557fccd8-b547-475e-a157-026528e3a280)
+2025-03-06 21:13:15.140 [error] Error: net::ERR_CONNECTION_REFUSED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10511)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28): Failed to fetch models (d9fe71ee-54e8-49f5-9271-f54fc6eaf82d)
+2025-03-06 21:22:59.746 [info] Logged in as AbrahamLinksus
+2025-03-06 21:23:00.979 [info] Got Copilot token for AbrahamLinksus
+2025-03-06 21:23:01.002 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-03-06 21:23:02.411 [info] Fetched model metadata in 1404ms cf53b06c-f2e4-49f7-b2b6-8d74673f308b

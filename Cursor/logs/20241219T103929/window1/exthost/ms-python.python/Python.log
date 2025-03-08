@@ -1,0 +1,72 @@
+2024-12-19 10:39:31.551 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-12-19 10:39:31.551 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-12-19 10:39:31.551 [info] Experiment 'pythonTestAdapter' is active
+2024-12-19 10:39:31.551 [error] Reading directory to watch failed [Error: ENOENT: no such file or directory, scandir '/home/JakeRA/my_project/scheduling/.pixi/envs'
+	at Object.readdirSync (node:fs:1507:26)
+	at t.readdirSync (node:electron/js2c/node_init:2:11418)
+	at /home/JakeRA/.cursor/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:586747
+	at /home/JakeRA/.cursor/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:586938
+	at Array.map (<anonymous>)
+	at d.initWatchers (/home/JakeRA/.cursor/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:586656)
+	at async d.ensureWatchersReady (/home/JakeRA/.cursor/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:543067)] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/JakeRA/my_project/scheduling/.pixi/envs'
+}
+2024-12-19 10:39:31.551 [error] Dir "/home/JakeRA/my_project/scheduling/.pixi/envs" is not watchable (directory does not exist)
+2024-12-19 10:39:31.551 [info] Default formatter is set to null for workspace /home/JakeRA/my_project/scheduling
+2024-12-19 10:39:31.551 [info] Python interpreter path: ~/.cache/pypoetry/virtualenvs/scheduling-6NlzEeh5-py3.12/bin/python
+2024-12-19 10:39:31.564 [info] > ~/.pyenv/bin/pyenv which python
+2024-12-19 10:39:31.564 [info] cwd: .
+2024-12-19 10:39:31.729 [info] > pixi --version
+2024-12-19 10:39:31.729 [error] [Error: spawn pixi ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'spawn pixi',
+  path: 'pixi',
+  spawnargs: [ '--version' ]
+}
+2024-12-19 10:39:31.729 [warning] could not find a pixi interpreter for the interpreter at /home/JakeRA/.cache/pypoetry/virtualenvs/scheduling-6NlzEeh5-py3.12/bin/python
+2024-12-19 10:39:31.754 [info] > conda info --json
+2024-12-19 10:39:31.763 [info] > . ~/.cache/pypoetry/virtualenvs/scheduling-6NlzEeh5-py3.12/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.cursor/extensions/ms-python.python-2024.12.3-linux-x64/python_files/printEnvVariables.py
+2024-12-19 10:39:31.763 [info] shell: bash
+2024-12-19 10:39:31.815 [info] > ~/.pyenv/versions/3.12.3/bin/python ~/.cursor/extensions/ms-python.python-2024.12.3-linux-x64/python_files/printEnvVariables.py
+2024-12-19 10:39:31.815 [info] shell: bash
+2024-12-19 10:39:31.850 [info] Setting environment variable VIRTUAL_ENV in collection to /home/JakeRA/.cache/pypoetry/virtualenvs/scheduling-6NlzEeh5-py3.12 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-12-19 10:39:31.850 [info] Setting environment variable VIRTUAL_ENV_PROMPT in collection to scheduling-py3.12 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-12-19 10:39:31.850 [info] Prepending environment variable PS1 in collection with scheduling-py3.12 {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2024-12-19 10:39:31.850 [info] Prepending environment variable PATH in collection with /home/JakeRA/.cursor/extensions/ms-python.python-2024.12.3-linux-x64/python_files/deactivate/bash:/home/JakeRA/.cache/pypoetry/virtualenvs/scheduling-6NlzEeh5-py3.12/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-12-19 10:39:31.851 [info] Send text to terminal: /home/JakeRA/.pyenv/versions/3.12.3/bin/python /home/JakeRA/.cursor/extensions/ms-python.python-2024.12.3-linux-x64/python_files/printEnvVariablesToFile.py /home/JakeRA/.cursor/extensions/ms-python.python-2024.12.3-linux-x64/python_files/deactivate/bash/envVars.txt
+2024-12-19 10:39:32.966 [info] Starting Pylance language server.
+2024-12-19 10:39:34.845 [info] Discover tests for workspace name: scheduling - uri: /home/JakeRA/my_project/scheduling/test/scheduling_test.py
+2024-12-19 11:20:10.679 [info] Discover tests for workspace name: scheduling - uri: /home/JakeRA/my_project/scheduling/test/scheduling_test.py
+2024-12-19 11:20:11.392 [info] Discover tests for workspace name: scheduling - uri: /home/JakeRA/my_project/scheduling/test/scheduling_test.py
+2024-12-19 11:20:15.654 [info] Discover tests for workspace name: scheduling - uri: /home/JakeRA/my_project/scheduling/test/scheduling_test.py
+2024-12-19 11:30:26.380 [info] Discover tests for workspace name: scheduling - uri: /home/JakeRA/my_project/scheduling/test/scheduling_test.py
+2024-12-19 11:30:40.033 [info] Discover tests for workspace name: scheduling - uri: /home/JakeRA/my_project/scheduling/test/scheduling_test.py
+2024-12-19 11:30:40.814 [info] Discover tests for workspace name: scheduling - uri: /home/JakeRA/my_project/scheduling/test/scheduling_test.py
+2024-12-19 11:30:41.629 [info] Discover tests for workspace name: scheduling - uri: /home/JakeRA/my_project/scheduling/test/scheduling_test.py
+2024-12-19 11:30:52.122 [info] Discover tests for workspace name: scheduling - uri: /home/JakeRA/my_project/scheduling/test/scheduling_test.py
+2024-12-19 11:47:04.380 [info] Discover tests for workspace name: scheduling - uri: /home/JakeRA/my_project/scheduling/app/contracts.py
+2024-12-19 11:47:06.997 [info] Discover tests for workspace name: scheduling - uri: /home/JakeRA/my_project/scheduling/app/contracts.py
+2024-12-19 11:49:13.727 [info] Discover tests for workspace name: scheduling - uri: /home/JakeRA/my_project/scheduling/test/scheduling_test.py
+2024-12-19 11:49:35.907 [info] Discover tests for workspace name: scheduling - uri: /home/JakeRA/my_project/scheduling/app/contracts.py
+2024-12-19 11:49:38.854 [info] Discover tests for workspace name: scheduling - uri: /home/JakeRA/my_project/scheduling/app/contracts.py
+2024-12-19 11:50:58.337 [info] Discover tests for workspace name: scheduling - uri: /home/JakeRA/my_project/scheduling/app/contracts.py
+2024-12-19 11:50:59.648 [info] Discover tests for workspace name: scheduling - uri: /home/JakeRA/my_project/scheduling/app/contracts.py
+2024-12-19 11:51:01.082 [info] Discover tests for workspace name: scheduling - uri: /home/JakeRA/my_project/scheduling/app/contracts.py
+2024-12-19 11:51:02.744 [info] Discover tests for workspace name: scheduling - uri: /home/JakeRA/my_project/scheduling/test/scheduling_test.py
+2024-12-19 11:51:23.301 [info] Discover tests for workspace name: scheduling - uri: /home/JakeRA/my_project/scheduling/test/scheduling_test.py
+2024-12-19 11:51:40.443 [info] Discover tests for workspace name: scheduling - uri: /home/JakeRA/my_project/scheduling/test/scheduling_test.py
+2024-12-19 11:52:45.375 [info] Discover tests for workspace name: scheduling - uri: /home/JakeRA/my_project/scheduling/test/scheduling_test.py
+2024-12-19 12:21:49.172 [info] Discover tests for workspace name: scheduling - uri: /home/JakeRA/my_project/scheduling/test/scheduling_test.py
+2024-12-19 12:21:59.171 [info] Discover tests for workspace name: scheduling - uri: /home/JakeRA/my_project/scheduling/test/scheduling_test.py
+2024-12-19 12:23:53.988 [info] Discover tests for workspace name: scheduling - uri: /home/JakeRA/my_project/scheduling/test/scheduling_test.py
+2024-12-19 12:27:48.821 [info] Discover tests for workspace name: scheduling - uri: /home/JakeRA/my_project/scheduling/app/contracts.py
+2024-12-19 12:30:11.656 [info] Discover tests for workspace name: scheduling - uri: /home/JakeRA/my_project/scheduling/app/contracts.py
+2024-12-19 12:30:24.628 [info] Discover tests for workspace name: scheduling - uri: /home/JakeRA/my_project/scheduling/test/scheduling_test.py
+2024-12-19 12:30:31.532 [info] Discover tests for workspace name: scheduling - uri: /home/JakeRA/my_project/scheduling/test/scheduling_test.py

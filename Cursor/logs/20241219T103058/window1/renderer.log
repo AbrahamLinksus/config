@@ -1,0 +1,19 @@
+2024-12-19 10:31:01.552 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-19 10:31:01.552 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-19 10:31:01.552 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-19 10:31:01.588 [warning] Missing property "isAgentModeSticky" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2024-12-19 10:31:01.588 [warning] Missing property "explicitEnableOrDisable" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2024-12-19 10:31:01.588 [warning] Missing property "lastBackgroundBugbotAt" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2024-12-19 10:31:01.824 [info] Started local extension host with pid 6044.
+2024-12-19 10:31:02.059 [error] Extension 'ms-python.python' wants API proposal 'terminalShellIntegration' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-19 10:31:02.065 [warning] [ms-python.vscode-pylance]: Cannot register 'python.analysis.autoImportCompletions'. This property is already registered.
+2024-12-19 10:31:02.066 [warning] [ms-python.vscode-pylance]: Cannot register 'python.analysis.autoSearchPaths'. This property is already registered.
+2024-12-19 10:31:02.066 [warning] [ms-python.vscode-pylance]: Cannot register 'python.analysis.stubPath'. This property is already registered.
+2024-12-19 10:31:02.066 [warning] [ms-python.vscode-pylance]: Cannot register 'python.analysis.diagnosticMode'. This property is already registered.
+2024-12-19 10:31:02.066 [warning] [ms-python.vscode-pylance]: Cannot register 'python.analysis.extraPaths'. This property is already registered.
+2024-12-19 10:31:02.066 [warning] [ms-python.vscode-pylance]: Cannot register 'python.analysis.useLibraryCodeForTypes'. This property is already registered.
+2024-12-19 10:31:02.066 [warning] [ms-python.vscode-pylance]: Cannot register 'python.analysis.typeCheckingMode'. This property is already registered.
+2024-12-19 10:31:02.066 [warning] [ms-python.vscode-pylance]: Cannot register 'python.analysis.diagnosticSeverityOverrides'. This property is already registered.
+2024-12-19 10:31:02.066 [warning] [ms-python.vscode-pylance]: Cannot register 'python.analysis.logLevel'. This property is already registered.
+2024-12-19 10:31:02.066 [warning] [ms-python.vscode-pylance]: Cannot register 'python.analysis.typeshedPaths'. This property is already registered.
+2024-12-19 10:31:05.160 [info] [perf] Render performance baseline is 20ms

@@ -1,0 +1,44 @@
+2024-12-18 13:12:52.154 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-12-18 13:12:52.154 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-12-18 13:12:52.154 [info] Experiment 'pythonTestAdapter' is active
+2024-12-18 13:12:52.154 [error] Reading directory to watch failed [Error: ENOENT: no such file or directory, scandir '/home/JakeRA/my_project/scheduling/.pixi/envs'
+	at Object.readdirSync (node:fs:1507:26)
+	at t.readdirSync (node:electron/js2c/node_init:2:11418)
+	at /home/JakeRA/.cursor/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:586747
+	at /home/JakeRA/.cursor/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:586938
+	at Array.map (<anonymous>)
+	at d.initWatchers (/home/JakeRA/.cursor/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:586656)
+	at async d.ensureWatchersReady (/home/JakeRA/.cursor/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:543067)] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/JakeRA/my_project/scheduling/.pixi/envs'
+}
+2024-12-18 13:12:52.154 [error] Dir "/home/JakeRA/my_project/scheduling/.pixi/envs" is not watchable (directory does not exist)
+2024-12-18 13:12:52.154 [info] Default formatter is set to null for workspace /home/JakeRA/my_project/scheduling
+2024-12-18 13:12:52.154 [info] Python interpreter path: ~/.cache/pypoetry/virtualenvs/scheduling-6NlzEeh5-py3.12/bin/python
+2024-12-18 13:12:52.181 [info] > ~/.pyenv/bin/pyenv which python
+2024-12-18 13:12:52.181 [info] cwd: .
+2024-12-18 13:12:52.321 [info] > pixi --version
+2024-12-18 13:12:52.322 [error] [Error: spawn pixi ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'spawn pixi',
+  path: 'pixi',
+  spawnargs: [ '--version' ]
+}
+2024-12-18 13:12:52.322 [warning] could not find a pixi interpreter for the interpreter at /home/JakeRA/.cache/pypoetry/virtualenvs/scheduling-6NlzEeh5-py3.12/bin/python
+2024-12-18 13:12:52.341 [info] > conda info --json
+2024-12-18 13:12:52.348 [info] > . ~/.cache/pypoetry/virtualenvs/scheduling-6NlzEeh5-py3.12/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.cursor/extensions/ms-python.python-2024.12.3-linux-x64/python_files/printEnvVariables.py
+2024-12-18 13:12:52.348 [info] shell: bash
+2024-12-18 13:12:52.427 [info] > ~/.pyenv/versions/3.12.3/bin/python ~/.cursor/extensions/ms-python.python-2024.12.3-linux-x64/python_files/printEnvVariables.py
+2024-12-18 13:12:52.427 [info] shell: bash
+2024-12-18 13:12:52.454 [info] Setting environment variable VIRTUAL_ENV in collection to /home/JakeRA/.cache/pypoetry/virtualenvs/scheduling-6NlzEeh5-py3.12 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-12-18 13:12:52.454 [info] Setting environment variable VIRTUAL_ENV_PROMPT in collection to scheduling-py3.12 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-12-18 13:12:52.454 [info] Prepending environment variable PS1 in collection with scheduling-py3.12 {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2024-12-18 13:12:52.454 [info] Prepending environment variable PATH in collection with /home/JakeRA/.cursor/extensions/ms-python.python-2024.12.3-linux-x64/python_files/deactivate/bash:/home/JakeRA/.cache/pypoetry/virtualenvs/scheduling-6NlzEeh5-py3.12/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-12-18 13:12:52.454 [info] Send text to terminal: /home/JakeRA/.pyenv/versions/3.12.3/bin/python /home/JakeRA/.cursor/extensions/ms-python.python-2024.12.3-linux-x64/python_files/printEnvVariablesToFile.py /home/JakeRA/.cursor/extensions/ms-python.python-2024.12.3-linux-x64/python_files/deactivate/bash/envVars.txt
+2024-12-18 13:12:53.706 [info] Starting Pylance language server.

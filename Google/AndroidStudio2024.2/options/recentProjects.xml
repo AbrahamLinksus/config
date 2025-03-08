@@ -1,0 +1,58 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ExpenseTracker – ExpenseDatabase.java [ExpenseTracker.app.main]" projectWorkspaceId="2oMm8e13H7hKk5kGMGktK53M8QI">
+              <option name="activationTimestamp" value="1730689138091" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-242.23339.11.2421.12550806" />
+              <option name="buildTimestamp" value="1729790820000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="0" y="0" width="2560" height="1374" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1730687660582" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ExpenseTrackerApp">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ExpenseTrackerApp" projectWorkspaceId="2oNErBRdf1osQhvP0ujznSIq4tk">
+              <option name="activationTimestamp" value="1731081711963" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-242.23339.11.2421.12550806" />
+              <option name="buildTimestamp" value="1729790820000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="0" y="0" width="2560" height="1374" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1730701829923" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Expense">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Expense – ExpenseAdapter.java [Expense.app.androidTest]" opened="true" projectWorkspaceId="2oZepX866eM2SDc4xT4UjVc4O5m">
+              <option name="activationTimestamp" value="1731164639606" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-242.23339.11.2421.12550806" />
+              <option name="buildTimestamp" value="1729790820000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="0" y="0" width="2560" height="1374" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1731081707971" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Expense" />
+    <option name="lastProjectLocation" value="$USER_HOME$" />
+  </component>
+</application>

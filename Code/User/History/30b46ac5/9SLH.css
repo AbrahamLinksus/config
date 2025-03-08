@@ -1,0 +1,8 @@
+@media screen and (max-width: 900px) {
+  #desktop-nav {
+    display: none;
+  }
+}
+#hambuger-nav {
+  display: flex;
+}

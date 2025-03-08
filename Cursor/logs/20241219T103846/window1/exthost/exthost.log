@@ -1,0 +1,176 @@
+2024-12-19 10:38:48.963 [info] Extension host with pid 8626 started
+2024-12-19 10:38:48.963 [info] Skipping acquiring lock for /home/JakeRA/.config/Cursor/User/workspaceStorage/793d94642de91cdbcc6cce7fe8ce2fd2.
+2024-12-19 10:38:49.068 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-19 10:38:49.081 [info] ExtensionService#_doActivateExtension anysphere.pyright, startup: false, activationEvent: 'onLanguage:python'
+2024-12-19 10:38:49.082 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-12-19 10:38:49.120 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2024-12-19 10:38:49.367 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2024-12-19 10:38:49.397 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-12-19 10:38:49.407 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-12-19 10:38:49.551 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-12-19 10:38:49.588 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-12-19 10:38:49.635 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-12-19 10:38:49.693 [info] Eager extensions activated
+2024-12-19 10:38:49.707 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2024-12-19 10:38:49.881 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2024-12-19 10:38:50.099 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2024-12-19 10:38:50.137 [info] ExtensionService#_doActivateExtension anysphere.cursor-tokenize, startup: false, activationEvent: 'onStartupFinished'
+2024-12-19 10:38:50.267 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-19 10:38:50.270 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-19 10:38:50.478 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-12-19 10:38:51.071 [info] Extension host with pid 9005 started
+2024-12-19 10:38:51.071 [info] Skipping acquiring lock for /home/JakeRA/.config/Cursor/User/workspaceStorage/793d94642de91cdbcc6cce7fe8ce2fd2.
+2024-12-19 10:38:51.077 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-19 10:38:51.088 [info] ExtensionService#_doActivateExtension anysphere.pyright, startup: false, activationEvent: 'onLanguage:python'
+2024-12-19 10:38:51.089 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-12-19 10:38:51.124 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2024-12-19 10:38:51.126 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-12-19 10:38:51.333 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2024-12-19 10:38:51.364 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-12-19 10:38:51.374 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-12-19 10:38:51.507 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-12-19 10:38:51.512 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-12-19 10:38:51.557 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-12-19 10:38:51.615 [info] Eager extensions activated
+2024-12-19 10:38:51.640 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2024-12-19 10:38:51.802 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2024-12-19 10:38:52.020 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2024-12-19 10:38:52.052 [info] ExtensionService#_doActivateExtension anysphere.cursor-tokenize, startup: false, activationEvent: 'onStartupFinished'
+2024-12-19 10:38:52.166 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-19 10:38:52.168 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-19 10:38:52.717 [info] Extension host terminating: renderer closed the MessagePort
+2024-12-19 10:38:52.738 [error] Canceled: Canceled
+	at new I (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:35402)
+	at P.U (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:6021)
+	at K.<computed>.G.charCodeAt.N.CharCode.DollarSign.K.<computed> (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:3108)
+	at l.g (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:212720)
+	at l.executeCommand (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:212154)
+	at J.registerCommand.description (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:211476)
+	at l.h (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:213259)
+	at l.g (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:212247)
+	at l.executeCommand (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:212154)
+	at Object.executeCommand (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:180:34322)
+	at d.O [as value] (/tmp/.mount_cursor6fx29k/resources/app/extensions/git/dist/main.js:2:954086)
+	at i.B (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:91:734)
+	at i.C (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:91:804)
+	at i.fire (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:91:1020)
+	at Object.f [as dispose] (/tmp/.mount_cursor6fx29k/resources/app/extensions/git/dist/main.js:2:974679)
+	at /tmp/.mount_cursor6fx29k/resources/app/extensions/git/dist/main.js:2:980801
+	at Array.forEach (<anonymous>)
+	at y.dispose (/tmp/.mount_cursor6fx29k/resources/app/extensions/git/dist/main.js:2:980787)
+	at c.<anonymous> (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:4352)
+	at c.dispose (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:4451)
+	at c.<anonymous> (/tmp/.mount_cursor6fx29k/resources/app/extensions/git/dist/main.js:2:956384)
+	at c.dispose (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:4451)
+	at $ (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:744)
+	at /tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:13778
+	at /tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:1112
+	at Object.dispose (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:12:11159)
+	at w.eb (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:10368)
+	at /tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8200
+	at Array.map (<anonymous>)
+	at w.$ (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8187)
+	at w.terminate (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8463)
+	at $.terminate (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:180:1512)
+	at u (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:193:10639)
+	at MessagePortMain.<anonymous> (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:193:6831)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619) setContext undefined
+2024-12-19 10:38:52.739 [error] Canceled: Canceled
+	at new I (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:35402)
+	at P.U (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:6021)
+	at K.<computed>.G.charCodeAt.N.CharCode.DollarSign.K.<computed> (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:3108)
+	at l.g (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:212720)
+	at l.executeCommand (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:212154)
+	at J.registerCommand.description (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:211476)
+	at l.h (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:213259)
+	at l.g (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:212247)
+	at l.executeCommand (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:212154)
+	at Object.executeCommand (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:180:34322)
+	at set hasGitHubRepositories (/tmp/.mount_cursor6fx29k/resources/app/extensions/github/dist/extension.js:2:322968)
+	at /tmp/.mount_cursor6fx29k/resources/app/extensions/github/dist/extension.js:2:323927
+	at d.value (/tmp/.mount_cursor6fx29k/resources/app/extensions/git/dist/main.js:2:1065678)
+	at i.B (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:91:734)
+	at i.C (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:91:804)
+	at i.fire (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:91:1020)
+	at Object.f [as dispose] (/tmp/.mount_cursor6fx29k/resources/app/extensions/git/dist/main.js:2:974679)
+	at /tmp/.mount_cursor6fx29k/resources/app/extensions/git/dist/main.js:2:980801
+	at Array.forEach (<anonymous>)
+	at y.dispose (/tmp/.mount_cursor6fx29k/resources/app/extensions/git/dist/main.js:2:980787)
+	at c.<anonymous> (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:4352)
+	at c.dispose (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:4451)
+	at c.<anonymous> (/tmp/.mount_cursor6fx29k/resources/app/extensions/git/dist/main.js:2:956384)
+	at c.dispose (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:4451)
+	at $ (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:744)
+	at /tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:13778
+	at /tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:1112
+	at Object.dispose (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:12:11159)
+	at w.eb (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:10368)
+	at /tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8200
+	at Array.map (<anonymous>)
+	at w.$ (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8187)
+	at w.terminate (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8463)
+	at $.terminate (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:180:1512)
+	at u (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:193:10639)
+	at MessagePortMain.<anonymous> (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:193:6831)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619) setContext undefined
+2024-12-19 10:38:52.739 [error] Canceled: Canceled
+	at new I (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:35402)
+	at P.U (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:6021)
+	at K.<computed>.G.charCodeAt.N.CharCode.DollarSign.K.<computed> (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:3108)
+	at l.g (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:212720)
+	at l.executeCommand (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:212154)
+	at J.registerCommand.description (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:211476)
+	at l.h (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:213259)
+	at l.g (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:212247)
+	at l.executeCommand (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:212154)
+	at Object.executeCommand (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:180:34322)
+	at zt.set (/home/JakeRA/.cursor/extensions/ms-toolsai.jupyter-2024.8.1-linux-x64/dist/extension.node.js:304:165051)
+	at Tb.dispose (/home/JakeRA/.cursor/extensions/ms-toolsai.jupyter-2024.8.1-linux-x64/dist/extension.node.js:342:8136)
+	at $ (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:744)
+	at /tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:13778
+	at /tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:1112
+	at Object.dispose (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:12:11159)
+	at w.eb (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:10368)
+	at /tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8200
+	at Array.map (<anonymous>)
+	at w.$ (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8187)
+	at w.terminate (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8463)
+	at $.terminate (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:180:1512)
+	at u (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:193:10639)
+	at MessagePortMain.<anonymous> (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:193:6831)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619) setContext undefined
+2024-12-19 10:38:52.739 [error] ProxyResolver#addCertificatesV1 Canceled: Canceled
+	at new I (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:35402)
+	at P.U (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:6021)
+	at K.<computed>.G.charCodeAt.N.CharCode.DollarSign.K.<computed> (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:3108)
+	at O.loadCertificates (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:49994)
+	at Object.loadAdditionalCertificates (/tmp/.mount_cursor6fx29k/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:155:33498)
+	at /tmp/.mount_cursor6fx29k/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:500:53
+	at Generator.next (<anonymous>)
+	at /tmp/.mount_cursor6fx29k/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:35:71
+	at new Promise (<anonymous>)
+	at __awaiter (/tmp/.mount_cursor6fx29k/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:31:12)
+	at /tmp/.mount_cursor6fx29k/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:499:43
+	at /tmp/.mount_cursor6fx29k/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:501:16
+	at Generator.next (<anonymous>)
+	at /tmp/.mount_cursor6fx29k/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:35:71
+	at new Promise (<anonymous>)
+	at __awaiter (/tmp/.mount_cursor6fx29k/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:31:12)
+	at getOrLoadAdditionalCertificates (/tmp/.mount_cursor6fx29k/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:497:12)
+	at addCertificatesV1 (/tmp/.mount_cursor6fx29k/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:481:9)
+	at resolveProxy (/tmp/.mount_cursor6fx29k/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:113:9)
+	at /tmp/.mount_cursor6fx29k/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:325:77
+	at new Promise (<anonymous>)
+	at _PacProxyAgent.resolveP [as resolver] (/tmp/.mount_cursor6fx29k/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:325:54)
+	at _PacProxyAgent.<anonymous> (/tmp/.mount_cursor6fx29k/resources/app/node_modules.asar/@vscode/proxy-agent/out/agent.js:70:37)
+	at Generator.next (<anonymous>)
+	at /tmp/.mount_cursor6fx29k/resources/app/node_modules.asar/@vscode/proxy-agent/out/agent.js:8:71
+	at new Promise (<anonymous>)
+	at __awaiter (/tmp/.mount_cursor6fx29k/resources/app/node_modules.asar/@vscode/proxy-agent/out/agent.js:4:12)
+	at _PacProxyAgent.connect (/tmp/.mount_cursor6fx29k/resources/app/node_modules.asar/@vscode/proxy-agent/out/agent.js:52:16)
+	at /tmp/.mount_cursor6fx29k/resources/app/node_modules.asar/agent-base/dist/index.js:73:30
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-19 10:38:53.071 [info] Extension host with pid 9005 exiting with code 0

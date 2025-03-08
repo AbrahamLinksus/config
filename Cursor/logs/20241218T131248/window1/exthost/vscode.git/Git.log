@@ -1,0 +1,35 @@
+2024-12-18 13:12:53.335 [info] [main] Log level: Info
+2024-12-18 13:12:53.335 [info] [main] Validating found git in: "git"
+2024-12-18 13:12:53.335 [info] [main] Using git "2.47.1" from "git"
+2024-12-18 13:12:53.335 [info] [Model][doInitialScan] Initial repository scan started
+2024-12-18 13:12:53.335 [info] > git rev-parse --show-toplevel [3ms]
+2024-12-18 13:12:53.342 [info] > git rev-parse --git-dir --git-common-dir [27ms]
+2024-12-18 13:12:53.347 [info] [Model][openRepository] Opened repository: /home/JakeRA/my_project/scheduling
+2024-12-18 13:12:53.362 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-18 13:12:53.363 [info] > git config --get commit.template [7ms]
+2024-12-18 13:12:53.384 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/Linux_projects refs/remotes/Linux_projects [4ms]
+2024-12-18 13:12:53.384 [info] > git rev-parse --show-toplevel [11ms]
+2024-12-18 13:12:53.398 [info] > git rev-parse --show-toplevel [7ms]
+2024-12-18 13:12:53.403 [info] > git status -z -uall [6ms]
+2024-12-18 13:12:53.416 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/Linux_projects refs/remotes/Linux_projects [8ms]
+2024-12-18 13:12:53.421 [info] > git rev-parse --show-toplevel [18ms]
+2024-12-18 13:12:53.426 [info] > git config --get commit.template [11ms]
+2024-12-18 13:12:53.428 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-18 13:12:53.429 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-12-18 13:12:53.429 [info] > git config --local branch.Linux_projects.vscode-merge-base [8ms]
+2024-12-18 13:12:53.463 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/Windows_Project refs/remotes/origin/Windows_Project [29ms]
+2024-12-18 13:12:53.503 [info] > git merge-base refs/heads/Linux_projects refs/remotes/origin/Linux_projects [35ms]
+2024-12-18 13:12:53.509 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/Linux_projects refs/remotes/Linux_projects [46ms]
+2024-12-18 13:12:53.516 [info] > git rev-list --count --left-right refs/heads/Linux_projects...refs/remotes/origin/Linux_projects [7ms]
+2024-12-18 13:12:53.527 [info] > git diff --name-status -z --diff-filter=ADMR d06d646cf1dacfe062fbbeacf421dabbf5e09aa4...refs/remotes/origin/Linux_projects [6ms]
+2024-12-18 13:12:53.527 [info] > git status -z -uall [1ms]
+2024-12-18 13:12:53.536 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/Linux_projects refs/remotes/Linux_projects [4ms]
+2024-12-18 13:12:53.568 [info] > git config --local branch.Linux_projects.vscode-merge-base [26ms]
+2024-12-18 13:12:53.576 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/Windows_Project refs/remotes/origin/Windows_Project [2ms]
+2024-12-18 13:12:53.689 [info] > git show --textconv :test/scheduling_test.py [5ms]
+2024-12-18 13:12:53.691 [info] > git ls-files --stage -- /home/JakeRA/my_project/scheduling/test/scheduling_test.py [1ms]
+2024-12-18 13:12:53.697 [info] > git cat-file -s df459a9888cda165acb8082caa9d5fa5bf80b409 [2ms]
+2024-12-18 13:12:53.891 [info] > git check-ignore -v -z --stdin [2ms]
+2024-12-18 13:12:55.976 [info] > git rev-list --max-parents=0 HEAD [3ms]
+2024-12-18 13:12:56.805 [info] > git rev-list --max-parents=0 HEAD [4ms]
+2024-12-18 13:12:57.845 [info] > git rev-list --max-parents=0 HEAD [2ms]

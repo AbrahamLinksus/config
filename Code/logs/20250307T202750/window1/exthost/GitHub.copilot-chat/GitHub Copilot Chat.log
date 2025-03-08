@@ -1,0 +1,38 @@
+2025-03-07 20:27:54.655 [info] Using the Electron fetcher.
+2025-03-07 20:27:54.655 [info] Initializing Git extension service.
+2025-03-07 20:27:54.655 [info] Successfully activated the vscode.git extension.
+2025-03-07 20:27:54.655 [info] Enablement state of the vscode.git extension: true.
+2025-03-07 20:27:54.655 [info] Successfully registered Git commit message provider.
+2025-03-07 20:27:55.635 [info] Logged in as AbrahamLinksus
+2025-03-07 20:27:55.764 [error] Error: net::ERR_CONNECTION_RESET
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10511)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28): Failed to get copilot token
+2025-03-07 20:27:55.764 [error] GitHub Copilot could not connect to server. Extension activation failed: "net::ERR_CONNECTION_RESET"
+2025-03-07 20:27:55.764 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-03-07 20:27:55.764 [error] Error: net::ERR_CONNECTION_RESET
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10511)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+2025-03-07 20:27:55.764 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-03-07 20:27:55.764 [error] Error: net::ERR_CONNECTION_RESET
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10511)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+2025-03-07 20:27:55.764 [info] activationBlocker from 'languageModelAccess' took for 1114ms
+2025-03-07 20:28:01.659 [info] Logged in as AbrahamLinksus
+2025-03-07 20:28:01.761 [error] GitHub Copilot could not connect to server. Extension activation failed: "net::ERR_CONNECTION_RESET"
+2025-03-07 20:28:42.325 [info] Logged in as AbrahamLinksus
+2025-03-07 20:28:42.809 [error] GitHub Copilot could not connect to server. Extension activation failed: "net::ERR_CONNECTION_RESET"
+2025-03-07 20:29:04.991 [info] Logged in as AbrahamLinksus
+2025-03-07 20:29:05.096 [error] GitHub Copilot could not connect to server. Extension activation failed: "net::ERR_CONNECTION_RESET"
+2025-03-07 20:29:29.254 [info] Logged in as AbrahamLinksus
+2025-03-07 20:29:29.497 [error] GitHub Copilot could not connect to server. Extension activation failed: "net::ERR_CONNECTION_RESET"
+2025-03-07 20:32:48.870 [info] Logged in as AbrahamLinksus
+2025-03-07 20:32:50.207 [info] Got Copilot token for AbrahamLinksus
+2025-03-07 20:32:50.252 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-03-07 20:32:50.252 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-03-07 20:32:50.254 [info] Registering default platform agent...
+2025-03-07 20:32:51.264 [info] Fetched model metadata in 989ms a2adf46e-3186-4670-b28c-1b218ba36f55
+2025-03-07 20:42:56.752 [info] Fetched model metadata in 975ms 45a26085-1730-411c-8dc5-edbdc3b2022c
+2025-03-07 20:57:50.218 [info] Logged in as AbrahamLinksus
+2025-03-07 20:57:51.598 [info] Got Copilot token for AbrahamLinksus
+2025-03-07 20:57:51.634 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-03-07 20:57:52.718 [info] Fetched model metadata in 1083ms 943c1c41-ae8e-4dcf-bd9a-41abf834be16

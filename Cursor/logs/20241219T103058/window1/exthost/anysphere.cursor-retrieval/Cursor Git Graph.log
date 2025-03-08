@@ -1,0 +1,5 @@
+2024-12-19 10:31:03.898 [info] Using repo backend url https://repo42.cursor.sh
+2024-12-19 10:31:04.530 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/JakeRA/my_project/scheduling/test/scheduling_test.py
+2024-12-19 10:31:06.352 [info] Git graph is enabled
+2024-12-19 10:31:06.352 [info] Creating indexer for repo /home/JakeRA/my_project/scheduling
+2024-12-19 10:31:06.720 [error] Failed to initialize inner. Retrying... {"error":{"name":"ConnectError","rawMessage":"This operation was aborted","code":1,"metadata":{},"details":[],"cause":{}},"rootUri":"/home/JakeRA/my_project/scheduling"}

@@ -1,0 +1,57 @@
+2025-03-07 20:27:53.042 [info] Started local extension host with pid 18065.
+2025-03-07 20:27:53.154 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.252.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-07 20:27:53.154 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.253.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-07 20:27:53.154 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.266.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-07 20:27:53.154 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.270.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-07 20:27:53.154 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.271.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-07 20:27:53.154 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.272.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-07 20:27:53.154 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.275.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-07 20:27:53.155 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.277.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-07 20:27:53.212 [error] [/home/JakeRA/.vscode/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-07 20:27:53.212 [error] [/home/JakeRA/.vscode/extensions/ms-toolsai.jupyter-2025.1.0-linux-x64]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-07 20:27:53.216 [error] [/home/JakeRA/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-x64]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.98.0.
+2025-03-07 20:27:53.871 [info] Settings Sync: Updating due to initialize
+2025-03-07 20:27:53.872 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2025-03-07 20:27:53.872 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2025-03-07 20:27:54.680 [error] [network] #1: https://api.github.com/copilot_internal/user - error GET Failed to fetch
+2025-03-07 20:27:54.680 [error] Failed to fetch: TypeError: Failed to fetch
+    at i$s (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3090:35915)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3090:37096
+    at prt.c (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:494:27265)
+    at prt.request (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3090:37088)
+    at Kat.y (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3422:1914)
+    at Kat.w (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3422:1776)
+    at vZ.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3422:1691)
+2025-03-07 20:27:55.688 [error] [Extension Host] [auth] auth: FetchError: read ECONNRESET
+    at fetch (/home/JakeRA/.vscode/extensions/github.copilot-1.250.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/JakeRA/.vscode/extensions/github.copilot-1.250.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at zue.fetch (/home/JakeRA/.vscode/extensions/github.copilot-1.250.0/lib/src/network/helix.ts:93:22)
+    at fetchCopilotToken (/home/JakeRA/.vscode/extensions/github.copilot-1.250.0/lib/src/auth/copilotToken.ts:203:16)
+    at authFromGitHubToken (/home/JakeRA/.vscode/extensions/github.copilot-1.250.0/lib/src/auth/copilotToken.ts:129:22)
+    at auth (/home/JakeRA/.vscode/extensions/github.copilot-1.250.0/extension/src/auth.ts:40:25)
+    at authShowWarnings (/home/JakeRA/.vscode/extensions/github.copilot-1.250.0/extension/src/auth.ts:96:25)
+    at Qae.getCopilotToken (/home/JakeRA/.vscode/extensions/github.copilot-1.250.0/extension/src/auth.ts:144:33) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ECONNRESET',
+  errno: -104,
+  erroredSysCall: 'read'
+}
+2025-03-07 20:27:55.725 [error] [network] #3: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-03-07 20:27:55.725 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-07 20:27:55.758 [info] [perf] Render performance baseline is 15ms
+2025-03-07 20:28:11.808 [error] [Extension Host] [default] Error sending telemetry FetchError: read ECONNRESET
+    at fetch (/home/JakeRA/.vscode/extensions/github.copilot-1.250.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/JakeRA/.vscode/extensions/github.copilot-1.250.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at zue.fetch (/home/JakeRA/.vscode/extensions/github.copilot-1.250.0/lib/src/network/helix.ts:93:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ECONNRESET',
+  errno: -104,
+  erroredSysCall: 'read'
+}
+2025-03-07 20:28:23.611 [error] net::ERR_CONNECTION_RESET: Error: net::ERR_CONNECTION_RESET
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10511)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
