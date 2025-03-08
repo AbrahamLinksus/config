@@ -2,13 +2,13 @@
 count=0
 
 [Session: saved at previous logout]
-clientId1=10aad76368000174143234200000010700004
+clientId1=10aad76368000174143771100000068630004
 clientId2=10aad76368000173442536200000010890003
 count=2
 discardCommand2[$e]=rm,-f,$HOME/.cache/sessions/Thunar-10aad76368000173442536200000010890003
 program1=/usr/lib/DiscoverNotifier
 program2=Thunar
-restartCommand1=/usr/lib/DiscoverNotifier,-session,10aad76368000174143234200000010700004_1741432973_6590
+restartCommand1=/usr/lib/DiscoverNotifier,-session,10aad76368000174143771100000068630004_1741437736_767649
 restartCommand2=Thunar,--sm-client-id,10aad76368000173442536200000010890003,--daemon
 restartStyleHint1=0
 restartStyleHint2=0
