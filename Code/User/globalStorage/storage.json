@@ -38,7 +38,8 @@
             "file:///home/JakeRA/learning/html/test_portfolio": "__default__profile__",
             "file:///home/JakeRA/my_project/Resume_Shortlisting": "__default__profile__",
             "file:///home/JakeRA/my_project/Resume_Shortlisting/frontend": "__default__profile__",
-            "file:///home/JakeRA/.config/waybar": "__default__profile__"
+            "file:///home/JakeRA/.config/waybar": "__default__profile__",
+            "file:///home/JakeRA/.config": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -92,7 +93,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -107,6 +109,17 @@
                                     },
                                     "enabled": true,
                                     "label": "~/.config/waybar"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/JakeRA/.config",
+                                        "path": "/home/JakeRA/.config",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -195,17 +208,6 @@
                                     },
                                     "enabled": true,
                                     "label": "/home/JakeRA"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/JakeRA/learning/C_Coding",
-                                        "path": "/home/JakeRA/learning/C_Coding",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/learning/C_Coding"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -1833,11 +1835,11 @@
             "folder": "file:///home/JakeRA/.config/waybar",
             "backupPath": "/home/JakeRA/.config/Code/Backups/a0976edbf1309a456afc26ecf967ed37",
             "uiState": {
-                "mode": 1,
-                "x": 807,
-                "y": 50,
-                "width": 771,
-                "height": 407
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 800,
+                "height": 900
             }
         },
         "openedWindows": []

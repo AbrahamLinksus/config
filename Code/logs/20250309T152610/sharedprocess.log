@@ -154,3 +154,14 @@
     at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
     at async Zl.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
     at async Jl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2025-03-09 15:31:18.211 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.252.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-09 15:31:18.211 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.253.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-09 15:31:18.211 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.266.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-09 15:31:18.211 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.270.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-09 15:31:18.211 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.271.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-09 15:31:18.212 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.272.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-09 15:31:18.212 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.275.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-09 15:31:18.212 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.277.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-09 15:31:18.214 [error] [/home/JakeRA/.vscode/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-09 15:31:18.214 [error] [/home/JakeRA/.vscode/extensions/ms-toolsai.jupyter-2025.1.0-linux-x64]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-09 15:31:18.215 [error] [/home/JakeRA/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-x64]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.98.0.

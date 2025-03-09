@@ -1,0 +1,6 @@
+2025-03-09 15:33:02.188 [info] Using the Electron fetcher.
+2025-03-09 15:33:02.188 [info] Initializing Git extension service.
+2025-03-09 15:33:02.188 [info] Successfully activated the vscode.git extension.
+2025-03-09 15:33:02.188 [info] Enablement state of the vscode.git extension: true.
+2025-03-09 15:33:02.188 [info] Successfully registered Git commit message provider.
+2025-03-09 15:33:03.109 [info] copilot token chat_enabled: undefined, sku: 
