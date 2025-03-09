@@ -15,7 +15,7 @@
                 "folderUri": "file:///home/JakeRA/learning/html/Website"
             },
             {
-                "folderUri": "file:///home/JakeRA/learning/html/Portfolio"
+                "folderUri": "file:///home/JakeRA/.config/waybar"
             }
         ],
         "emptyWindows": []
@@ -37,7 +37,8 @@
             "file:///home/JakeRA/learning/html/Website": "__default__profile__",
             "file:///home/JakeRA/learning/html/test_portfolio": "__default__profile__",
             "file:///home/JakeRA/my_project/Resume_Shortlisting": "__default__profile__",
-            "file:///home/JakeRA/my_project/Resume_Shortlisting/frontend": "__default__profile__"
+            "file:///home/JakeRA/my_project/Resume_Shortlisting/frontend": "__default__profile__",
+            "file:///home/JakeRA/.config/waybar": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -91,11 +92,21 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/JakeRA/.config/waybar",
+                                        "path": "/home/JakeRA/.config/waybar",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/waybar"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -197,17 +208,6 @@
                                     "label": "~/learning/C_Coding"
                                 },
                                 {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/JakeRA/learning/html/sample-site",
-                                        "path": "/home/JakeRA/learning/html/sample-site",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/learning/html/sample-site"
-                                },
-                                {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
@@ -278,13 +278,6 @@
                         "submenu": {
                             "items": [
                                 {
-                                    "id": "github.copyVscodeDevLinkFile",
-                                    "label": "Copy vscode.dev Link"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
-                                {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
                                 }
@@ -346,14 +339,6 @@
                                             }
                                         ]
                                     }
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
-                                {
-                                    "id": "workbench.userDataSync.actions.manage",
-                                    "label": "Settings Sync is On",
-                                    "checked": true
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -912,8 +897,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1846,14 +1830,14 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/JakeRA/learning/html/Portfolio",
-            "backupPath": "/home/JakeRA/.config/Code/Backups/26cd6728a5ce47ef7fd7f918850fb899",
+            "folder": "file:///home/JakeRA/.config/waybar",
+            "backupPath": "/home/JakeRA/.config/Code/Backups/a0976edbf1309a456afc26ecf967ed37",
             "uiState": {
                 "mode": 1,
-                "x": 851,
-                "y": 28,
-                "width": 855,
-                "height": 888
+                "x": 807,
+                "y": 50,
+                "width": 771,
+                "height": 407
             }
         },
         "openedWindows": []

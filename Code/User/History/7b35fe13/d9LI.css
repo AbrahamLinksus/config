@@ -1,0 +1,13 @@
+window#waybar {
+    background: white;
+    color: black;
+    border-bottom: 2px solid #89b4fa;
+    border-radius: 20px;
+}
+
+#clock {
+    padding: 0 10px;
+    background: #89b4fa;
+    color: #1e1e2e;
+    border-radius: 5px;
+}

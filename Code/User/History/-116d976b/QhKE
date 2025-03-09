@@ -1,0 +1,39 @@
+{
+    "layer": "top",
+    "position": "top",
+    "height": 30,
+
+    "modules-left": ["clock"],
+    "modules-center": ["hyprland/workspaces"],
+    "modules-right": ["custom/battery", "custom/network", "custom/audio", "custom/bluetooth", "tray"],
+
+    "clock": {
+        "format": " {:%H:%M:%S}",
+        "tooltip-format": " {:%A, %B %d, %Y}",
+        "on-click": "zenity --info --text='Current Time: $(date)' --title='Clock Info'"
+    },
+
+    "custom/battery": {
+        "format": "  {capacity}%",
+        "tooltip": true,
+        "on-click": "alacritty -e upower -i /org/freedesktop/UPower/devices/battery_BAT0"
+    },
+
+    "custom/network": {
+        "format": " ",
+        "tooltip-format": "{essid} ({signalStrength}%)",
+        "on-click": "nm-connection-editor"
+    },
+
+    "custom/audio": {
+        "format": " {volume}%",
+        "tooltip": true,
+        "on-click": "pavucontrol"
+    },
+
+    "custom/bluetooth": {
+        "format": " ",
+        "tooltip": true,
+        "on-click": "blueman-manager"
+    }
+}

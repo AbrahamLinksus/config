@@ -1,0 +1,19 @@
+window#waybar {
+    margin: 10px;
+    padding: 5px;
+    border-radius: 10px;
+    background: #1e1e2e;
+    color: #cdd6f4;
+    border: 2px solid #89b4fa;
+}
+
+#clock {
+    padding: 0 15px;
+    background: #89b4fa;
+    color: #1e1e2e;
+    border-radius: 5px;
+}
+
+#battery, #network, #pulseaudio, #bluetooth {
+    padding: 0 10px;
+}

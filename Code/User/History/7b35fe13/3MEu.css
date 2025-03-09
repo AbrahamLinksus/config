@@ -1,0 +1,36 @@
+window#waybar {
+    margin: 10px;
+    padding: 5px;
+    border-radius: 10px;
+    background: #1e1e2e;
+    color: #cdd6f4;
+    border: 2px solid #89b4fa;
+    font-size: 14px;
+}
+
+/* Clock - Left Side */
+#clock {
+    padding: 0 15px;
+    background: #89b4fa;
+    color: #1e1e2e;
+    border-radius: 5px;
+}
+
+/* Workspaces - Proper Centering */
+#hyprland-workspaces {
+    min-width: 300px;  /* Ensures it has enough space to stay in the center */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Right-Side Icons */
+#custom-battery, #custom-network, #custom-audio, #custom-bluetooth, #tray {
+    padding: 0 10px;
+    font-size: 18px;
+}
+
+/* Set colors for each icon */
+#custom-battery { color: #a6e3a1; }
+#custom-network { color: #89b4fa; }
+#custom-audio { color: #f9e2af; }
+#custom-bluetooth { color: #cba6f7; }

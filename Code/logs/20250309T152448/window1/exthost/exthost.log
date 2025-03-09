@@ -1,0 +1,20 @@
+2025-03-09 15:24:51.233 [info] Extension host with pid 6490 started
+2025-03-09 15:24:51.233 [info] Skipping acquiring lock for /home/JakeRA/.config/Code/User/workspaceStorage/fbe92d3ecfe8841119167221d1c870ac.
+2025-03-09 15:24:51.260 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-03-09 15:24:51.286 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-03-09 15:24:51.288 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-03-09 15:24:51.332 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-03-09 15:24:51.399 [info] Eager extensions activated
+2025-03-09 15:24:51.408 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-03-09 15:24:51.409 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-03-09 15:24:51.424 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-03-09 15:24:51.473 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-03-09 15:24:51.755 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-03-09 15:24:51.875 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-03-09 15:24:52.008 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-03-09 15:24:52.066 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-03-09 15:24:52.073 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-03-09 15:24:52.080 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-03-09 15:24:52.115 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2025-03-09 15:25:08.830 [info] Extension host terminating: renderer closed the MessagePort
+2025-03-09 15:25:08.851 [info] Extension host with pid 6490 exiting with code 0
