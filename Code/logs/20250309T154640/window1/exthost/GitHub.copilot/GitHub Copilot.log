@@ -1,5 +1,5 @@
-2025-03-08 18:46:18.208 [info] [auth] GitHub login failed
-2025-03-08 18:46:18.919 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
+2025-03-09 15:46:44.232 [info] [auth] GitHub login failed
+2025-03-09 15:46:44.924 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
  Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
     at new X509Certificate (node:internal/crypto/x509:119:21)
     at /home/JakeRA/.vscode/extensions/github.copilot-1.250.0/lib/src/network/certificateReaders.ts:79:36
@@ -18,7 +18,7 @@
   reason: 'NO_START_LINE',
   code: 'ERR_OSSL_PEM_NO_START_LINE'
 }
-2025-03-08 18:46:18.919 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
+2025-03-09 15:46:44.924 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
  Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
     at new X509Certificate (node:internal/crypto/x509:119:21)
     at /home/JakeRA/.vscode/extensions/github.copilot-1.250.0/lib/src/network/certificateReaders.ts:79:36
@@ -37,4 +37,4 @@
   reason: 'NO_START_LINE',
   code: 'ERR_OSSL_PEM_NO_START_LINE'
 }
-2025-03-08 18:46:18.919 [info] [certificates] Removed 2 expired certificates
+2025-03-09 15:46:44.924 [info] [certificates] Removed 2 expired certificates
