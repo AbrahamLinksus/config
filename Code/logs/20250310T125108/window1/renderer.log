@@ -1,0 +1,32 @@
+2025-03-10 12:51:08.979 [info] Started local extension host with pid 3454.
+2025-03-10 12:51:09.523 [info] Settings Sync: Updating due to initialize
+2025-03-10 12:51:09.523 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2025-03-10 12:51:09.523 [info] Settings Sync: Authentication providers updated []
+2025-03-10 12:51:09.538 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2025-03-10 12:51:09.538 [info] Settings Sync: Authentication providers updated ["github"]
+2025-03-10 12:51:09.539 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2025-03-10 12:51:09.539 [info] Settings Sync: Authentication providers updated ["github"]
+2025-03-10 12:51:09.539 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2025-03-10 12:51:09.539 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2025-03-10 12:51:09.539 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2025-03-10 12:51:09.539 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2025-03-10 12:51:09.548 [info] Settings Sync: Updating due to declared authentication providers changed
+2025-03-10 12:51:09.548 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2025-03-10 12:51:09.548 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2025-03-10 12:51:09.548 [info] Settings Sync: Updating due to declared authentication providers changed
+2025-03-10 12:51:09.548 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2025-03-10 12:51:09.548 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2025-03-10 12:51:09.616 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2025-03-10 12:51:09.616 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2025-03-10 12:51:11.643 [info] [perf] Render performance baseline is 21ms
+2025-03-10 12:51:12.056 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.253.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-10 12:51:12.056 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.252.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-10 12:51:12.057 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.266.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-10 12:51:12.057 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.271.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-10 12:51:12.057 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.270.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-10 12:51:12.057 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.272.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-10 12:51:12.058 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.277.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-10 12:51:12.058 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.275.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-10 12:51:12.065 [error] [/home/JakeRA/.vscode/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-10 12:51:12.065 [error] [/home/JakeRA/.vscode/extensions/ms-toolsai.jupyter-2025.1.0-linux-x64]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-10 12:51:12.068 [error] [/home/JakeRA/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-x64]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.98.0.

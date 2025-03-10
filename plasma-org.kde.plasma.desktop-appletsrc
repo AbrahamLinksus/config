@@ -22,7 +22,7 @@ DialogWidth=720
 
 [Containments][1][General]
 arrangement=1
-positions={"1707x960":["8"\\,"8"\\,"desktop:/Everything"\\,"7"\\,"4"]\\,"2560x1440":[""]}
+positions={"1707x960":["8","8","desktop:/Everything","7","4"],"2560x1440":["1","12"]}
 sortMode=-1
 
 [Containments][1][Wallpaper][org.kde.image][General]
@@ -61,8 +61,8 @@ plugin=org.kde.plasma.kickoff
 
 [Containments][2][Applets][3][Configuration]
 PreloadWeight=100
-popupHeight=510
-popupWidth=647
+popupHeight=516
+popupWidth=655
 
 [Containments][2][Applets][3][Configuration][General]
 favoritesPortedToKAstats=true

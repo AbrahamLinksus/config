@@ -1,0 +1,64 @@
+2025-03-10 12:51:04.331 [info] Using the Electron fetcher.
+2025-03-10 12:51:04.331 [info] Initializing Git extension service.
+2025-03-10 12:51:04.331 [info] Successfully activated the vscode.git extension.
+2025-03-10 12:51:04.331 [info] Enablement state of the vscode.git extension: true.
+2025-03-10 12:51:04.331 [info] Successfully registered Git commit message provider.
+2025-03-10 12:51:05.254 [error] Canceled: Canceled
+    at Dc (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110189
+    at Array.forEach (<anonymous>)
+    at py.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110129)
+    at z_.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10082)
+    at EC.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+    at Zi (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15084)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11632)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949): Failed to get copilot token
+2025-03-10 12:51:05.254 [error] GitHub Copilot could not connect to server. Extension activation failed: "Canceled"
+2025-03-10 12:51:05.254 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-03-10 12:51:05.254 [error] Canceled: Canceled
+    at Dc (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110189
+    at Array.forEach (<anonymous>)
+    at py.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110129)
+    at z_.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10082)
+    at EC.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+    at Zi (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15084)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11632)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-03-10 12:51:05.254 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-03-10 12:51:05.254 [error] Canceled: Canceled
+    at Dc (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110189
+    at Array.forEach (<anonymous>)
+    at py.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110129)
+    at z_.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10082)
+    at EC.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+    at Zi (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15084)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11632)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-03-10 12:51:05.254 [info] copilot token chat_enabled: undefined, sku: 
+2025-03-10 12:51:05.255 [info] activationBlocker from 'languageModelAccess' took for 25ms
+2025-03-10 12:51:05.256 [error] GitHub Copilot could not connect to server. Extension activation failed: "Canceled"
+2025-03-10 12:51:05.256 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-03-10 12:51:05.256 [error] Canceled: Canceled
+    at new tT (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:108738)
+    at py.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113348)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110842)
+    at tw.getAccounts (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:2790)
+    at Object.getAccounts (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:36166)
+    at ixe (/home/JakeRA/.vscode/extensions/github.copilot-chat-0.22.4/dist/extension.js:613:953)
+    at g9 (/home/JakeRA/.vscode/extensions/github.copilot-chat-0.22.4/dist/extension.js:613:1338)
+    at r (/home/JakeRA/.vscode/extensions/github.copilot-chat-0.22.4/dist/extension.js:1108:4735)
+    at H0.getOrCreate (/home/JakeRA/.vscode/extensions/github.copilot-chat-0.22.4/dist/extension.js:613:599)
+    at jk.getAnyGitHubSession (/home/JakeRA/.vscode/extensions/github.copilot-chat-0.22.4/dist/extension.js:1108:4840)
+    at jk.getCopilotToken (/home/JakeRA/.vscode/extensions/github.copilot-chat-0.22.4/dist/extension.js:282:37804)
+    at oE._inspectContext (/home/JakeRA/.vscode/extensions/github.copilot-chat-0.22.4/dist/extension.js:613:6173)
+    at C1.value (/home/JakeRA/.vscode/extensions/github.copilot-chat-0.22.4/dist/extension.js:613:4757)
+    at jt._deliver (/home/JakeRA/.vscode/extensions/github.copilot-chat-0.22.4/dist/extension.js:271:890)
+    at jt._deliverQueue (/home/JakeRA/.vscode/extensions/github.copilot-chat-0.22.4/dist/extension.js:271:979)
+    at jt.fire (/home/JakeRA/.vscode/extensions/github.copilot-chat-0.22.4/dist/extension.js:271:1313)
+    at jk._handleAuthChangeEvent (/home/JakeRA/.vscode/extensions/github.copilot-chat-0.22.4/dist/extension.js:282:39205)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)

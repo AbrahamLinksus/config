@@ -15,7 +15,7 @@
                 "folderUri": "file:///home/JakeRA/learning/html/Website"
             },
             {
-                "folderUri": "file:///home/JakeRA/.config/hypr"
+                "folderUri": "file:///home/JakeRA/.config/rofi"
             }
         ],
         "emptyWindows": []
@@ -40,7 +40,8 @@
             "file:///home/JakeRA/my_project/Resume_Shortlisting/frontend": "__default__profile__",
             "file:///home/JakeRA/.config/waybar": "__default__profile__",
             "file:///home/JakeRA/.config": "__default__profile__",
-            "file:///home/JakeRA/.config/hypr": "__default__profile__"
+            "file:///home/JakeRA/.config/hypr": "__default__profile__",
+            "file:///home/JakeRA/.config/rofi": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -104,6 +105,28 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/JakeRA/.config/rofi",
+                                        "path": "/home/JakeRA/.config/rofi",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/rofi"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/JakeRA/learning/html/Portfolio",
+                                        "path": "/home/JakeRA/learning/html/Portfolio",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/learning/html/Portfolio"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/JakeRA/.config/hypr",
                                         "path": "/home/JakeRA/.config/hypr",
                                         "scheme": "file"
@@ -132,17 +155,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/.config"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/JakeRA/learning/html/Portfolio",
-                                        "path": "/home/JakeRA/learning/html/Portfolio",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/learning/html/Portfolio"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -198,17 +210,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/learning/html/Website"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/JakeRA/learning",
-                                        "path": "/home/JakeRA/learning",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/learning"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -1833,14 +1834,14 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/JakeRA/.config/hypr",
-            "backupPath": "/home/JakeRA/.config/Code/Backups/17c9df5de35758ffd59e587b7d9cf283",
+            "folder": "file:///home/JakeRA/.config/rofi",
+            "backupPath": "/home/JakeRA/.config/Code/Backups/84b7a4163b5c6b57f33a6fd41e00ec86",
             "uiState": {
                 "mode": 0,
                 "x": 0,
                 "y": 0,
                 "width": 800,
-                "height": 415
+                "height": 436
             }
         },
         "openedWindows": []

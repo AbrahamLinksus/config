@@ -1,5 +1,0 @@
-2025-03-09 15:23:26.400 [info] update#setState idle
-2025-03-09 15:23:56.411 [info] update#setState checking for updates
-2025-03-09 15:23:56.420 [info] update#setState available for download
-2025-03-09 15:24:44.723 [info] Extension host with pid 6013 exited with code: 0, signal: unknown.
-2025-03-09 15:24:44.745 [error] [UtilityProcessWorker]: terminated unexpectedly with code 82, signal: unknown
