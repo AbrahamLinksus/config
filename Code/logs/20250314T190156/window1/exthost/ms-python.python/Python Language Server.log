@@ -1,0 +1,16 @@
+2025-03-14 19:02:01.083 [info] (Client) Pylance async client (2025.3.2) started with python extension (2025.2.0)
+2025-03-14 19:02:01.494 [info] [Info  - 7:02:01 PM] (58835) Server root directory: file:///home/JakeRA/.vscode/extensions/ms-python.vscode-pylance-2025.3.2/dist
+2025-03-14 19:02:01.495 [info] [Info  - 7:02:01 PM] (58835) Pylance language server 2025.3.2 (pyright version 1.1.396, commit 3e2236a7) starting
+2025-03-14 19:02:01.498 [info] [Info  - 7:02:01 PM] (58835) Starting service instance "Resume_Shortlisting"
+2025-03-14 19:02:01.526 [info] [Info  - 7:02:01 PM] (58835) Loading pyproject.toml file at /home/JakeRA/my_project/Resume_Shortlisting/pyproject.toml
+2025-03-14 19:02:01.526 [info] [Info  - 7:02:01 PM] (58835) Pyproject file "/home/JakeRA/my_project/Resume_Shortlisting/pyproject.toml" has no "[tool.pyright]" section.
+2025-03-14 19:02:01.527 [info] [Info  - 7:02:01 PM] (58835) Setting environmentName for service "Resume_Shortlisting": "3.13.1 (.venv venv)"
+2025-03-14 19:02:01.527 [info] [Info  - 7:02:01 PM] (58835) Setting pythonPath for service "Resume_Shortlisting": "/home/JakeRA/my_project/Resume_Shortlisting/.venv/bin/python"
+2025-03-14 19:02:01.527 [info] [Info  - 7:02:01 PM] (58835) No include entries specified; assuming /home/JakeRA/my_project/Resume_Shortlisting
+2025-03-14 19:02:01.527 [info] [Info  - 7:02:01 PM] (58835) Auto-excluding **/node_modules
+2025-03-14 19:02:01.527 [info] [Info  - 7:02:01 PM] (58835) Auto-excluding **/__pycache__
+2025-03-14 19:02:01.527 [info] [Info  - 7:02:01 PM] (58835) Auto-excluding **/.*
+2025-03-14 19:02:01.557 [info] [Info  - 7:02:01 PM] (58835) Assuming Python version 3.13.2.final.0
+2025-03-14 19:02:01.606 [info] [Info  - 7:02:01 PM] (58835) Found 3 source files
+2025-03-14 19:02:01.940 [info] [Info  - 7:02:01 PM] (58835) Background analysis(1) root directory: file:///home/JakeRA/.vscode/extensions/ms-python.vscode-pylance-2025.3.2/dist
+2025-03-14 19:02:01.942 [info] [Info  - 7:02:01 PM] (58835) Background analysis(1) started

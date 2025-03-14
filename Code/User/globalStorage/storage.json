@@ -15,7 +15,10 @@
                 "folderUri": "file:///home/JakeRA/learning/html/Website"
             },
             {
-                "folderUri": "file:///home/JakeRA/.config/rofi"
+                "folderUri": "file:///home/JakeRA/learning/html/Portfolio"
+            },
+            {
+                "folderUri": "file:///home/JakeRA/my_project/Resume_Shortlisting"
             }
         ],
         "emptyWindows": []
@@ -41,7 +44,9 @@
             "file:///home/JakeRA/.config/waybar": "__default__profile__",
             "file:///home/JakeRA/.config": "__default__profile__",
             "file:///home/JakeRA/.config/hypr": "__default__profile__",
-            "file:///home/JakeRA/.config/rofi": "__default__profile__"
+            "file:///home/JakeRA/.config/rofi": "__default__profile__",
+            "file:///home/JakeRA/learning/tw-pro": "__default__profile__",
+            "file:///home/JakeRA/learning/javascript": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -95,8 +100,7 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -105,12 +109,23 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/JakeRA/.config/rofi",
-                                        "path": "/home/JakeRA/.config/rofi",
+                                        "external": "file:///home/JakeRA/my_project/Resume_Shortlisting",
+                                        "path": "/home/JakeRA/my_project/Resume_Shortlisting",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/rofi"
+                                    "label": "~/my_project/Resume_Shortlisting"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/JakeRA/learning/javascript",
+                                        "path": "/home/JakeRA/learning/javascript",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/learning/javascript"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -122,6 +137,28 @@
                                     },
                                     "enabled": true,
                                     "label": "~/learning/html/Portfolio"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/JakeRA/learning/tw-pro",
+                                        "path": "/home/JakeRA/learning/tw-pro",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/learning/tw-pro"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/JakeRA/.config/rofi",
+                                        "path": "/home/JakeRA/.config/rofi",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/rofi"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -171,45 +208,12 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/JakeRA/my_project/Resume_Shortlisting",
-                                        "path": "/home/JakeRA/my_project/Resume_Shortlisting",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/my_project/Resume_Shortlisting"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
                                         "external": "file:///home/JakeRA/learning/html/test_portfolio/html-css-js-portfolio-tutorial-2",
                                         "path": "/home/JakeRA/learning/html/test_portfolio/html-css-js-portfolio-tutorial-2",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
                                     "label": "~/learning/html/test_portfolio/html-css-js-portfolio-tutorial-2"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/JakeRA/learning/html/test_portfolio",
-                                        "path": "/home/JakeRA/learning/html/test_portfolio",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/learning/html/test_portfolio"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/JakeRA/learning/html/Website",
-                                        "path": "/home/JakeRA/learning/html/Website",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/learning/html/Website"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -281,6 +285,13 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
+                                {
+                                    "id": "github.copyVscodeDevLinkFile",
+                                    "label": "Copy vscode.dev Link"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
@@ -859,6 +870,10 @@
                     {
                         "id": "workbench.view.extensions",
                         "label": "E&&xtensions"
+                    },
+                    {
+                        "id": "workbench.view.extension.test",
+                        "label": "T&&esting"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1834,14 +1849,14 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/JakeRA/.config/rofi",
-            "backupPath": "/home/JakeRA/.config/Code/Backups/84b7a4163b5c6b57f33a6fd41e00ec86",
+            "folder": "file:///home/JakeRA/my_project/Resume_Shortlisting",
+            "backupPath": "/home/JakeRA/.config/Code/Backups/8e479d6e69add6dcc06b9520c47b9dae",
             "uiState": {
                 "mode": 0,
                 "x": 0,
                 "y": 0,
                 "width": 800,
-                "height": 436
+                "height": 872
             }
         },
         "openedWindows": []

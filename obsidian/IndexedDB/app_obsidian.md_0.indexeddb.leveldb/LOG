@@ -1,3 +1,40 @@
-2025/03/10-14:25:38.876 41c3 Reusing MANIFEST /home/JakeRA/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
-2025/03/10-14:25:38.876 41c3 Recovering log #67
-2025/03/10-14:25:38.896 41c3 Reusing old log /home/JakeRA/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000067.log 
+2025/03/14-14:01:41.669 827f Reusing MANIFEST /home/JakeRA/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/14-14:01:41.669 827f Recovering log #88
+2025/03/14-14:01:41.669 827f Reusing old log /home/JakeRA/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000088.log 
+2025/03/14-14:01:41.918 8280 Compacting 1@1 + 2@2 files
+2025/03/14-14:01:41.924 8280 Generated table #91@1: 2872 keys, 1851011 bytes
+2025/03/14-14:01:41.924 8280 Compacted 1@1 + 2@2 files => 1851011 bytes
+2025/03/14-14:01:41.925 8280 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/14-14:01:41.925 8280 Delete type=2 #87
+2025/03/14-14:01:41.925 8280 Delete type=2 #86
+2025/03/14-14:01:41.925 8280 Delete type=2 #89
+2025/03/14-14:24:14.789 82dd Level-0 table #93: started
+2025/03/14-14:24:14.805 82dd Level-0 table #93: 3639101 bytes OK
+2025/03/14-14:24:14.811 82dd Delete type=0 #88
+2025/03/14-14:26:14.517 827f Compacting 1@1 + 1@2 files
+2025/03/14-14:26:14.533 827f Generated table #94@1: 2314 keys, 2137245 bytes
+2025/03/14-14:26:14.535 827f Generated table #95@1: 682 keys, 111694 bytes
+2025/03/14-14:26:14.535 827f Compacted 1@1 + 1@2 files => 2248939 bytes
+2025/03/14-14:26:14.536 827f compacted to: files[ 0 0 2 0 0 0 0 ]
+2025/03/14-14:26:14.536 827f Delete type=2 #93
+2025/03/14-14:26:14.536 827f Delete type=2 #91
+2025/03/14-14:42:33.019 827f Level-0 table #97: started
+2025/03/14-14:42:33.030 827f Level-0 table #97: 3704866 bytes OK
+2025/03/14-14:42:33.031 827f Delete type=0 #92
+2025/03/14-14:43:47.056 827f Compacting 1@1 + 2@2 files
+2025/03/14-14:43:47.071 827f Generated table #98@1: 3016 keys, 1786512 bytes
+2025/03/14-14:43:47.071 827f Compacted 1@1 + 2@2 files => 1786512 bytes
+2025/03/14-14:43:47.072 827f compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/14-14:43:47.072 827f Delete type=2 #94
+2025/03/14-14:43:47.072 827f Delete type=2 #95
+2025/03/14-14:43:47.072 827f Delete type=2 #97
+2025/03/14-14:51:41.936 8280 Level-0 table #100: started
+2025/03/14-14:51:41.958 8280 Level-0 table #100: 3862727 bytes OK
+2025/03/14-14:51:41.961 8280 Delete type=0 #96
+2025/03/14-14:55:44.728 827f Compacting 1@1 + 1@2 files
+2025/03/14-14:55:44.745 827f Generated table #101@1: 2562 keys, 2117508 bytes
+2025/03/14-14:55:44.752 827f Generated table #102@1: 737 keys, 952082 bytes
+2025/03/14-14:55:44.752 827f Compacted 1@1 + 1@2 files => 3069590 bytes
+2025/03/14-14:55:44.753 827f compacted to: files[ 0 0 2 0 0 0 0 ]
+2025/03/14-14:55:44.754 827f Delete type=2 #98
+2025/03/14-14:55:44.754 827f Delete type=2 #100

@@ -1,0 +1,17 @@
+2025-03-14 19:01:59.193 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-03-14 19:01:59.193 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-03-14 19:01:59.193 [info] Experiment 'pythonTestAdapter' is active
+2025-03-14 19:01:59.193 [warning] Dir "/home/JakeRA/my_project/Resume_Shortlisting/.pixi/envs" is not watchable (directory does not exist)
+2025-03-14 19:01:59.193 [info] Python interpreter path: ./.venv/bin/python
+2025-03-14 19:01:59.197 [info] > ~/.pyenv/bin/pyenv which python
+2025-03-14 19:01:59.197 [info] cwd: .
+2025-03-14 19:02:00.258 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/printEnvVariables.py
+2025-03-14 19:02:00.258 [info] shell: bash
+2025-03-14 19:02:01.079 [info] > ~/.pyenv/versions/3.12.3/bin/python ~/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/printEnvVariables.py
+2025-03-14 19:02:01.079 [info] shell: bash
+2025-03-14 19:02:01.147 [info] Setting environment variable VIRTUAL_ENV in collection to /home/JakeRA/my_project/Resume_Shortlisting/.venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-03-14 19:02:01.147 [info] Setting environment variable VIRTUAL_ENV_PROMPT in collection to resume-shortlisting-py3.13 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-03-14 19:02:01.147 [info] Prepending environment variable PS1 in collection with resume-shortlisting-py3.13 {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2025-03-14 19:02:01.147 [info] Prepending environment variable PATH in collection with /home/JakeRA/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/deactivate/bash:/home/JakeRA/my_project/Resume_Shortlisting/.venv/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-03-14 19:02:01.148 [info] Send text to terminal: /home/JakeRA/.pyenv/versions/3.12.3/bin/python /home/JakeRA/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/printEnvVariablesToFile.py /home/JakeRA/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/deactivate/bash/envVars.txt
+2025-03-14 19:02:01.509 [info] Starting Pylance language server.

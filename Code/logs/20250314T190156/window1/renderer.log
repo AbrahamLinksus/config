@@ -1,0 +1,49 @@
+2025-03-14 19:01:58.510 [info] Started local extension host with pid 58624.
+2025-03-14 19:01:58.558 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.252.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-14 19:01:58.558 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.253.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-14 19:01:58.558 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.266.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-14 19:01:58.559 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.270.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-14 19:01:58.565 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.271.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-14 19:01:58.565 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.272.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-14 19:01:58.566 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.275.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-14 19:01:58.566 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.284.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.98.0.
+2025-03-14 19:01:58.566 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.277.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-14 19:01:58.566 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.282.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.98.0.
+2025-03-14 19:01:58.584 [error] [/home/JakeRA/.vscode/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-14 19:01:58.590 [error] [/home/JakeRA/.vscode/extensions/ms-toolsai.jupyter-2025.1.0-linux-x64]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-14 19:01:58.594 [error] [/home/JakeRA/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-x64]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.98.0.
+2025-03-14 19:01:58.917 [info] Settings Sync: Updating due to initialize
+2025-03-14 19:01:58.917 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2025-03-14 19:01:58.917 [info] Settings Sync: Authentication providers updated []
+2025-03-14 19:01:58.937 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2025-03-14 19:01:58.937 [info] Settings Sync: Authentication providers updated ["github"]
+2025-03-14 19:01:58.938 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2025-03-14 19:01:58.938 [info] Settings Sync: Authentication providers updated ["github"]
+2025-03-14 19:01:58.938 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2025-03-14 19:01:58.938 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2025-03-14 19:01:58.938 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2025-03-14 19:01:58.938 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2025-03-14 19:01:58.952 [info] Settings Sync: Updating due to declared authentication providers changed
+2025-03-14 19:01:58.952 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2025-03-14 19:01:58.952 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2025-03-14 19:01:58.952 [info] Settings Sync: Updating due to declared authentication providers changed
+2025-03-14 19:01:58.952 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2025-03-14 19:01:58.953 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2025-03-14 19:01:59.140 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2025-03-14 19:01:59.140 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2025-03-14 19:02:01.145 [info] [perf] Render performance baseline is 24ms
+2025-03-14 19:02:30.798 [error] Cannot read the extension from /home/JakeRA/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-x64: ScanningExtension: Cannot read the extension from /home/JakeRA/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-x64
+    at Kl.scanLocalExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:73160)
+2025-03-14 19:02:30.800 [error] Cannot read the extension from /home/JakeRA/.vscode/extensions/github.copilot-1.284.0: ScanningExtension: Cannot read the extension from /home/JakeRA/.vscode/extensions/github.copilot-1.284.0
+    at Kl.scanLocalExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:73160)
+2025-03-14 19:07:27.784 [error] There are no commenting ranges at the current position (with range).: Error: There are no commenting ranges at the current position (with range).
+    at Ov.addCommentAtLine (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:644:2600)
+    at Ov.addOrToggleCommentAtLine (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:644:2138)
+    at Ov.db (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:644:1787)
+    at vZ.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:643:21213)
+    at Af.B (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:747)
+    at Af.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:817)
+    at Af.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:1034)
+    at Af.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:262:19570)
+    at s.onMouseUp (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:262:17539)
+    at fli.emitMouseUp (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:135:17522)

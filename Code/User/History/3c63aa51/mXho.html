@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Variable buttons</title>
+    <link rel="icon" href="data:;base64,=">
+
+</head>
+<body>
+    <p>Following buttons</p>
+    <button onclick="
+    console.log('The cart contains ${cart_items} items');
+    ">show cart</button>
+    <button onclick="
+    cart_items += 1;
+    console.log('The cart contains ${cart_items} items');
+    ">add to cart</button>
+    <button>+2</button>
+    <button>+3</button>
+    <button>reset cart</button>
+
+    <script>
+        let cart_items = 0;
+    </script>
+</body>
+</html>

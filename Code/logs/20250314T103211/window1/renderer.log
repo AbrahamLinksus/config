@@ -1,0 +1,94 @@
+2025-03-14 10:32:13.995 [info] Started local extension host with pid 17818.
+2025-03-14 10:32:14.068 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.252.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-14 10:32:14.068 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.266.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-14 10:32:14.069 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.253.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-14 10:32:14.069 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.270.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-14 10:32:14.069 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.271.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-14 10:32:14.076 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.272.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-14 10:32:14.076 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.275.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-14 10:32:14.076 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.277.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-14 10:32:14.076 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.284.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.98.0.
+2025-03-14 10:32:14.076 [error] [/home/JakeRA/.vscode/extensions/github.copilot-1.282.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.98.0.
+2025-03-14 10:32:14.097 [error] [/home/JakeRA/.vscode/extensions/ms-toolsai.jupyter-2025.1.0-linux-x64]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.97.0.
+2025-03-14 10:32:14.098 [error] [/home/JakeRA/.vscode/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2025-03-14 10:32:14.103 [error] [/home/JakeRA/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-x64]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.98.0.
+2025-03-14 10:32:14.320 [info] Settings Sync: Updating due to initialize
+2025-03-14 10:32:14.320 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2025-03-14 10:32:14.320 [info] Settings Sync: Authentication providers updated []
+2025-03-14 10:32:14.436 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2025-03-14 10:32:14.436 [info] Settings Sync: Authentication providers updated ["github"]
+2025-03-14 10:32:14.437 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2025-03-14 10:32:14.437 [info] Settings Sync: Authentication providers updated ["github"]
+2025-03-14 10:32:14.437 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2025-03-14 10:32:14.437 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2025-03-14 10:32:14.437 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2025-03-14 10:32:14.438 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2025-03-14 10:32:14.438 [info] Settings Sync: Updating due to declared authentication providers changed
+2025-03-14 10:32:14.438 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2025-03-14 10:32:14.438 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2025-03-14 10:32:14.438 [info] Settings Sync: Updating due to declared authentication providers changed
+2025-03-14 10:32:14.439 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2025-03-14 10:32:14.439 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2025-03-14 10:32:15.084 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2025-03-14 10:32:15.084 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2025-03-14 10:32:16.633 [info] [perf] Render performance baseline is 18ms
+2025-03-14 10:32:45.577 [error] Cannot read the extension from /home/JakeRA/.vscode/extensions/github.copilot-1.284.0: ScanningExtension: Cannot read the extension from /home/JakeRA/.vscode/extensions/github.copilot-1.284.0
+    at Kl.scanLocalExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:73160)
+2025-03-14 10:32:45.590 [error] Cannot read the extension from /home/JakeRA/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-x64: ScanningExtension: Cannot read the extension from /home/JakeRA/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-x64
+    at Kl.scanLocalExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:73160)
+2025-03-14 15:32:18.078 [error] [network] #65: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-03-14 15:32:18.078 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-14 15:37:18.600 [error] [network] #66: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-03-14 15:37:18.628 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-14 15:42:19.378 [error] [network] #67: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-03-14 15:42:19.401 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-14 15:47:20.025 [error] [network] #68: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-03-14 15:47:20.054 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-14 15:52:26.685 [error] [network] #69: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-03-14 15:52:26.712 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-14 15:57:37.703 [error] [network] #70: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-03-14 15:57:37.732 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-14 16:02:45.388 [error] [network] #71: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-03-14 16:02:45.411 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-14 16:07:46.138 [error] [network] #72: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-03-14 16:07:46.161 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-14 16:12:47.120 [error] [network] #73: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-03-14 16:12:47.149 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-14 16:17:48.996 [error] [network] #74: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-03-14 16:17:49.020 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-14 16:22:50.127 [error] [network] #75: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-03-14 16:22:50.150 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-14 16:27:50.996 [error] [network] #76: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-03-14 16:27:51.019 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-14 16:32:51.932 [error] [network] #77: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-03-14 16:32:51.957 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-14 16:37:52.989 [error] [network] #78: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-03-14 16:37:53.018 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-14 16:42:54.252 [error] [network] #79: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-03-14 16:42:54.275 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-14 16:47:54.927 [error] [network] #80: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-03-14 16:47:54.951 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-14 16:52:55.429 [error] [network] #81: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-03-14 16:52:55.454 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-14 16:57:55.895 [error] [network] #82: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-03-14 16:57:55.919 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-14 17:02:56.469 [error] [network] #83: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-03-14 17:02:56.493 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-14 17:07:56.972 [error] [network] #84: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-03-14 17:07:56.995 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-14 17:12:57.369 [error] [network] #85: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-03-14 17:12:57.393 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-14 17:17:57.770 [error] [network] #86: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-03-14 17:17:57.795 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-14 17:22:58.609 [error] [network] #87: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-03-14 17:22:58.633 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-14 17:27:59.065 [error] [network] #88: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-03-14 17:27:59.088 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-14 17:32:59.549 [error] [network] #89: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-03-14 17:32:59.573 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-14 17:38:00.375 [error] [network] #90: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-03-14 17:38:00.399 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-14 17:43:01.005 [error] [network] #91: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-03-14 17:43:01.029 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-14 17:48:01.118 [error] [network] #92: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-03-14 17:48:01.155 [warning] Failed to fetch chat participant registry Failed to fetch

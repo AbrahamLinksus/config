@@ -1,0 +1,50 @@
+2025-03-14 08:49:49.819 [info] [main] Log level: Info
+2025-03-14 08:49:49.819 [info] [main] Validating found git in: "git"
+2025-03-14 08:49:49.819 [info] [main] Using git "2.48.1" from "git"
+2025-03-14 08:49:49.819 [info] [Model][doInitialScan] Initial repository scan started
+2025-03-14 08:49:49.819 [info] > git rev-parse --show-toplevel [4ms]
+2025-03-14 08:49:49.819 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2025-03-14 08:49:49.825 [info] [Model][openRepository] Opened repository: /home/JakeRA/learning/html/Portfolio
+2025-03-14 08:49:49.833 [info] > git config --get commit.template [3ms]
+2025-03-14 08:49:49.835 [info] > git rev-parse --show-toplevel [4ms]
+2025-03-14 08:49:50.448 [info] > git rev-parse --show-toplevel [136ms]
+2025-03-14 08:49:50.449 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-03-14 08:49:50.450 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [146ms]
+2025-03-14 08:49:50.492 [info] > git show --textconv :style.css [20ms]
+2025-03-14 08:49:50.492 [info] > git ls-files --stage -- /home/JakeRA/learning/html/Portfolio/style.css [11ms]
+2025-03-14 08:49:50.505 [info] > git cat-file -s 75b3e11d3bd80c651b2f34f9ead422df3fce4052 [4ms]
+2025-03-14 08:49:50.526 [info] > git status -z -uall [11ms]
+2025-03-14 08:49:50.526 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-03-14 08:49:50.551 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [14ms]
+2025-03-14 08:49:50.560 [info] > git config --local branch.main.vscode-merge-base [1ms]
+2025-03-14 08:49:50.560 [warning] [Git][config] git config failed: Failed to execute git
+2025-03-14 08:49:50.568 [info] > git config --get commit.template [21ms]
+2025-03-14 08:49:50.583 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-03-14 08:49:50.583 [info] > git reflog main --grep-reflog=branch: Created from *. [15ms]
+2025-03-14 08:49:50.618 [info] > git status -z -uall [11ms]
+2025-03-14 08:49:50.618 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [23ms]
+2025-03-14 08:49:50.618 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-03-14 08:49:50.618 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2025-03-14 08:49:50.633 [info] > git merge-base refs/heads/main refs/remotes/origin/main [5ms]
+2025-03-14 08:49:50.641 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [24ms]
+2025-03-14 08:49:50.652 [info] > git merge-base refs/heads/main refs/remotes/origin/main [2ms]
+2025-03-14 08:49:50.661 [info] > git diff --name-status -z --diff-filter=ADMR 831e64c324ab27593f74bddf206f79fb070ac2de...refs/remotes/origin/main [20ms]
+2025-03-14 08:49:50.663 [info] > git diff --name-status -z --diff-filter=ADMR 831e64c324ab27593f74bddf206f79fb070ac2de...refs/remotes/origin/main [2ms]
+2025-03-14 08:49:51.393 [info] > git check-ignore -v -z --stdin [18ms]
+2025-03-14 08:49:51.478 [info] > git show --textconv :index.html [42ms]
+2025-03-14 08:49:51.478 [info] > git ls-files --stage -- /home/JakeRA/learning/html/Portfolio/index.html [33ms]
+2025-03-14 08:49:51.488 [info] > git cat-file -s 87199442a3312894084b3719c335226da8109180 [2ms]
+2025-03-14 08:50:18.140 [info] > git show --textconv :style.css [14ms]
+2025-03-14 08:50:18.141 [info] > git ls-files --stage -- /home/JakeRA/learning/html/Portfolio/style.css [1ms]
+2025-03-14 08:50:18.150 [info] > git cat-file -s 75b3e11d3bd80c651b2f34f9ead422df3fce4052 [1ms]
+2025-03-14 08:50:26.772 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-03-14 08:50:26.773 [info] > git config --get commit.template [17ms]
+2025-03-14 08:50:26.810 [info] > git status -z -uall [20ms]
+2025-03-14 08:50:26.811 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-14 08:50:28.058 [info] > git show --textconv :index.html [16ms]
+2025-03-14 08:50:28.059 [info] > git ls-files --stage -- /home/JakeRA/learning/html/Portfolio/index.html [2ms]
+2025-03-14 08:50:28.076 [info] > git cat-file -s 87199442a3312894084b3719c335226da8109180 [1ms]
+2025-03-14 08:50:33.556 [info] > git config --get commit.template [22ms]
+2025-03-14 08:50:33.557 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-14 08:50:33.598 [info] > git status -z -uall [20ms]
+2025-03-14 08:50:33.600 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
